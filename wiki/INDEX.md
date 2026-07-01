@@ -78,6 +78,7 @@ This index catalogs the compiled wiki topics from the current source set, organi
 - `processed/How I Built a Sales Research Pipeline Entirely Inside Google's Ecosystem.md` - Covered in [[ai-marketing-automation-workflows]] and [[ai-assisted-market-research-and-validation]].
 - `processed/25k followers, 45M impressions on X using claude. Here's how.md` - Covered in [[creator-led-solopreneurship]], [[ai-marketing-automation-workflows]], and [[agent-skills-and-agent-native-tools]].
 - `processed/48 Meetings From 120 Leads in Two Weeks.md` - Covered in [[distribution-led-ai-startups]], [[cold-email-deliverability-2026]], and [[ai-marketing-automation-workflows]].
+- `processed/5 ways to get customers with no audience.md` - Covered in [[distribution-led-ai-startups]].
 - `processed/SaaStr AI App of the Week Helply. The Bootstrapped B2B Support Platform That’s Free Forever, Charges Only When AI Actually Resolves a Ticket, and Showed Up to SaaStr AI 2026 With Giant Pandas.md` - Covered in [[micro-saas-and-bootstrapped-apps]] and [[ai-native-startup-strategy]].
 - `processed/The Beginner-Friendly Claude AI Side Hustle Nobody Talks About.md` - Covered in [[agent-skills-and-agent-native-tools]] and [[creator-led-solopreneurship]].
 - `processed/The $1M+ Solo AI Agent Business (Full Course).md` - Covered in [[ai-native-service-agencies]], [[agent-skills-and-agent-native-tools]], and [[ai-native-startup-strategy]].
@@ -96,11 +97,13 @@ This index catalogs the compiled wiki topics from the current source set, organi
 - `processed/Content Distribution for SaaS Founders How to Get Seen Without Paid Ads.md` - Covered in [[distribution-led-ai-startups]] and [[ai-marketing-automation-workflows]].
 - `processed/I Posted 12 Medium Articles “Naked.” Then I Submitted Two to a Publication. Here’s the Difference..md` - Covered in [[distribution-led-ai-startups]], [[creator-led-solopreneurship]], and [[seo-and-ai-search-strategy]].
 - `processed/How One Person Ships Marketing Pages 12x Faster After Ditching Webflow.md` - Covered in [[agent-skills-and-agent-native-tools]], [[website-conversion-and-b2b-lead-generation]], [[distribution-led-ai-startups]], [[ai-marketing-automation-workflows]], and [[seo-and-ai-search-strategy]].
+- `processed/I Audited AI SEO for Websites. The $0.035 Check Catches What Most Teams Miss..md` - Covered in [[seo-and-ai-search-strategy]].
 - `processed/I Built MCP Servers for 9 SaaS APIs. Here’s the Business Model Nobody’s Talking About..md` - Covered in [[agent-skills-and-agent-native-tools]], [[ai-native-service-agencies]], [[micro-saas-and-bootstrapped-apps]], and [[distribution-led-ai-startups]].
 - `processed/LLMs are picking winners. Here’s how to become one..md` - Covered in [[answer-engine-optimization]], [[seo-and-ai-search-strategy]], and [[distribution-led-ai-startups]].
 - `processed/How Growbots uses Claude Code + Val Town MCP for frictionless deployment.md` - Covered in [[agent-skills-and-agent-native-tools]] and [[ai-marketing-automation-workflows]].
 - `processed/Non-obvious SEO advice for startups.md` - Covered in [[seo-and-ai-search-strategy]], [[answer-engine-optimization]], and [[distribution-led-ai-startups]].
 - `processed/I Built an AI System to Run My Content Operation. Here's the Whole Thing..md` - Covered in [[ai-marketing-automation-workflows]] and [[creator-led-solopreneurship]].
+- `processed/I Started a Faceless TikTok. 301 People Bought My Looksmaxing PDF..md` - Covered in [[creator-led-solopreneurship]] and [[distribution-led-ai-startups]].
 - `processed/How I’d Generate Website Development Leads Without Wasting Hours.md` - Covered in [[website-conversion-and-b2b-lead-generation]] and [[distribution-led-ai-startups]].
 - `processed/Distribution You Don't Pay For.md` - Covered in [[distribution-led-ai-startups]].
 - `processed/Easiest Way to Make Money with AI (raw 2026-06-11 copy).md` - Covered in [[service-business-ai-consulting]].
@@ -114,6 +117,7 @@ This index catalogs the compiled wiki topics from the current source set, organi
 - `processed/The Reddit Marketing Strategy Behind $30K MRR and 11M Views.md` - Covered in [[distribution-led-ai-startups]].
 - `processed/The Solo Founder's Guide to SaaS Launch Copy How to Write Landing Pages, Product Hunt Posts, and Cold Outreach Without a Marketing Team.md` - Covered in [[distribution-led-ai-startups]] and [[website-conversion-and-b2b-lead-generation]].
 - `processed/The exact system behind getting cited by ChatGPT in 30 days.md` - Covered in [[answer-engine-optimization]] and [[seo-and-ai-search-strategy]].
+- `processed/Public prediction pages are the SEO moat I wish I'd built sooner.md` - Covered in [[distribution-led-ai-startups]], [[seo-and-ai-search-strategy]], and [[micro-saas-and-bootstrapped-apps]].
 - `processed/guidesLOCAL-DOMINATION-BLUEPRINT.md at main.md` - Covered in [[seo-and-ai-search-strategy]] and [[website-conversion-and-b2b-lead-generation]].
 - `processed/how to enter side doors.md` - Covered in [[proof-of-work-and-side-door-outreach]] and [[creator-led-solopreneurship]].
 - `processed/Alex Groberman on X This business now gets $98,159month in organic search traffic value.They've also added 500+ ChatGPT citations, 1.4K Perplexity citations and 1.3K Grok citations.They did this by following a 6-step process. Here's how they did.md` - Covered in [[answer-engine-optimization]], [[seo-and-ai-search-strategy]], and [[distribution-led-ai-startups]].

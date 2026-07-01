@@ -29,6 +29,8 @@ These connect to [[seo-and-ai-search-strategy]], [[ai-marketing-automation-workf
 
 The PostHog AEO source makes the answer-engine play more operational. LLM traffic can become a meaningful, high-converting channel, but visibility varies by product category and model. Teams should test prompts real buyers would ask, track whether they are mentioned, add a self-reported attribution question for AI referrals, collect the exact prompts users typed, and combine prompt-visibility tools with search, referrer, bot, and product analytics. See [[answer-engine-optimization]].
 
+Rob Walling's early-customer framework adds a simpler pre-audience layer. Before a founder has audience, SEO scale, or product loops, the fastest acquisition path is direct contact with a specific person who has a specific problem in a place the founder can already reach. The five useful motions are: join the communities where buyers already ask for help, send cold emails with one line of real personalization plus a free artifact, put up a simple waitlist page before building, pre-sell with a prototype demo, and invest in a warm network before trying to manufacture a broad audience. This fits the broader thesis of this page: traction usually starts with targeted conversations, not passive attention.
+
 ## Organic Rhythm and Content Recycling
 
 The ChatSEO source adds an execution layer to organic distribution. ChatSEO grew to roughly EUR14K MRR with no paid ads by combining a founder audience, strict beta calls, free mini-audits, and a disciplined eight-channel organic stack: LinkedIn, YouTube, outbound LinkedIn, newsletter, X, SEO, free tools, and smaller channels such as WhatsApp, Reddit, podcasts, and affiliates.
@@ -62,6 +64,15 @@ Aline adds a one-marketer version of the same system. Broad TAM coverage comes f
 Bacotto makes the programmatic SEO play more concrete. The product targets fragmented local-B2B demand by generating pages for region and industry combinations, but avoids pushing every possible page into the index. A tier and popularity gate decides which combinations are indexable, while weaker combinations are noindexed. The same filter powers both robots and sitemap generation.
 
 The important pattern is not "generate thousands of pages." It is structured page generation plus a quality threshold. This keeps programmatic SEO closer to useful local search coverage and farther from scaled-content spam. Bacotto also pings IndexNow daily via Vercel Cron, which gives Bing, Yandex, and Naver a faster discovery path while Google crawls at its own pace.
+
+The Watching Agents source adds a product-native version of the same idea. Instead of publishing more editorial content, the product's core user action creates public pages with real search intent, their own URLs, related-question links, and structured FAQ data. The useful framework is strict:
+
+- Index user-created pages only when a stranger would find them useful from search.
+- Keep creator-only or contextless content private or noindex.
+- Shape titles so they match the way people actually search.
+- Treat schema and internal links as part of the feature, not a later marketing patch.
+
+This is a stronger moat than generic blogging when usage itself expands the site's indexable surface area.
 
 ## Conversion Infrastructure
 
@@ -98,6 +109,8 @@ The Slidetik source turns content distribution into a smaller SaaS-specific oper
 The useful channel split is discovery, trust, and capture. Discovery can be TikTok slideshows, YouTube Shorts, Reddit, SEO, or short demos. Trust can be LinkedIn, X, founder notes, changelogs, and build-in-public posts. Capture can be email, trial, waitlist, demo booking, or a focused onboarding flow. The key is not being everywhere; it is repeating one insight across surfaces with an obvious next step.
 
 The Medium publication source adds a tactical distribution warning: publishing is not the same as entering a channel's distribution layer. The author posted 12 Medium articles without submitting to publications and got almost no internal exposure. Two later submissions to Startup Stash generated more presentations than many "naked" articles combined. For founder content, distribution steps such as publication submission, community posting, syndication, newsletter swaps, and partner channels should be part of the publishing checklist.
+
+The faceless TikTok PDF source adds a low-friction info-product variant. The creator did not invent a demand category; they noticed repeated obsessive questions, answered them in short faceless videos, packaged the answers into a simple PDF, and sold usefulness before polish. The durable lesson is that distribution can start by repeatedly answering one emotionally charged question in the feed where people already ask it. A minimal paid artifact can convert before the creator has a brand, funnel, or polished course.
 
 ## Owned Growth Loops
 
@@ -237,6 +250,12 @@ The distribution lesson is restraint. Use a small SEO stack, talk to users befor
 `processed/The stuff nobody tells you about startup marketing.md`: PostHog argues that early startup marketing is already happening wherever the company closes the gap with people who care. It recommends depth-first channel work, matching channel to PLG or sales-led motion, experiment framing, qualitative attribution, avoiding agencies too early, and hiring a generalist marketer only after real pull exists.
 
 `processed/How I Built a $50KMo Substack Business (Full Breakdown).md`: Relevant here because it treats a publication as owned distribution infrastructure: free content and collaborations create discovery, subscriptions create a direct relationship, and launches plus offer ladders convert attention into multiple revenue events.
+
+`processed/5 ways to get customers with no audience.md`: Adds Rob Walling's early-traction playbook: be useful in existing communities, cold email with a free artifact, test interest with a simple landing page, pre-sell with a prototype, and treat network-building as a better early investment than broad audience-building.
+
+`processed/Public prediction pages are the SEO moat I wish I'd built sooner.md`: Adds a product-native SEO loop where each useful public prediction becomes an indexable page, user activity expands search surface area, and title structure plus schema determine whether UGC becomes a moat or noise.
+
+`processed/I Started a Faceless TikTok. 301 People Bought My Looksmaxing PDF..md`: Adds a simple distribution lesson for digital products: repeated public questions plus faceless short-form answers can be enough to sell a rough PDF when the packaged answer is clearer than existing free discussion.
 
 `processed/Building a B2B Sales-List SaaS with Next.js + Vercel KV + Google Places API — Full architecture deep dive.md`: Adds a concrete programmatic SEO implementation for local-B2B software: generate region-by-industry pages, gate indexability by city tier and industry popularity, reuse the same filter in robots and sitemaps, and ping IndexNow on a cron.
 

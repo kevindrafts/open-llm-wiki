@@ -50,6 +50,8 @@ This pattern works when:
 - Multilingual pages can reuse the same underlying tool to open new markets.
 - Monetization can tolerate low intent per visitor, such as lightweight ads or later tool-adjacent offers.
 
+The Watching Agents source adds a UGC-powered variation on the one-function model. The core product action is simple, but each public prediction creates a useful, indexable page that compounds search surface area without requiring the team to write more blog posts. The important constraint is that the generated page must be useful to strangers, not just to the creator. That makes "usage equals distribution" a viable moat for small products with strong question-shaped outputs.
+
 ## Unbundled API Wrapper Businesses
 
 The "tiny tools" source extends the one-function pattern with an API-arbitrage version: pick one capability from a broad platform such as Apify, Clay, Zapier, Reddit, Google Maps, Indeed, Upwork, Amazon, ImportYeti, BuiltWith, Zillow, or BizBuySell; wrap it in a simpler interface; target one buyer tribe; and charge for convenience, focus, support, and clearer packaging.
@@ -167,6 +169,8 @@ Good signals in job posts include specific requirements, realistic budget, buyer
 `processed/I Told an AI Agent to Make Me Money. It Did..md`: Adds the email-delivered micro-SaaS pattern through DreamTales: recurring personalized output can be delivered in inboxes where users already live, avoiding the friction of a new mobile app.
 
 `processed/Inside a Tiny Empire Plausible Analytics.md`: Adds a bootstrapped SaaS case study: a simple privacy-first analytics product grew from Google Analytics frustration by combining open-source trust, pageview-based pricing, developer communities, alternative/compliance SEO, and transparent company writing.
+
+`processed/Public prediction pages are the SEO moat I wish I'd built sooner.md`: Adds a product architecture lesson for bootstrapped apps: when the core action generates public, searchable pages with standalone value, the app can grow its own SEO surface through usage instead of relying only on editorial content.
 
 ## Related
 

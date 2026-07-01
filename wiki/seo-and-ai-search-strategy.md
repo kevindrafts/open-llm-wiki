@@ -66,6 +66,20 @@ Useful implementation details:
 - Treat thin local pages as a liability, not free traffic.
 - Use cron-based IndexNow pings as a supplemental discovery channel for engines that support it.
 
+The TokenMix AI SEO audit source argues that most "AI SEO" wins still come from boring structure rather than prompt hacks or speculative files. The strongest checklist is straightforward:
+
+- Make the title and H1 specific to the page's real topic.
+- Put a direct answer in the opening paragraph.
+- Use H2s as clear retrievable chunks.
+- Turn comparisons and facts into tables where possible.
+- Add FAQs that match real buyer questions.
+- Use schema only when it matches visible content.
+- Strengthen internal links, canonical URLs, sitemap coverage, and crawlable HTML.
+
+The practical idea is to use cheap structural audits for broad triage, then spend deeper review time only on revenue pages and URLs that already show demand. That reinforces the broader wiki view that AI search visibility is stricter SEO, not a separate channel with separate fundamentals.
+
+The Watching Agents source adds a product-surface version of programmatic SEO. Public prediction pages worked because each page answered a searchable question for a stranger, had a unique URL, included FAQ schema and internal links, and used suggested title formats that mirrored search phrasing. The useful rule is to index only user-generated content that has standalone value for non-users. That keeps product-generated SEO from collapsing into thin-page spam.
+
 The CITED source pushes the same idea toward AI answer visibility. It argues that AI answers fan out into related sub-queries, so topical authority comes from answering the whole cluster rather than only the head term. The strongest pages use proprietary data that competitors cannot copy easily: local timelines, permit data, pricing breakdowns, process details, customer outcomes, and internal benchmarks.
 
 The SEO Stuff/X case adds a commercial-site version of this. Product and category pages should not be thin catalog copy; they should be built as category knowledge hubs with TL;DRs, buyer questions, use-case explanations, comparison language, product context, and supporting internal links. Supporting articles should target best/top/alternative/use-case searches and point back to the relevant commercial page. This turns SEO and GEO into one clustered system: commercial pages, buyer guides, internal links, structured answers, and category-aligned offsite mentions all reinforce the same brand-category association.
@@ -150,6 +164,10 @@ The Claude SEO skills source turns SEO work into reusable agent procedures. Inst
 `processed/Claude SEO Skills 101 Master Claude for SEO.md`: Adds reusable Claude skills as an SEO operations model for content refreshes, internal linking, meta audits, writing style, subagent research, context files, and scheduled execution.
 
 `processed/This is How You Get Your Homepage Viral.md`: Adds Reddit as an SEO/AEO consensus surface where subreddit-specific discussions, honest founder participation, and durable threads can shape Google rankings and AI answers.
+
+`processed/I Audited AI SEO for Websites. The $0.035 Check Catches What Most Teams Miss..md`: Adds a practical AI-SEO stance that prioritizes crawlable HTML, specific titles, direct-answer intros, useful H2 chunking, tables, FAQs, matched schema, internal links, and cheap URL-level structural audits before deeper consulting work.
+
+`processed/Public prediction pages are the SEO moat I wish I'd built sooner.md`: Adds product-generated SEO surface area as a moat when user activity creates public pages with real search intent, clean titles, unique URLs, FAQ schema, and related-page links.
 
 ## Related
 

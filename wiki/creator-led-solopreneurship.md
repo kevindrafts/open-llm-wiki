@@ -90,6 +90,15 @@ The reported economics are small but useful: products priced around $19-$49, 60-
 
 The Medium publication source adds a distribution mechanic to creator publishing. Publishing a post is only artifact creation; submitting to a publication is distribution. For solo founders using Medium, the publish checklist should include publication submission, external sharing, and a path from reads to follows or subscribers.
 
+The faceless TikTok PDF source adds a stripped-down creator path with almost no brand overhead. The creator noticed repeated questions people were already asking, used faceless short videos to answer them, packaged the answers into a rough PDF, and sold clarity rather than polish. The point is not TikTok specifically. It is that a solo creator can monetize obsessive, repeated questions with a small information product before they have a personal brand, polished funnel, or full course.
+
+Useful rules from that source:
+
+- Notice repeated questions before inventing a topic.
+- Package the answer in the smallest format that solves the confusion.
+- Use AI as an employee for drafting and cleanup, not as an autopilot for slop.
+- Ship before the product feels finished if the answer is already useful.
+
 The side-door source broadens creator-led work into proof-of-work career and opportunity creation. Public essays, guides, datasets, prototypes, and memos can act as ambassadors for how a person thinks. For creators, this means the audience is not only a monetization asset; it is also a surface where aligned collaborators, employers, clients, and founders can discover unusual fit. See [[proof-of-work-and-side-door-outreach]].
 
 ## Source Summaries
@@ -123,6 +132,8 @@ The side-door source broadens creator-led work into proof-of-work career and opp
 `processed/how to enter side doors.md`: Adds proof-of-work as an opportunity engine: public artifacts and specific outreach make a person's thinking legible to the right people before a formal role, client need, or collaboration exists.
 
 `processed/I Built a Claude Code AI Agent That Runs My Content Distribution While I Sleep.md`: Adds a creator automation OS where newsletter writing remains human, while article ingestion, wiki filing, Reddit/LinkedIn repurposing, Slack approval queues, and weekly instruction tuning run through scheduled Claude Code routines.
+
+`processed/I Started a Faceless TikTok. 301 People Bought My Looksmaxing PDF..md`: Adds a minimal creator-product loop: spot repeated public questions, answer them with faceless short-form content, package the answer into a rough PDF, and let usefulness beat production polish.
 
 ## Related
 
