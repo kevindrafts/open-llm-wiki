@@ -32,6 +32,10 @@ Shipper adds an AI-era copycat case. The founders reportedly studied public comp
 
 The growth pattern was similarly narrow: Product Hunt for the first signal, Reddit for early niche traction, long-tail competitor SEO such as alternatives and pricing queries, and building in public on X while dogfooding the product. This belongs in the copying pattern because the copy was market selection, not blind cloning.
 
+Meteorra AI adds a compact, solo-founder version of the same logic. Instead of launching one "AI for YouTube" product and polishing it for months, the founder broke the category into several tightly scoped tools: metadata analysis, competitor insights, idea validation, thumbnail analysis, and pre-publish strategy generation. The useful pattern is modularity. Multiple narrow tools can expose which sub-jobs attract signups, feedback, and search traffic before the founder commits to a larger platform thesis.
+
+The case is also a reminder that speed alone is not the insight. The founder shipped bugs, accepted imperfect UX, and used community comments plus early search traction to decide what mattered. That fits the broader bootstrapped-app rule: fast shipping is only useful when each release is instrumented to collect clearer demand signals.
+
 ## One-Function Businesses
 
 Angus Cheng's Bank Statement Converter shows the opposite of broad SaaS ambition: one clear job, strong search intent, and years of product improvement. Paid ads were useful for initial validation but not profitable. Organic traffic and product quality became the growth engine.
@@ -159,6 +163,8 @@ Good signals in job posts include specific requirements, realistic budget, buyer
 `processed/How I Run 3 Production AI SaaS on $5Month of Hosting.md`: Adds a production-stack pattern for solo AI SaaS: Cloudflare, Supabase, Upstash, Resend, Brevo, Paddle/Razorpay, R2, and pay-per-call APIs keep fixed infra costs low while AI development and runtime spend remain the meaningful variable costs.
 
 `processed/How Shipper's Founders Built a $2M AI SaaS by Copying a $1B Company.md`: Adds an AI-app-builder copycat playbook: use competitor complaints and public roadmaps to find the overlooked wedge, simplify UX for non-technical users, and grow with Product Hunt, Reddit, competitor SEO, and building in public.
+
+`processed/Shipped 5 tools in 3 weeks as a solo founder — here's what I learned building Meteorra AI.md`: Adds a modular micro-tool playbook for a solo founder: ship several narrow tools quickly, use free utility as acquisition, mine community feedback, test comparison-page SEO early, and let traction reveal which sub-workflows deserve more investment.
 
 `processed/I Turned Claude AI into a $6,200Month Digital Product Machine.md`: Adds a low-end digital product pattern adjacent to micro-SaaS: use Claude to draft prompt packs, Notion templates, and niche ebooks, then add human examples, price impulse-friendly, sell on Gumroad, and improve from buyer feedback.
 

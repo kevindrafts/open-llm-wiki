@@ -74,6 +74,8 @@ The Watching Agents source adds a product-native version of the same idea. Inste
 
 This is a stronger moat than generic blogging when usage itself expands the site's indexable surface area.
 
+Meteorra AI adds a lighter-weight pre-scale version of the same distribution instinct. Instead of generating thousands of pages, the founder shipped six comparison pages around "alternative" intent, and some began ranking within days. The pattern is useful for early-stage products: narrow competitor-comparison or alternative pages can start collecting commercial search demand before a company has domain authority for broader category terms, especially when they are paired with free tools that give visitors an immediate reason to try the product.
+
 ## Conversion Infrastructure
 
 The Claude Code workflow source adds the post-click layer: use agents to generate lead magnets, build landing pages, refine designs, install analytics, run A/B tests, and save performance results back into a persistent project context. The website-conversion sources sharpen this point: most pages should be audited for clarity, proof, CTA specificity, mobile speed, and conversion instrumentation before assuming the channel is broken.
@@ -107,6 +109,8 @@ This model depends on consistency, topic-market fit, and a lean tool stack. It i
 The Slidetik source turns content distribution into a smaller SaaS-specific operating system: one product truth, one primary weekly asset, several channel-native derivatives, and one conversion path. Product truth means a specific objection, metric, workflow, mistake, or customer insight the product reveals. That truth can become a TikTok slideshow, LinkedIn carousel, X thread, Reddit answer, email, and blog section.
 
 The useful channel split is discovery, trust, and capture. Discovery can be TikTok slideshows, YouTube Shorts, Reddit, SEO, or short demos. Trust can be LinkedIn, X, founder notes, changelogs, and build-in-public posts. Capture can be email, trial, waitlist, demo booking, or a focused onboarding flow. The key is not being everywhere; it is repeating one insight across surfaces with an obvious next step.
+
+Meteorra adds an early-founder distribution sequencing lesson inside this model. With roughly 100 X followers, the founder reports that replies on larger accounts produced materially more impressions than original posts. That is a useful reminder that borrowed reach can outperform audience-building vanity work at the start. Combined with directory submissions, third-party features such as Medium publications, and pre-launch communities like Fazier, this creates a practical "small founder" stack: ship several useful entry points, borrow attention where possible, and let each surface feed signups into the same product family.
 
 The Medium publication source adds a tactical distribution warning: publishing is not the same as entering a channel's distribution layer. The author posted 12 Medium articles without submitting to publications and got almost no internal exposure. Two later submissions to Startup Stash generated more presentations than many "naked" articles combined. For founder content, distribution steps such as publication submission, community posting, syndication, newsletter swaps, and partner channels should be part of the publishing checklist.
 
@@ -276,6 +280,8 @@ The distribution lesson is restraint. Use a small SEO stack, talk to users befor
 `processed/How One Person Ships Marketing Pages 12x Faster After Ditching Webflow.md`: Adds a distribution infrastructure case where an agent-managed code site enables faster ABM pages, comparison pages, calculators, localization, structured data, internal links, redirects, and AI-search-ready markdown endpoints.
 
 `processed/How Shipper's Founders Built a $2M AI SaaS by Copying a $1B Company.md`: Adds a copycat distribution case: mine competitor complaints and public roadmaps for the wedge, then launch through Product Hunt, Reddit, competitor SEO, and building in public on X.
+
+`processed/Shipped 5 tools in 3 weeks as a solo founder — here's what I learned building Meteorra AI.md`: Adds an early-stage distribution case built around fast-shipped free tools, alternative/comparison SEO pages, directory launches, publication features, and reply-led X distribution before the founder has meaningful owned audience.
 
 `processed/LLMs are picking winners. Here’s how to become one..md`: Adds a practical AEO distribution loop: test real buyer prompts, structure owned content for chunk-level citation, ask AI-referred users which prompts they used, and combine multiple imperfect reporting sources instead of trusting one visibility dashboard.
 

@@ -106,6 +106,19 @@ The copywriting source emphasizes plain, specific, customer-centered writing:
 
 This is useful for [[ai-assisted-market-research-and-validation]] because customer-language research from Reddit, calls, emails, and support tickets can become stronger headlines, objection handling, and landing-page sections.
 
+The direct-response copy skill source extends this from "clear business writing" into a fuller persuasion system. Its strongest recurring rules are: make the headline carry most of the conversion work, quantify pain so buyers can weigh the cost of inaction, push feature claims down a "so what?" chain until they become emotional or financial outcomes, use curiosity carefully to pull readers through the page, and make CTAs describe the benefit rather than the mechanical action.
+
+The most transferable direct-response patterns:
+
+- Use before/after or contrast headlines that compress the transformation into one line.
+- Open with a challenge, confession, result, or scene rather than generic welcome copy.
+- Structure testimonials as mini case studies with timeframe, outcome, and emotional reaction.
+- Add disqualification or "not for you" language when it helps pre-filter weak-fit buyers.
+- Put friction reducers under the CTA: price, time-to-value, proof, or setup speed.
+- Remove AI-sounding words, over-organization, and lifeless grammar that reduce trust.
+
+This source is especially useful because it treats copy as page architecture rather than decoration. The page should move from hook to pain to proof to offer to CTA with deliberate momentum, not as a stack of isolated sections.
+
 ## Real Questions Beat Hypothetical Objections
 
 The BailleurVérif source gives a concrete AI-assisted copy workflow. An autonomous agent scraped public Reddit questions from French renters, filtered the dataset from 50 raw posts to 35 relevant questions, categorized them by pain, published the anonymized dataset, and then replaced hypothetical homepage copy with the top real questions and visible subreddit/vote badges.
@@ -183,6 +196,8 @@ For solo SaaS launches, the launch-copy source gives the minimum viable page: on
 `processed/How One Person Ships Marketing Pages 12x Faster After Ditching Webflow.md`: Adds the agent-managed marketing-site pattern: a code-based stack plus Claude Code skills can accelerate ABM pages, calculators, comparison pages, localization, metadata validation, redirects, internal links, structured data, and AI-search-friendly markdown surfaces.
 
 `processed/How I’d Generate Website Development Leads Without Wasting Hours.md`: Adds a local web-development prospecting workflow: qualify by visible website problems, segment no-website versus bad-website angles, keep outreach short and specific, and track replies by niche, location, lead type, and contact channel.
+
+`processed/The Direct Response Copy Skill — AI skill file for writing copy that converts. Works with Claude Code, Cursor, ChatGPT, Gemini, and any LLM..md`: Adds a direct-response playbook for conversion surfaces: outcome-first headlines, quantified pain, curiosity loops, founder-story arcs, proof-heavy testimonials, disqualification, benefit-oriented CTAs, and explicit avoidance of recognizable AI copy tics.
 
 `processed/How building an HTML-first site doubled our users overnight.md`: Adds a reliability-first conversion lesson: server-rendered form steps, backend persistence, progressive enhancement, accessibility, and no-JavaScript completion can recover users invisible to JavaScript analytics.
 

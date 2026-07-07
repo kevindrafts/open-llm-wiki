@@ -101,6 +101,7 @@ This index catalogs the compiled wiki topics from the current source set, organi
 - `processed/I Built MCP Servers for 9 SaaS APIs. Here’s the Business Model Nobody’s Talking About..md` - Covered in [[agent-skills-and-agent-native-tools]], [[ai-native-service-agencies]], [[micro-saas-and-bootstrapped-apps]], and [[distribution-led-ai-startups]].
 - `processed/LLMs are picking winners. Here’s how to become one..md` - Covered in [[answer-engine-optimization]], [[seo-and-ai-search-strategy]], and [[distribution-led-ai-startups]].
 - `processed/How Growbots uses Claude Code + Val Town MCP for frictionless deployment.md` - Covered in [[agent-skills-and-agent-native-tools]] and [[ai-marketing-automation-workflows]].
+- `processed/The Direct Response Copy Skill — AI skill file for writing copy that converts. Works with Claude Code, Cursor, ChatGPT, Gemini, and any LLM..md` - Covered in [[agent-skills-and-agent-native-tools]] and [[website-conversion-and-b2b-lead-generation]].
 - `processed/Non-obvious SEO advice for startups.md` - Covered in [[seo-and-ai-search-strategy]], [[answer-engine-optimization]], and [[distribution-led-ai-startups]].
 - `processed/I Built an AI System to Run My Content Operation. Here's the Whole Thing..md` - Covered in [[ai-marketing-automation-workflows]] and [[creator-led-solopreneurship]].
 - `processed/I Started a Faceless TikTok. 301 People Bought My Looksmaxing PDF..md` - Covered in [[creator-led-solopreneurship]] and [[distribution-led-ai-startups]].
@@ -120,6 +121,7 @@ This index catalogs the compiled wiki topics from the current source set, organi
 - `processed/Public prediction pages are the SEO moat I wish I'd built sooner.md` - Covered in [[distribution-led-ai-startups]], [[seo-and-ai-search-strategy]], and [[micro-saas-and-bootstrapped-apps]].
 - `processed/guidesLOCAL-DOMINATION-BLUEPRINT.md at main.md` - Covered in [[seo-and-ai-search-strategy]] and [[website-conversion-and-b2b-lead-generation]].
 - `processed/how to enter side doors.md` - Covered in [[proof-of-work-and-side-door-outreach]] and [[creator-led-solopreneurship]].
+- `processed/Shipped 5 tools in 3 weeks as a solo founder — here's what I learned building Meteorra AI.md` - Covered in [[distribution-led-ai-startups]] and [[micro-saas-and-bootstrapped-apps]].
 - `processed/Alex Groberman on X This business now gets $98,159month in organic search traffic value.They've also added 500+ ChatGPT citations, 1.4K Perplexity citations and 1.3K Grok citations.They did this by following a 6-step process. Here's how they did.md` - Covered in [[answer-engine-optimization]], [[seo-and-ai-search-strategy]], and [[distribution-led-ai-startups]].
 - `processed/Claude SEO Skills 101 Master Claude for SEO.md` - Covered in [[agent-skills-and-agent-native-tools]], [[seo-and-ai-search-strategy]], and [[ai-marketing-automation-workflows]].
 - `processed/Designing Software for Software Factories.md` - Covered in [[software-factories-and-agent-loops]], [[ai-native-startup-strategy]], and [[agent-skills-and-agent-native-tools]].

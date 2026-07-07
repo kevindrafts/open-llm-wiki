@@ -51,6 +51,8 @@ The Yuma marketing-site migration source shows skills as production infrastructu
 
 The useful distinction is that a visual CMS template only starts a page. A skill can execute the surrounding operating procedure. This connects agent tooling to [[website-conversion-and-b2b-lead-generation]] and [[seo-and-ai-search-strategy]] because the best marketing-site workflows include validation, redirects, internal links, structured data, page variants, and search-ready markdown outputs, not just copy generation.
 
+The direct-response copy skill source adds a persuasive-writing version of the same pattern. Instead of packaging deployment or publishing steps, the skill packages copy judgment: headline structures, curiosity gaps, benefit-first CTA language, proof patterns, testimonial structure, founder-story arcs, objection handling, and "AI tell" avoidance. The useful lesson is that some of the best commercial skills do not expose a new tool at all; they compress proven editorial taste into a reusable operating system for landing pages, lifecycle emails, outreach, and launch copy. This links agent tooling back to [[website-conversion-and-b2b-lead-generation]].
+
 ## Internal Agent Platforms
 
 Abnormal AI's Nora shows what happens when an internal Slack bot becomes company infrastructure. Nora handles around 1,000 Slack requests per day and hundreds of pull requests per day by running many workflows on one shared harness. The important architecture is not "many specialized agents"; it is one engine that can run vetted skills, personas, data connectors, code sandboxes, and background jobs from the surfaces where employees already work.
@@ -154,6 +156,8 @@ This means agent-native tools should expose verification and feedback as first-c
 `processed/I Built MCP Servers for 9 SaaS APIs. Here’s the Business Model Nobody’s Talking About..md`: Adds MCP server development as a productized service category. The opportunity is to fill gaps in official SaaS MCP servers, sell custom integrations, publish proof through npm and Glama, and use public GitHub issues as demand signals.
 
 `processed/Claude SEO Skills 101 Master Claude for SEO.md`: Adds a mature skill-use case for SEO operations: small markdown skills for content refreshes, internal linking, meta audits, writing style, competitor research, and scheduled execution, chained together as reusable agency workflows.
+
+`processed/The Direct Response Copy Skill — AI skill file for writing copy that converts. Works with Claude Code, Cursor, ChatGPT, Gemini, and any LLM..md`: Adds a direct-response copywriting skill as packaged know-how. The durable pattern is that a skill can encode persuasive frameworks, voice constraints, CTA rules, proof structure, and anti-slop editing heuristics without needing any special connector beyond the model itself.
 
 `processed/Designing Software for Software Factories.md`: Adds contracts, test harnesses, off-ramps, and feedback loops as the infrastructure around agent tools. The source argues that agents need stable project contracts and autonomous verification more than another one-off prompt.
 
