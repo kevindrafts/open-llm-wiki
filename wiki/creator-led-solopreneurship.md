@@ -42,6 +42,8 @@ Nicolas Cole's first-10-newsletters framework adds a simple starting system. Ins
 
 The useful creator lesson is that the value is not generic prose volume. It is the quality, specificity, and uniqueness of the promised tips, examples, questions, or mistakes.
 
+Not Boring Software adds a design-led variant adjacent to creator businesses. The trust asset is not a newsletter audience first; it is product taste made legible through software. Customers can behave partly like patrons when the apps feel authored, the philosophy is explicit, and the founder visibly stands against the commodity direction of the market. See [[design-first-software-businesses]].
+
 ## Product-First Solopreneur Model
 
 Angus Cheng's Bank Statement Converter shows a product-first path. It does not depend on a personal brand. The channel is high-intent search and the offer is a narrow utility. This is still solopreneurship because the operator does development, support, sales, and marketing without a team.
@@ -135,6 +137,8 @@ The side-door source broadens creator-led work into proof-of-work career and opp
 
 `processed/I Started a Faceless TikTok. 301 People Bought My Looksmaxing PDF..md`: Adds a minimal creator-product loop: spot repeated public questions, answer them with faceless short-form content, package the answer into a rough PDF, and let usefulness beat production polish.
 
+`processed/A patron plan with no extra features outsold expectations — and proved design alone can be a business.md`: Adds a design-led creator/business hybrid: software can monetize through taste, authorship, and patron-style support when the product philosophy is strong enough that users want to fund the studio, not only unlock more features.
+
 ## Related
 
 - [[distribution-led-ai-startups]]
@@ -142,3 +146,4 @@ The side-door source broadens creator-led work into proof-of-work career and opp
 - [[ai-marketing-automation-workflows]]
 - [[seo-and-ai-search-strategy]]
 - [[proof-of-work-and-side-door-outreach]]
+- [[design-first-software-businesses]]

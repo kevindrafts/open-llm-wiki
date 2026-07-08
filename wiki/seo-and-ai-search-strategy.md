@@ -19,6 +19,16 @@ The AI content transcript discusses ranking through high-authority third-party s
 
 For brands, this means the search result page becomes a portfolio of owned, earned, and third-party assets rather than only the company blog.
 
+The Reddit SEO source turns this from a vague "be on Reddit" idea into a more operational SEO discipline. Reddit matters because Google and AI systems increasingly treat subreddit threads as experience-rich evidence. That makes account credibility, subreddit fit, discussion quality, and brand-reputation monitoring part of search strategy rather than side-channel community work.
+
+Useful Reddit SEO rules:
+
+- Claim brand, branded-community, and human-facing accounts early so credibility can compound before the brand needs it.
+- Treat Reddit as voice-of-customer infrastructure: extract phrasing, objections, comparisons, and pain points from high-signal threads.
+- Look at the most-upvoted answers, not only the original posts, because those are often the chunks AI systems and buyers trust most.
+- Monitor brand and category threads regularly because negative or inaccurate discussions can rank in Google and get summarized by AI.
+- Contribute with disclosure and expertise; undisclosed promotion creates durable reputation risk.
+
 The Medium publication source gives a small example of the same principle inside a platform. Posting articles without submitting to a publication created artifacts but little internal distribution. Publication acceptance gave access to an existing audience and feed placement. For founder SEO/content systems, high-authority surfaces still require native distribution mechanics: publication submission, community acceptance, partner newsletters, or editorial review.
 
 ## Local SEO Playbook
@@ -164,6 +174,8 @@ The Claude SEO skills source turns SEO work into reusable agent procedures. Inst
 `processed/Claude SEO Skills 101 Master Claude for SEO.md`: Adds reusable Claude skills as an SEO operations model for content refreshes, internal linking, meta audits, writing style, subagent research, context files, and scheduled execution.
 
 `processed/This is How You Get Your Homepage Viral.md`: Adds Reddit as an SEO/AEO consensus surface where subreddit-specific discussions, honest founder participation, and durable threads can shape Google rankings and AI answers.
+
+`processed/How to Use Reddit for SEO (The Right Way).md`: Adds a fuller Reddit SEO operating model: claim credible accounts early, mine threads for customer language, treat ranking and AI-cited Reddit posts as research assets, start new discussion threads carefully, and manage brand reputation because Reddit now acts as a durable search and AI evidence layer.
 
 `processed/I Audited AI SEO for Websites. The $0.035 Check Catches What Most Teams Miss..md`: Adds a practical AI-SEO stance that prioritizes crawlable HTML, specific titles, direct-answer intros, useful H2 chunking, tables, FAQs, matched schema, internal links, and cheap URL-level structural audits before deeper consulting work.
 

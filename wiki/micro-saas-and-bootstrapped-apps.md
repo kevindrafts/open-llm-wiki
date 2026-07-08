@@ -36,6 +36,15 @@ Meteorra AI adds a compact, solo-founder version of the same logic. Instead of l
 
 The case is also a reminder that speed alone is not the insight. The founder shipped bugs, accepted imperfect UX, and used community comments plus early search traction to decide what mattered. That fits the broader bootstrapped-app rule: fast shipping is only useful when each release is instrumented to collect clearer demand signals.
 
+Zigpoll adds a scaling refinement to the "simple SaaS" pattern. A product may stay modest for years, then accelerate once the founder notices which segment expands naturally and starts building for that segment deliberately. In Zigpoll's case, agency operators installing the product across many client stores turned out to be a stronger compounding segment than the initially imagined in-house ecommerce team.
+
+Useful implications:
+
+- Watch which customers refer, retain, and expand without heavy selling.
+- Treat pricing and packaging as product surfaces that can accidentally punish the best segment.
+- Use the product's own feedback loop to decide roadmap and positioning changes.
+- Prefer embedded distribution channels such as app marketplaces when they place the product directly inside an existing workflow.
+
 ## One-Function Businesses
 
 Angus Cheng's Bank Statement Converter shows the opposite of broad SaaS ambition: one clear job, strong search intent, and years of product improvement. Paid ads were useful for initial validation but not profitable. Organic traffic and product quality became the growth engine.
@@ -169,6 +178,8 @@ Good signals in job posts include specific requirements, realistic budget, buyer
 `processed/I Turned Claude AI into a $6,200Month Digital Product Machine.md`: Adds a low-end digital product pattern adjacent to micro-SaaS: use Claude to draft prompt packs, Notion templates, and niche ebooks, then add human examples, price impulse-friendly, sell on Gumroad, and improve from buyer feedback.
 
 `processed/I Built MCP Servers for 9 SaaS APIs. Here’s the Business Model Nobody’s Talking About..md`: Adds MCP servers as narrow API-wrapper businesses: wrap missing SaaS workflows for agent use, publish to npm and MCP directories, then monetize custom builds, extensions, support, and maintenance.
+
+`processed/Hitting $125k MRR as a solo founder by doubling down on the right segment.md`: Adds a strong solo-SaaS compounding pattern: bootstrap from adjacent income, let customer feedback reveal the best segment, lean into app-store distribution, build for agency-style multi-account operators, and align pricing changes with expansion behavior instead of abstract packaging theory.
 
 `processed/I built 121 free online file tools as a side project - here is what I learned.md`: Adds the portfolio utility-site pattern: many tiny file tools, one shared stack, no signup, client-side processing where possible, schema-backed SEO pages, multilingual expansion, and ad-supported monetization.
 

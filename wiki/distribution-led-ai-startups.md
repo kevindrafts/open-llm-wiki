@@ -31,6 +31,8 @@ The PostHog AEO source makes the answer-engine play more operational. LLM traffi
 
 Rob Walling's early-customer framework adds a simpler pre-audience layer. Before a founder has audience, SEO scale, or product loops, the fastest acquisition path is direct contact with a specific person who has a specific problem in a place the founder can already reach. The five useful motions are: join the communities where buyers already ask for help, send cold emails with one line of real personalization plus a free artifact, put up a simple waitlist page before building, pre-sell with a prototype demo, and invest in a warm network before trying to manufacture a broad audience. This fits the broader thesis of this page: traction usually starts with targeted conversations, not passive attention.
 
+The "how to get customers for SaaS" source is less rigorous than the stronger founder case studies, but it still reinforces the same ordering. A zero-audience founder usually learns more from build-in-public posts, replies under larger accounts, direct DMs, subreddit participation, Indie Hackers updates, and Product Hunt seeding than from one more tutorial on feature implementation. The value is not that these tactics are new; it is that they force contact with real buyers early.
+
 ## Organic Rhythm and Content Recycling
 
 The ChatSEO source adds an execution layer to organic distribution. ChatSEO grew to roughly EUR14K MRR with no paid ads by combining a founder audience, strict beta calls, free mini-audits, and a disciplined eight-channel organic stack: LinkedIn, YouTube, outbound LinkedIn, newsletter, X, SEO, free tools, and smaller channels such as WhatsApp, Reddit, podcasts, and affiliates.
@@ -181,6 +183,8 @@ The VC Corner Reddit playbook adds subreddit-specific mechanics. Reddit is not a
 
 The safest operating rule is "lurk, learn, leap": understand a subreddit, help without asking, then disclose affiliation when the product naturally belongs in the answer. Reddit rewards helpful specificity and punishes disguised promotion.
 
+The newer Reddit SEO playbook strengthens the "evidence" framing. A useful Reddit thread can rank in Google, appear in Discussions and Forums SERP features, shape buyer perception, and get cited in AI answers simultaneously. For distribution-led teams, Reddit should be tied to search monitoring, customer-language mining, and reputation management, not treated only as a social-posting channel.
+
 ## Launch Copy and Early Distribution
 
 The solo SaaS launch-copy source adds a compact launch system for one-person products: one ICP sentence, one outcome-driven promise, a minimal waitlist page, 10 specific DMs per day, a Product Hunt story instead of a spec sheet, and a spend cap until revenue proves the motion.
@@ -257,6 +261,8 @@ The distribution lesson is restraint. Use a small SEO stack, talk to users befor
 
 `processed/5 ways to get customers with no audience.md`: Adds Rob Walling's early-traction playbook: be useful in existing communities, cold email with a free artifact, test interest with a simple landing page, pre-sell with a prototype, and treat network-building as a better early investment than broad audience-building.
 
+`processed/Why “How to Build a SaaS” Tutorials Are Useless (And What Actually Gets You Customers).md`: Reinforces a manual-first early distribution stack for SaaS founders: build in public, reply into existing attention, DM likely users, participate in Reddit carefully, use Product Hunt with a seeded beta base, and prioritize channels that create direct buyer conversations over more build tutorials.
+
 `processed/Public prediction pages are the SEO moat I wish I'd built sooner.md`: Adds a product-native SEO loop where each useful public prediction becomes an indexable page, user activity expands search surface area, and title structure plus schema determine whether UGC becomes a moat or noise.
 
 `processed/I Started a Faceless TikTok. 301 People Bought My Looksmaxing PDF..md`: Adds a simple distribution lesson for digital products: repeated public questions plus faceless short-form answers can be enough to sell a rough PDF when the packaged answer is clearer than existing free discussion.
@@ -300,6 +306,8 @@ The distribution lesson is restraint. Use a small SEO stack, talk to users befor
 `processed/The Solo Founder's Guide to SaaS Launch Copy How to Write Landing Pages, Product Hunt Posts, and Cold Outreach Without a Marketing Team.md`: Adds a low-budget solo SaaS launch system: one ICP promise, minimal waitlist page, story-led Product Hunt launch, 10 manual DMs per day, AI-assisted SEO, and revenue-linked reinvestment rules.
 
 `processed/This is How You Get Your Homepage Viral.md`: Adds a Reddit distribution and AI-search playbook: earn trust inside each subreddit, use community-native formats, prioritize useful discussion over promotion, disclose founder affiliation, and treat durable threads as future AI-answer inputs.
+
+`processed/How to Use Reddit for SEO (The Right Way).md`: Adds a more complete Reddit operating model for distribution-led companies: claim credible accounts early, mine ranking threads for customer language, contribute to Google-visible and AI-cited discussions, create new threads only when the community genuinely wants them, and watch brand reputation as a durable acquisition input.
 
 `processed/Why we're bullish on loops.md`: Adds loops as an operating model for agentic growth and product improvement: goal, context, evaluation, and agent, with applications ranging from PR babysitting to self-driving product paper cuts.
 

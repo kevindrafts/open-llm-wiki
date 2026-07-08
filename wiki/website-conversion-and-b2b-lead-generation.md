@@ -36,6 +36,8 @@ This overlaps with [[seo-and-ai-search-strategy]] because bottom-of-funnel searc
 
 The Local Domination Blueprint adds a service-business conversion checklist. Local SEO pages should not only rank; they should make the call or quote request obvious. Sticky phone numbers, click-to-call buttons, service guarantees, license and insurance details, review badges, before/after galleries, emergency banners, response-time promises, and quote forms all reduce buyer hesitation for local services.
 
+Zigpoll adds a strong post-conversion research pattern. Instead of relying on generic satisfaction surveys later, ask narrow questions at the moment of truth: on the thank-you page, at exit intent, around onboarding friction, or near churn. Questions like "What almost stopped you from buying?" produce language that can directly improve homepage copy, pricing, packaging, onboarding, and retention.
+
 ## Lead Lists as Productized Workflow
 
 Bacotto adds a product angle to B2B lead generation: the lead list itself can be a SaaS workflow. Instead of asking customers to manually search Google Maps, visit business websites, copy contact details, and judge whether a business is still operating, the product compresses that work into a generated and exportable list.
@@ -206,6 +208,8 @@ For solo SaaS launches, the launch-copy source gives the minimum viable page: on
 `processed/The Solo Founder's Guide to SaaS Launch Copy How to Write Landing Pages, Product Hunt Posts, and Cold Outreach Without a Marketing Team.md`: Adds a narrow launch-page structure: one ICP promise, short outcome list, minimal form, singular CTA, and no unnecessary navigation before the waitlist or signup action.
 
 `processed/Inside a Tiny Empire Plausible Analytics.md`: Adds strategic context for Plausible's conversion clarity: its homepage can stay simple because the product wedge is simple, privacy-first analytics for people frustrated by GA4 and cookie consent.
+
+`processed/Hitting $125k MRR as a solo founder by doubling down on the right segment.md`: Adds a practical VOC loop for conversion work: use post-purchase, exit-intent, and churn-adjacent questions to collect real objection language, then feed that back into packaging, page copy, onboarding, and churn reduction.
 
 ## Related
 

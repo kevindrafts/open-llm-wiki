@@ -1,4 +1,4 @@
-This index catalogs the compiled wiki topics from the current source set, organized around agent tooling, software factories, AI knowledge-base maintenance, marketing workflows, SEO, answer engine optimization, signal-based outbound, website conversion, HTML-first web patterns, social intelligence, AI-native service businesses, bootstrapped apps, solopreneurship, validation, owned distribution loops, proof-of-work outreach, outcome pricing, autopilot services, portfolio micro-SaaS strategy, unbundled API-wrapper businesses, lean AI SaaS infrastructure, and AI-assisted product design.
+This index catalogs the compiled wiki topics from the current source set, organized around agent tooling, software factories, AI knowledge-base maintenance, marketing workflows, SEO, answer engine optimization, signal-based outbound, website conversion, HTML-first web patterns, social intelligence, AI-native service businesses, bootstrapped apps, solopreneurship, design-first software, validation, owned distribution loops, proof-of-work outreach, outcome pricing, autopilot services, portfolio micro-SaaS strategy, unbundled API-wrapper businesses, lean AI SaaS infrastructure, and AI-assisted product design.
 
 # Knowledge Base Index
 
@@ -32,6 +32,7 @@ This index catalogs the compiled wiki topics from the current source set, organi
 
 - [[ai-assisted-market-research-and-validation]] - AI-supported niche expansion, Reddit pain mining, platform analytics, search validation, competitor traction checks, job-post demand, commitment metrics, landing pages, and waitlists.
 - [[micro-saas-and-bootstrapped-apps]] - Boring micro-SaaS and bootstrapped app playbooks based on proven demand, competitor complaint mining, unbundled APIs, small teams, managed-service architecture, lean AI SaaS stacks, portfolio kill rules, SEO, reviews, and product focus.
+- [[design-first-software-businesses]] - Premium utility apps, patron-style monetization, authored software, complete-product philosophy, game-feel interaction design, and design taste as the core business wedge.
 
 ## Source Coverage
 
@@ -109,7 +110,9 @@ This index catalogs the compiled wiki topics from the current source set, organi
 - `processed/Distribution You Don't Pay For.md` - Covered in [[distribution-led-ai-startups]].
 - `processed/Easiest Way to Make Money with AI (raw 2026-06-11 copy).md` - Covered in [[service-business-ai-consulting]].
 - `processed/How building an HTML-first site doubled our users overnight.md` - Covered in [[html-first-web-apps-and-progressive-enhancement]] and [[website-conversion-and-b2b-lead-generation]].
+- `processed/How to Use Reddit for SEO (The Right Way).md` - Covered in [[seo-and-ai-search-strategy]] and [[distribution-led-ai-startups]].
 - `processed/How to Find Reddit Threads About Your Brand (and Why It Matters in 2026)..md` - Covered in [[distribution-led-ai-startups]], [[answer-engine-optimization]], and [[seo-and-ai-search-strategy]].
+- `processed/Why “How to Build a SaaS” Tutorials Are Useless (And What Actually Gets You Customers).md` - Covered in [[distribution-led-ai-startups]].
 - `processed/How to write your first 10 newsletters on Substack.md` - Covered in [[creator-led-solopreneurship]].
 - `processed/I Told an AI Agent to Make Me Money. It Did..md` - Covered in [[distribution-led-ai-startups]], [[service-business-ai-consulting]], and [[micro-saas-and-bootstrapped-apps]].
 - `processed/I built 121 free online file tools as a side project - here is what I learned.md` - Covered in [[seo-and-ai-search-strategy]] and [[micro-saas-and-bootstrapped-apps]].
@@ -125,6 +128,8 @@ This index catalogs the compiled wiki topics from the current source set, organi
 - `processed/Alex Groberman on X This business now gets $98,159month in organic search traffic value.They've also added 500+ ChatGPT citations, 1.4K Perplexity citations and 1.3K Grok citations.They did this by following a 6-step process. Here's how they did.md` - Covered in [[answer-engine-optimization]], [[seo-and-ai-search-strategy]], and [[distribution-led-ai-startups]].
 - `processed/Claude SEO Skills 101 Master Claude for SEO.md` - Covered in [[agent-skills-and-agent-native-tools]], [[seo-and-ai-search-strategy]], and [[ai-marketing-automation-workflows]].
 - `processed/Designing Software for Software Factories.md` - Covered in [[software-factories-and-agent-loops]], [[ai-native-startup-strategy]], and [[agent-skills-and-agent-native-tools]].
+- `processed/A patron plan with no extra features outsold expectations — and proved design alone can be a business.md` - Covered in [[design-first-software-businesses]] and [[creator-led-solopreneurship]].
+- `processed/Hitting $125k MRR as a solo founder by doubling down on the right segment.md` - Covered in [[micro-saas-and-bootstrapped-apps]], [[website-conversion-and-b2b-lead-generation]], and [[distribution-led-ai-startups]].
 - `processed/I Built a Claude Code AI Agent That Runs My Content Distribution While I Sleep.md` - Covered in [[ai-marketing-automation-workflows]], [[creator-led-solopreneurship]], [[llm-maintained-knowledge-bases]], and [[distribution-led-ai-startups]].
 - `processed/Inside a Tiny Empire Plausible Analytics.md` - Covered in [[micro-saas-and-bootstrapped-apps]], [[distribution-led-ai-startups]], and [[website-conversion-and-b2b-lead-generation]].
 - `processed/This is How You Get Your Homepage Viral.md` - Covered in [[distribution-led-ai-startups]], [[answer-engine-optimization]], and [[seo-and-ai-search-strategy]].
