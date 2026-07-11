@@ -29,6 +29,10 @@ Useful Reddit SEO rules:
 - Monitor brand and category threads regularly because negative or inaccurate discussions can rank in Google and get summarized by AI.
 - Contribute with disclosure and expertise; undisclosed promotion creates durable reputation risk.
 
+The Setproduct first-users source makes the credibility rule more operational. Reddit tends to punish repeated behavioral patterns of promotion more than any one phrase or link. For SEO-adjacent work, that means the brand cannot wait until launch week to create a credible account footprint. A useful account history across a few relevant subreddits is part of search infrastructure because those same discussions can become ranking pages and AI-answer evidence later.
+
+The Brand24 Reddit-mentions source adds two practical SEO uses despite its promotional framing. First, original data, named methods, and early helpful replies are more likely to be referenced by other users over time. Second, competitor-thread monitoring identifies existing discussions where the category language is already rich and commercial intent is obvious. Claims about exact AI-chatbot source percentages should be treated carefully, but the broader SEO lesson is solid: Reddit mention velocity can influence both discoverability and future consensus signals.
+
 The Medium publication source gives a small example of the same principle inside a platform. Posting articles without submitting to a publication created artifacts but little internal distribution. Publication acceptance gave access to an existing audience and feed placement. For founder SEO/content systems, high-authority surfaces still require native distribution mechanics: publication submission, community acceptance, partner newsletters, or editorial review.
 
 ## Local SEO Playbook
@@ -116,6 +120,10 @@ The Filuni source adds a free-tool-site version of long-tail SEO. A broad set of
 
 This belongs with long-tail SEO because each utility maps to a concrete job people already search for. The risks are thin pages and commodity tooling; the durable advantages are breadth, speed, privacy/trust, internationalization, and consistently useful pages.
 
+ToolKnit adds a speed-and-governance lesson to the same pattern. AI can accelerate the creation of many SEO-capable utility pages, but the scalable part is the repeatable architecture: shared markup conventions, metadata patterns, translations, service-worker behavior, and review discipline. Without that shared system, "89 tools" is just a fast way to create 89 maintenance problems.
+
+Wishyze adds a smaller SaaS-specific free-tool lesson. A narrowly scoped interactive quiz can outperform several SEO articles when it embodies a distinctive framework and gives an immediate answer. In SEO terms, the page earns longer dwell time, clearer query-task fit, and stronger signup intent because the visitor is completing a job instead of consuming generic explanatory content.
+
 ## New-Site SEO Systems
 
 The Definitely Pro checklist adds a beginner-friendly operating model for new domains. The main idea is to define what the site should become known for before publishing. A new site should start with one audience/problem sentence, three to five topic clusters, crawlable foundations, a sustainable publishing cadence, internal links, and a 90-day review loop.
@@ -167,6 +175,10 @@ The Claude SEO skills source turns SEO work into reusable agent procedures. Inst
 
 `processed/I built 121 free online file tools as a side project - here is what I learned.md`: Adds a free-tool SEO pattern: many useful single-job tools, no signup friction, client-side privacy where possible, schema-backed tool pages, multilingual expansion, and ad-supported monetization.
 
+`processed/I Built 89 Tools in 100 Days. AI Wrote 90% of the Code. I Don't Regret It..md`: Adds an AI-assisted free-tool SEO pattern where a shared architecture and strict human review let one founder scale many client-side tool pages without losing maintainability.
+
+`processed/I Built a Free Tool and It Outperformed Every Blog Post I've Written.md`: Adds a framework-specific free-tool lesson: an interactive diagnostic can rank and convert better than conventional SEO blog posts when it gives immediate personalized output.
+
 `processed/SEO Strategy for a New Website Practical Checklist.md`: Adds a new-site SEO roadmap: define the audience/problem sentence, select topic clusters, build crawlable foundations, publish sustainably, connect content to conversion pages, audit underperforming pages, and revisit strategy every quarter or after the first 10-20 pages.
 
 `processed/Alex Groberman on X This business now gets $98,159month in organic search traffic value.They've also added 500+ ChatGPT citations, 1.4K Perplexity citations and 1.3K Grok citations.They did this by following a 6-step process. Here's how they did.md`: Adds an ecommerce-oriented SEO/GEO system: knowledge-hub product/category pages, buyer-intent articles, category-aligned backlinks, snippet-ready sections, and internal links that clarify brand and product relationships.
@@ -176,6 +188,10 @@ The Claude SEO skills source turns SEO work into reusable agent procedures. Inst
 `processed/This is How You Get Your Homepage Viral.md`: Adds Reddit as an SEO/AEO consensus surface where subreddit-specific discussions, honest founder participation, and durable threads can shape Google rankings and AI answers.
 
 `processed/How to Use Reddit for SEO (The Right Way).md`: Adds a fuller Reddit SEO operating model: claim credible accounts early, mine threads for customer language, treat ranking and AI-cited Reddit posts as research assets, start new discussion threads carefully, and manage brand reputation because Reddit now acts as a durable search and AI evidence layer.
+
+`processed/How to Get More Mentions on Reddit 12+ Tips 2026.md`: Adds a Reddit-mention operating layer for SEO and AEO: publish original data worth citing, reply early in active threads, watch competitor mentions, and time contributions by community activity rather than relying on generic posting cadence.
+
+`processed/How to get your first users from Reddit without getting banned.md`: Adds an account-credibility rule for Reddit-as-SEO: useful no-link participation and varied comment history make later product mentions more likely to survive long enough to become ranking or AI-cited evidence.
 
 `processed/I Audited AI SEO for Websites. The $0.035 Check Catches What Most Teams Miss..md`: Adds a practical AI-SEO stance that prioritizes crawlable HTML, specific titles, direct-answer intros, useful H2 chunking, tables, FAQs, matched schema, internal links, and cheap URL-level structural audits before deeper consulting work.
 

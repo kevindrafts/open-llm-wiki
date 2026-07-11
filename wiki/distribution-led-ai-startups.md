@@ -65,6 +65,8 @@ Aline adds a one-marketer version of the same system. Broad TAM coverage comes f
 
 Bacotto makes the programmatic SEO play more concrete. The product targets fragmented local-B2B demand by generating pages for region and industry combinations, but avoids pushing every possible page into the index. A tier and popularity gate decides which combinations are indexable, while weaker combinations are noindexed. The same filter powers both robots and sitemap generation.
 
+B2BLeadFinder adds a simpler content-led growth variant of the same local-B2B idea. Instead of emphasizing the engineering stack, it emphasizes qualification and search capture: identify businesses with visible digital gaps, package that into a "digital health" score, then create content around the exact jobs agencies search for, such as finding businesses without websites or local prospects who need help. The useful lesson is that local lead-gen software can turn the prospecting thesis itself into acquisition content.
+
 The important pattern is not "generate thousands of pages." It is structured page generation plus a quality threshold. This keeps programmatic SEO closer to useful local search coverage and farther from scaled-content spam. Bacotto also pings IndexNow daily via Vercel Cron, which gives Bing, Yandex, and Naver a faster discovery path while Google crawls at its own pace.
 
 The Watching Agents source adds a product-native version of the same idea. Instead of publishing more editorial content, the product's core user action creates public pages with real search intent, their own URLs, related-question links, and structured FAQ data. The useful framework is strict:
@@ -185,6 +187,12 @@ The safest operating rule is "lurk, learn, leap": understand a subreddit, help w
 
 The newer Reddit SEO playbook strengthens the "evidence" framing. A useful Reddit thread can rank in Google, appear in Discussions and Forums SERP features, shape buyer perception, and get cited in AI answers simultaneously. For distribution-led teams, Reddit should be tied to search monitoring, customer-language mining, and reputation management, not treated only as a social-posting channel.
 
+The Setproduct Reddit playbook adds a more tactical first-user routine for founders with no budget. The key claim is that Reddit filters react to account behavior patterns more than wording tricks: a low-karma account whose comment history keeps steering toward one product is likely to get buried or moderated regardless of how "helpful" the copy sounds. The practical response is slow credibility building. Pick three or four subreddits, read the rules, spend two weeks answering questions with no links, answer some questions unrelated to the product, and treat the account as the durable asset rather than any one launch post.
+
+This sharpens the operating rule from "participate carefully" to "earn permission before mentioning the product." For early-stage founders, the strongest Reddit signals are profile clicks, DMs, and source-tagged signups, not upvotes. That makes Reddit closer to relationship infrastructure than broadcast promotion.
+
+The Brand24 Reddit-mentions source reinforces the same surface from a different angle. Its stronger lesson is not the promotional framing, but that original data, named frameworks, early replies, competitor-thread monitoring, and subreddit-specific timing can increase how often other users mention a brand. The weaker claims around precise chatbot citation share should be treated cautiously, but the distribution takeaway still holds: Reddit mentions can compound as social proof, search evidence, and future AI-answer inputs when they come from genuinely useful participation rather than planted promotion.
+
 ## Launch Copy and Early Distribution
 
 The solo SaaS launch-copy source adds a compact launch system for one-person products: one ICP sentence, one outcome-driven promise, a minimal waitlist page, 10 specific DMs per day, a Product Hunt story instead of a spec sheet, and a spend cap until revenue proves the motion.
@@ -269,6 +277,8 @@ The distribution lesson is restraint. Use a small SEO stack, talk to users befor
 
 `processed/Building a B2B Sales-List SaaS with Next.js + Vercel KV + Google Places API — Full architecture deep dive.md`: Adds a concrete programmatic SEO implementation for local-B2B software: generate region-by-industry pages, gate indexability by city tier and industry popularity, reuse the same filter in robots and sitemaps, and ping IndexNow on a cron.
 
+`processed/How a Bootstrapped SaaS Tool Reached 3,350 Users Across 80+ Countries in 3 Months — With Zero Ad Spend.md`: Adds a local-B2B distribution case where the product's scoring logic becomes both the prospecting wedge and the content engine for organic growth.
+
 `processed/The portfolio math. When 30 small apps beat 1 big one..md`: Adds portfolio strategy as a distribution-dependent operating model. Many small apps only beat one large app when build cost is low, feedback is fast, distribution exists, and kill rules prevent maintenance drag.
 
 `processed/Forget Big Apps. These Tiny Tools Are Making Millions.md`: Adds unbundling as a timing and distribution play: broad platforms expose many niche capabilities, and small wrappers can win by reaching one buyer segment with simpler packaging before the opportunity is copied.
@@ -303,6 +313,10 @@ The distribution lesson is restraint. Use a small SEO stack, talk to users befor
 
 `processed/The Reddit Marketing Strategy Behind $30K MRR and 11M Views.md`: Adds a cautionary Reddit growth case. Warm accounts, problem-led posts, and high engagement can matter, but coordinated upvoting is vote manipulation and should be treated as a platform-risk warning rather than a recommended tactic.
 
+`processed/How to get your first users from Reddit without getting banned.md`: Adds a first-user Reddit routine centered on account credibility: a few relevant subreddits, rule-reading, two weeks of useful no-link participation, product mentions only when context clearly asks for them, and measuring DMs plus source-tagged signups over vanity metrics.
+
+`processed/How to Get More Mentions on Reddit 12+ Tips 2026.md`: Adds a Reddit-mention playbook focused on original data, fast replies, competitor-thread monitoring, timing by subreddit activity, and titles that invite discussion; the durable lesson is mention compounding through useful participation, not manufactured hype.
+
 `processed/The Solo Founder's Guide to SaaS Launch Copy How to Write Landing Pages, Product Hunt Posts, and Cold Outreach Without a Marketing Team.md`: Adds a low-budget solo SaaS launch system: one ICP promise, minimal waitlist page, story-led Product Hunt launch, 10 manual DMs per day, AI-assisted SEO, and revenue-linked reinvestment rules.
 
 `processed/This is How You Get Your Homepage Viral.md`: Adds a Reddit distribution and AI-search playbook: earn trust inside each subreddit, use community-native formats, prioritize useful discussion over promotion, disclose founder affiliation, and treat durable threads as future AI-answer inputs.
@@ -314,6 +328,8 @@ The distribution lesson is restraint. Use a small SEO stack, talk to users befor
 `processed/Inside a Tiny Empire Plausible Analytics.md`: Adds a bootstrapped distribution case where trust, open source, developer communities, transparent building, and alternative/compliance SEO compounded around a market leader's unpopular product shift.
 
 `processed/Alex Groberman on X This business now gets $98,159month in organic search traffic value.They've also added 500+ ChatGPT citations, 1.4K Perplexity citations and 1.3K Grok citations.They did this by following a 6-step process. Here's how they did.md`: Adds a commercial AEO/GEO distribution system built from product/category knowledge hubs, buyer-intent articles, category-aligned authority, and internal-link clusters.
+
+`processed/I Built a Free Tool and It Outperformed Every Blog Post I've Written.md`: Adds a lightweight free-tool pattern for SaaS distribution: encode a proprietary framework into an interactive quiz, keep the implementation client-side and low-friction, and let the tool outperform generic SEO blog posts on both engagement and signup intent.
 
 ## Related
 

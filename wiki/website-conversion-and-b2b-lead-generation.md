@@ -42,6 +42,8 @@ Zigpoll adds a strong post-conversion research pattern. Instead of relying on ge
 
 Bacotto adds a product angle to B2B lead generation: the lead list itself can be a SaaS workflow. Instead of asking customers to manually search Google Maps, visit business websites, copy contact details, and judge whether a business is still operating, the product compresses that work into a generated and exportable list.
 
+B2BLeadFinder adds a qualification-first variation for agencies and freelancers. Instead of maximizing contact volume, it scores businesses by visible digital weaknesses such as missing websites, weak review presence, missing phone information, and incomplete Google Maps listings. The conversion implication is important: a lead source can improve close rates not by adding more enrichment fields, but by surfacing why the prospect should care right now. When outreach begins with an observable gap, the pitch and landing page can be more concrete.
+
 The architecture reveals what matters in this category:
 
 - Candidate discovery from a structured local source such as Google Places.
@@ -192,6 +194,8 @@ For solo SaaS launches, the launch-copy source gives the minimum viable page: on
 `processed/The 6-step Substack growth roadmap I'd follow in 2026.md`: Relevant here for the idea that a publication homepage should work like a landing page: clear positioning, a strong hero post, a converting About page, and navigation that helps a new reader decide whether to subscribe.
 
 `processed/Building a B2B Sales-List SaaS with Next.js + Vercel KV + Google Places API — Full architecture deep dive.md`: Adds a productized lead-list workflow: Google Places discovery, website enrichment, contact extraction, operating-status classification, exports, and cache-driven cost control.
+
+`processed/How a Bootstrapped SaaS Tool Reached 3,350 Users Across 80+ Countries in 3 Months — With Zero Ad Spend.md`: Adds a qualification-first local lead-gen workflow: score businesses by visible digital gaps, enrich owner/contact data, and use the observed weakness as the starting point for agency outreach and proposals.
 
 `processed/My autonomous agent scraped 35 real questions from French renters — then rewrote our homepage.md`: Adds a data-backed landing-page workflow: scrape real public questions, filter hard, tag by pain, publish a dataset, and replace guessed objections with actual customer-language proof.
 

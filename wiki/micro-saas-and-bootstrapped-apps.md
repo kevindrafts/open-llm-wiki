@@ -55,6 +55,10 @@ Plausible adds a slightly larger version of the same pattern. Google Analytics w
 
 Filuni adds a many-one-function-tools variant. Instead of one narrow utility, the product is a portfolio of 121 tiny file tools with shared infrastructure and separate SEO pages. The same principle still applies: each tool solves a concrete job, removes signup and watermark friction, and earns trust by processing many files client-side.
 
+ToolKnit adds a more AI-native version of the same utility-site pattern. The founder reports shipping 89 browser-based tools and 87 blog posts in roughly 109 days with AI generating most of the initial code, while he retained responsibility for architecture, review, bug fixing, and UX quality. The useful lesson is not "AI makes mass shipping safe by default." It is that a shared front-end architecture plus disciplined review can make a large portfolio of simple client-side tools feasible for one operator when the jobs are repetitive and understandable.
+
+Wishyze's manifestation-phase calculator adds a framework-driven version of the one-function pattern. Instead of writing more explanatory blog posts, the founder encoded the product's own phase model into a seven-question quiz with immediate personalized output. The result is a useful reminder that a tool can work even when the topic is too niche for broad editorial SEO. A narrow interactive diagnostic can attract more attention than a better-written article because it gives the visitor a reason to act, not just read.
+
 This pattern works when:
 
 - The jobs are simple, recurring, and search-driven.
@@ -62,6 +66,7 @@ This pattern works when:
 - Privacy, no signup, and no artificial limits are a meaningful differentiator.
 - Multilingual pages can reuse the same underlying tool to open new markets.
 - Monetization can tolerate low intent per visitor, such as lightweight ads or later tool-adjacent offers.
+- The founder can review and maintain generated code well enough that speed does not silently accumulate bad architecture.
 
 The Watching Agents source adds a UGC-powered variation on the one-function model. The core product action is simple, but each public prediction creates a useful, indexable page that compounds search surface area without requiring the team to write more blog posts. The important constraint is that the generated page must be useful to strangers, not just to the creator. That makes "usage equals distribution" a viable moat for small products with strong question-shaped outputs.
 
@@ -96,6 +101,8 @@ This connects to [[ai-native-startup-strategy]] because vertical AI can sell com
 ## Low-Cost Managed-Service Architecture
 
 Bacotto adds a technical version of the same lesson. It is a Japan-focused B2B sales-list generator that turns an industry and region into enriched local leads using Google Places, website crawling, caching, Stripe, Resend, Sentry, and a Next.js/Vercel stack. The product is not architected like a venture-scale data platform; it is architected so a tiny team can run a useful paid workflow cheaply.
+
+B2BLeadFinder adds a more sales-facing variant of the same local-B2B pattern. Instead of selling a broad contact database, it uses Google Maps signals such as website presence, review count, phone availability, and listing completeness to rank which businesses likely have urgent digital-service gaps. The strategic distinction is qualification before outreach. For agencies and freelancers, a smaller list of businesses with visible weaknesses can be more valuable than a larger undifferentiated lead list because every pitch starts with a concrete problem the prospect already has.
 
 The useful patterns:
 
@@ -182,6 +189,12 @@ Good signals in job posts include specific requirements, realistic budget, buyer
 `processed/Hitting $125k MRR as a solo founder by doubling down on the right segment.md`: Adds a strong solo-SaaS compounding pattern: bootstrap from adjacent income, let customer feedback reveal the best segment, lean into app-store distribution, build for agency-style multi-account operators, and align pricing changes with expansion behavior instead of abstract packaging theory.
 
 `processed/I built 121 free online file tools as a side project - here is what I learned.md`: Adds the portfolio utility-site pattern: many tiny file tools, one shared stack, no signup, client-side processing where possible, schema-backed SEO pages, multilingual expansion, and ad-supported monetization.
+
+`processed/I Built 89 Tools in 100 Days. AI Wrote 90% of the Code. I Don't Regret It..md`: Adds an AI-assisted utility-portfolio pattern: many browser-based tools can be shipped quickly when the founder owns architecture and review, while AI handles scaffolding and repetitive implementation.
+
+`processed/I Built a Free Tool and It Outperformed Every Blog Post I've Written.md`: Adds a framework-encoding micro-tool pattern: a simple interactive calculator can outperform explanatory SEO posts when it turns a product's core model into immediate personalized value.
+
+`processed/How a Bootstrapped SaaS Tool Reached 3,350 Users Across 80+ Countries in 3 Months — With Zero Ad Spend.md`: Adds a local-B2B qualification SaaS pattern: use Google Maps weakness signals to rank service prospects by need, then combine scoring, owner/contact discovery, and proposal generation into one workflow.
 
 `processed/I Told an AI Agent to Make Me Money. It Did..md`: Adds the email-delivered micro-SaaS pattern through DreamTales: recurring personalized output can be delivered in inboxes where users already live, avoiding the friction of a new mobile app.
 
