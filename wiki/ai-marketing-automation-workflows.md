@@ -82,6 +82,23 @@ The content-operation source adds two useful guardrails for AI marketing systems
 
 This is a practical anti-autopilot rule. AI should handle repetitive labor, but the operator keeps judgment over topics, voice, images, claims, and final publication. For personal brands and service businesses, that approval layer protects trust while still giving one person the leverage of a small content team.
 
+## AI-Native Email Operations
+
+The AI-native email system source extends the same operating-system logic into lifecycle marketing. The core move is to connect the ESP directly to Claude through a native connector where possible or the platform API where it is not, then treat email as a live workflow rather than a dashboard the team manually checks.
+
+The useful stack is modular:
+
+- ESP data for campaigns, flows, segments, cadence, and list health.
+- A `claude.md` file with ICP, tone, and brand guardrails.
+- One reusable email-marketing skill covering deliverability, copy, design, segmentation, and flow logic.
+- Scheduled competitor-inbox research through seed addresses and public email galleries.
+- A recurring audit routine that pulls 30-day and 90-day data, writes a blunt diagnosis, and ends with five concrete actions.
+- A GitHub repo that stores historical tests and learnings so the system can improve from prior subject-line, send-time, and segmentation experiments.
+
+This is valuable because it closes the loop between analysis and execution. The same agent that sees churn, spam complaints, dead segments, and flow drop-off can draft the next test, update the template, and preserve the result. It also reinforces the broader wiki theme that context should live in files and repos, not in one-off chats.
+
+The source also adds a competitive-intelligence twist. Competitor subject lines, offers, send cadence, and visual patterns can be logged automatically, giving the operator a market memory that informs future tests. Email becomes less like a calendar of campaigns and more like a continuously learning system, parallel to the growth loops elsewhere on this page.
+
 ## Source Summaries
 
 `processed/How I Built a Sales Research Pipeline Entirely Inside Google's Ecosystem.md`: Shows a no-code AI sales research pipeline using Gemini Deep Research, Gemini Chat, NotebookLM, Google Sheets, Google Docs, and Gmail. The main lesson is that AI research needs a prepared offer, target list, and scoring rubric before it can produce useful qualified leads.
@@ -115,6 +132,8 @@ This is a practical anti-autopilot rule. AI should handle repetitive labor, but 
 `processed/I Built a Claude Code AI Agent That Runs My Content Distribution While I Sleep.md`: Adds a scheduled content-distribution OS: article ingestion, wiki filing, Reddit drafting, Reddit thread answering, Slack approvals, LinkedIn publishing, and weekly self-tuning based on human edits.
 
 `processed/Claude SEO Skills 101 Master Claude for SEO.md`: Adds SEO skills as reusable marketing operations: content refreshes, internal-link passes, meta audits, style polishing, subagent research, context files, and scheduled execution.
+
+`processed/Building an AI-Native Email Marketing System.md`: Adds an email-operations stack where Claude connects to an ESP, runs recurring list and flow audits, tracks competitor emails, generates templates and dashboards, and stores campaign learnings in GitHub so the system can keep improving.
 
 ## Related
 

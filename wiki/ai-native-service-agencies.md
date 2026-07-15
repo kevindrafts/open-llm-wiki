@@ -34,6 +34,20 @@ Both examples sell AI as part of a service wrapper:
 
 This sits between [[service-business-ai-consulting]] and [[ai-marketing-automation-workflows]]: consulting identifies the opportunity, workflows create the system, and the agency package monetizes delivery.
 
+## Remediation Services for AI Slop
+
+The AI-slop-cleanup source adds another agency shape: finishing work that AI made cheap to generate. Instead of selling one more generic "AI content" service, the operator sells a bounded remediation offer for copy and design that feel machine-made, vague, overproduced, or off-brand.
+
+The most defensible version is productized:
+
+- A fixed-price audit that scores the problem and identifies which assets are worth saving.
+- A sprint that rewrites or redesigns a defined set of pages, decks, or assets.
+- A retainer that reviews new output before it ships and gradually builds a pattern library for the client's vertical.
+
+The strength of this offer is that it is not anti-AI. It accepts that teams will keep using AI, then monetizes the final 20% that still needs judgment, taste, evidence, and accountability. The best initial wedge is a narrow B2B vertical with visible downside when generic content reaches prospects, buyers, or due-diligence reviewers.
+
+This creates a useful middle ground between cheap rewrite tools and expensive brand agencies. The client is not buying a prompt or a humanizer app; they are buying trust repair and sharper business communication on a fixed timeline.
+
 ## Autopilot Services as the Next Agency Shape
 
 The Sequoia services source reframes the highest-upside agency model as software masquerading as a services firm. A copilot sells a tool to the professional; an autopilot sells the finished work to the buyer. This is attractive because the labor or outsourcing budget in a category is usually much larger than the software budget.
@@ -76,6 +90,8 @@ The wedge is not generic "AI consulting." It is a concrete backlog gap. Official
 `processed/Services The New Software.md`: Adds the autopilot-services thesis: the next major AI service companies may look like services firms while using software and agents underneath to sell completed work, starting with outsourced intelligence-heavy tasks before expanding toward judgment-heavy work.
 
 `processed/I Built MCP Servers for 9 SaaS APIs. Here’s the Business Model Nobody’s Talking About..md`: Adds MCP server implementation as a productized agency niche: fill missing SaaS API workflows, use public issue demand as proof, and sell custom servers, support, and extensions around a repeatable build pattern.
+
+`processed/The AI Slop Cleanup Crew ($12K MRR).md`: Adds a remediation-agency model: start with a fixed 72-hour audit, then sell cleanup sprints and retainers for AI-assisted copy and design that sound generic, with a narrow B2B vertical and a reusable slop-scoring rubric as the moat.
 
 ## Related
 

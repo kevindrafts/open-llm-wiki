@@ -145,6 +145,20 @@ The Aline source adds a content-quality workflow for SEO/GEO. Each draft is scor
 
 The Claude SEO skills source turns SEO work into reusable agent procedures. Instead of re-prompting for audits, internal links, meta updates, content refreshes, and writing style, the operator writes small markdown skills that encode the process, context files, output format, and validation steps. Useful skills include content refreshes with backups and performance data, internal-link planning with deduplication and caps, CTR-focused meta audits from SEOtesting exports, and style polishing that preserves brand voice. The strategic point is that SEO agents should be judged by repeatability and measurement, not by one-off content volume.
 
+## Short-Form Video as Search Surface
+
+The short-form-video source adds a newer distribution surface inside search itself. Vertical clips are beginning to rank for buyer-intent B2B software queries such as "best ERP software," "best inventory management software," and "best project management software," often on result pages that already contain AI Overviews.
+
+The practical lesson is not "be on every short-video platform." It is to treat YouTube Shorts as a query-matched search asset:
+
+- Start from the buyer query, not from a random highlight.
+- Cut clips from webinars, demos, interviews, podcasts, or walkthroughs that directly answer that query.
+- Mirror the query in the opening hook, title, captions, and transcript.
+- Publish to YouTube first, because Google appears to favor its own video graph inside search and Gemini citations.
+- Syndicate to Instagram or TikTok only when the audience fit justifies it.
+
+This matters because search presence no longer depends only on blue links. A ranked clip can become both a visible search result and an input to the AI answer layer, even if the click goes elsewhere. For B2B teams already recording long-form material, the efficient move is not to invent a separate video strategy from scratch; it is to repurpose existing footage into buyer-query clips that can win a ranked slot and feed AI summaries.
+
 ## Source Summaries
 
 `processed/AI Content Will Destroy Your Site in 2026.md`: Jacky Chou and Tony Yu discuss AI overviews, AI content, parasite SEO, third-party publications, forum ranking, Chrome/user signals, and risks from high-velocity AI content. The article's strongest lesson is that authority and distribution matter more as content becomes commoditized.
@@ -196,6 +210,8 @@ The Claude SEO skills source turns SEO work into reusable agent procedures. Inst
 `processed/I Audited AI SEO for Websites. The $0.035 Check Catches What Most Teams Miss..md`: Adds a practical AI-SEO stance that prioritizes crawlable HTML, specific titles, direct-answer intros, useful H2 chunking, tables, FAQs, matched schema, internal links, and cheap URL-level structural audits before deeper consulting work.
 
 `processed/Public prediction pages are the SEO moat I wish I'd built sooner.md`: Adds product-generated SEO surface area as a moat when user activity creates public pages with real search intent, clean titles, unique URLs, FAQ schema, and related-page links.
+
+`processed/Short-form Video is Showing Up in B2B Search Results and AI Answers.md`: Adds short-form video as a B2B search surface: query-matched YouTube Shorts can rank on buyer-intent software terms, appear on AI-Overview-heavy SERPs, and feed Google's AI answers when clips have readable hooks, captions, titles, and transcripts.
 
 ## Related
 

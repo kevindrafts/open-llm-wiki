@@ -48,6 +48,22 @@ The Tristan Zheng interview adds a service-business acquisition angle: local SEO
 
 For service-business AI consulting, this suggests the first wedge should be concrete and measurable: faster lead replies, more reviews, better reporting, more qualified calls, or fewer manual onboarding steps.
 
+## Network-First AI Consulting
+
+The "Starting With AI" source sharpens the early-stage go-to-market pattern. The fastest start usually comes from people the operator already knows: local shops, former coworkers, prior clients, and businesses where trust already exists. This outperforms waiting for a content engine to create inbound from zero.
+
+The recommended progression is simple:
+
+- Make a list of people or companies already inside the operator's network.
+- Offer to solve one real AI problem for free or cheaply on purpose.
+- Use those first projects to learn whether the work is enjoyable and whether the offer is real.
+- Turn the results into written testimonials.
+- Raise prices once there is proof.
+
+This is basically a trust-first consulting motion. The first asset is not an audience or website; it is a relationship plus a concrete result. The source is also useful for its warning that vanity metrics do not validate a business. Subscriber growth, likes, and open rates can encourage motion, but the real signal is still whether someone pays.
+
+Another useful operational rule is to use AI as an interviewer and critic rather than as an oracle. Instead of asking for generic business ideas, the operator should give the model context, ask it to challenge assumptions, and let it extract clearer answers from the consultant's own experience. That makes AI a thinking partner for offer design and delivery, not just a machine for producing agreeable nonsense.
+
 ## Source Summaries
 
 `processed/Easiest Way to Make Money with AI.md`: Chris Koerner lays out Corey-style AI assessments for small businesses: discovery call, Claude-generated tool recommendations, Gamma report, $1,000 assessment, and $3,000-$5,000 implementation upsells. Client acquisition channels include local AI meetups, free first assessments, local business networks, and direct outreach.
@@ -57,6 +73,8 @@ For service-business AI consulting, this suggests the first wedge should be conc
 `processed/My Videos Made This Guy $500,000 (Here's How).md`: Tristan Zheng's local SEO agency story shows how service-business clients can be acquired and retained through relationships, early proof, review/link gap analysis, service/location pages, GBP optimization, and high-touch reporting.
 
 `processed/I Told an AI Agent to Make Me Money. It Did..md`: Adds a personalized-proof acquisition model for AI/local marketing services: generate draft websites for businesses, mail QR-coded postcards, prioritize scanners, then close through phone follow-up and monthly marketing packages.
+
+`processed/Starting With AI What Actually Works in 2026.md`: Adds a network-first path into AI consulting and education: use existing relationships, do a few free projects to earn testimonials, judge offers by purchase signals instead of social metrics, and configure AI to challenge assumptions rather than flatter them.
 
 ## Related
 

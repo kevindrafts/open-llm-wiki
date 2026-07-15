@@ -153,6 +153,20 @@ The lesson is that distribution loops are product architecture, not post-launch 
 
 The PostHog loops source generalizes this beyond growth mechanics into product operations. A loop needs a goal, context, evaluation, and an agent. The same structure can run PR babysitting, bug fixing, flaky-test cleanup, performance research, or product paper-cut improvements. For distribution-led startups, this matters because growth work increasingly becomes a set of loops: detect signal, create asset, publish or stage it, measure response, and feed the result back into product and messaging. See [[software-factories-and-agent-loops]].
 
+## Engineered Share Paths
+
+The share-button source adds a product-engineering version of the same loop thesis: if a product spreads through screenshots, links, or self-expression, the share path is not a finishing touch. It is the growth surface.
+
+Several implementation choices matter:
+
+- Preserve the exact user result in a copyable URL, even on a static site.
+- Use separate static landing pages for social shares so crawlers get distinct titles, descriptions, and OG images.
+- Design outcomes to feel specific enough that people want to compare or show them.
+- Generate the share asset directly instead of hoping the user takes a good screenshot.
+- Treat image readiness, font loading, and browser fallbacks as part of conversion, not polish.
+
+The underlying lesson is broader than quizzes. Any product whose output can travel should decide explicitly what gets shared, what the recipient sees first, and how the artifact sells the next user on trying it. This connects directly to the artifact and identity loops elsewhere on this page: distribution compounds when the product's output is both useful to the creator and legible to the next person.
+
 ## AI-Amplified Offline Distribution
 
 The OpenClaw/David AI experiment adds a high-friction distribution pattern. The agent found local businesses, generated hundreds of personalized website drafts, created QR-coded postcards pointing each owner to their draft site, and supported follow-up calling. The reported result was roughly $8K/month in recurring marketing-service revenue from a small mailed batch.
@@ -316,6 +330,8 @@ The distribution lesson is restraint. Use a small SEO stack, talk to users befor
 `processed/How to get your first users from Reddit without getting banned.md`: Adds a first-user Reddit routine centered on account credibility: a few relevant subreddits, rule-reading, two weeks of useful no-link participation, product mentions only when context clearly asks for them, and measuring DMs plus source-tagged signups over vanity metrics.
 
 `processed/How to Get More Mentions on Reddit 12+ Tips 2026.md`: Adds a Reddit-mention playbook focused on original data, fast replies, competitor-thread monitoring, timing by subreddit activity, and titles that invite discussion; the durable lesson is mention compounding through useful participation, not manufactured hype.
+
+`processed/The Share Button Is the Product Engineering a Viral Loop in Vanilla JS.md`: Adds a concrete share-loop playbook for static products: store exact results in the URL, send social platforms to dedicated landing pages with their own OG assets, generate share-ready images on canvas, and engineer the result screen as the real distribution surface.
 
 `processed/The Solo Founder's Guide to SaaS Launch Copy How to Write Landing Pages, Product Hunt Posts, and Cold Outreach Without a Marketing Team.md`: Adds a low-budget solo SaaS launch system: one ICP promise, minimal waitlist page, story-led Product Hunt launch, 10 manual DMs per day, AI-assisted SEO, and revenue-linked reinvestment rules.
 

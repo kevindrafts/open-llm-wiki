@@ -103,6 +103,29 @@ Useful rules from that source:
 
 The side-door source broadens creator-led work into proof-of-work career and opportunity creation. Public essays, guides, datasets, prototypes, and memos can act as ambassadors for how a person thinks. For creators, this means the audience is not only a monetization asset; it is also a surface where aligned collaborators, employers, clients, and founders can discover unusual fit. See [[proof-of-work-and-side-door-outreach]].
 
+## Repeatable Founder Content Formats
+
+The Anson Lin thread adds a useful content-operations lens: strong founder content does not require endless novelty. It usually recombines a small set of repeatable formats with fresh raw material pulled from the creator's own numbers, scars, and build log.
+
+The raw-material inventory is the real moat:
+
+- Numbers: revenue, users, downloads, reply rates, days since launch, or even small milestones with strong context.
+- Scars: failed products, embarrassing launches, wrong turns, and expensive lessons.
+- Build log: features shipped, bugs fought, hard choices made, and unfinished work in progress.
+
+From there, the six reusable post types are pragmatic:
+
+- Build log.
+- Documented failure.
+- Value post.
+- Receipt screenshot.
+- Contrast hook.
+- Milestone chapter.
+
+The strategic lesson is that format alone is not enough. The same template only works when the input is specific and earned. A screenshot matters because it is proof. A failure story matters because it contains details people do not usually volunteer. A build log matters because people get attached to unfinished things they watched being made.
+
+The source also adds a distribution rule creators routinely underuse: wring the towel. Repost winners with new numbers, quote-tweet old posts to stack context onto something already validated, and treat one outlier as several future posts rather than a one-time success. This turns content into a compounding inventory system instead of a daily improvisation exercise.
+
 ## Source Summaries
 
 `processed/The Solopreneur He Makes $1.7M With 0 Employees.md`: Justin Welsh runs a knowledge business with courses, sponsorships, and paid email products. His funnel is social discovery, long-form trust, then low-pressure offers, supported by a lean software stack and regimented content routine.
@@ -138,6 +161,8 @@ The side-door source broadens creator-led work into proof-of-work career and opp
 `processed/I Started a Faceless TikTok. 301 People Bought My Looksmaxing PDF..md`: Adds a minimal creator-product loop: spot repeated public questions, answer them with faceless short-form content, package the answer into a rough PDF, and let usefulness beat production polish.
 
 `processed/A patron plan with no extra features outsold expectations — and proved design alone can be a business.md`: Adds a design-led creator/business hybrid: software can monetize through taste, authorship, and patron-style support when the product philosophy is strong enough that users want to fund the studio, not only unlock more features.
+
+`processed/Twitter thread from @ansonlin  annotated by Kevin.md`: Adds a reusable founder-content playbook: collect raw material from numbers, scars, and current builds; run it through six repeatable post formats; then recycle winners through reposts, quote tweets, and milestone sequencing instead of chasing constant novelty.
 
 ## Related
 

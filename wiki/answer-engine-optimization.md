@@ -47,6 +47,12 @@ AEO reporting is necessarily patched together. Useful inputs include:
 
 No single source is complete. Referrers miss traffic, self-reporting is partial, bot logs show what models may have seen rather than what they say, and prompt tools only measure chosen prompts. The reporting job is to triangulate rather than pretend one dashboard is definitive.
 
+## Video as Citation Surface
+
+The short-form-video source adds a useful extension to AEO: citation surfaces are no longer limited to webpages and forum threads. Query-matched short videos, especially on YouTube, can rank on buyer-intent B2B software searches and appear on the same results pages where Google is generating AI Overviews.
+
+That means a useful clip can influence the answer layer even when the click does not go to the company site. The practical move is to repurpose long-form webinars, demos, interviews, or walkthroughs into short clips tied to specific buyer queries, with readable hooks, captions, titles, and transcripts. In AEO terms, the clip becomes another retrievable chunk of brand understanding.
+
 ## Local CLI Measurement and Action Plans
 
 The aeo-platform source adds a do-it-yourself measurement pattern for small teams. Instead of buying a hosted dashboard, a local CLI runs real buyer prompts across AI engines, records brand presence, citations, rank, sentiment, crawlability, and off-page authority signals, then exports a JSON context block that can be pasted into an AI chat for a prioritized action plan.
@@ -112,6 +118,8 @@ The practical posture is adaptability. Prompt sets, model behavior, and answer s
 `processed/How to Find Reddit Threads About Your Brand (and Why It Matters in 2026)..md`: Adds Reddit as an AEO evidence source because Reddit threads can rank in Google and be cited by AI systems; monitoring and transparent participation become part of brand visibility.
 
 `processed/Alex Groberman on X This business now gets $98,159month in organic search traffic value.They've also added 500+ ChatGPT citations, 1.4K Perplexity citations and 1.3K Grok citations.They did this by following a 6-step process. Here's how they did.md`: Adds a commercial SEO/GEO package pattern: turn product and category pages into knowledge hubs, create snippet-ready buyer-intent content, build category-aligned authority, and use internal links to make brand-product-category relationships explicit.
+
+`processed/Short-form Video is Showing Up in B2B Search Results and AI Answers.md`: Adds short-form video as an AEO surface: YouTube Shorts and similar clips can rank on buyer-intent software queries and feed Google's AI answers when the content is cut to specific searches with clear transcripts, captions, and titles.
 
 `processed/This is How You Get Your Homepage Viral.md`: Adds Reddit as an offsite consensus and AI-search evidence layer. The strongest lesson is to participate in subreddit-specific conversations with useful, transparent contributions because those discussions can shape future AI answers more than polished landing-page claims.
 
