@@ -34,6 +34,8 @@ Both examples sell AI as part of a service wrapper:
 
 This sits between [[service-business-ai-consulting]] and [[ai-marketing-automation-workflows]]: consulting identifies the opportunity, workflows create the system, and the agency package monetizes delivery.
 
+The Business Warriors case study sharpens this positioning with internal proof. Rather than only promising agent-driven throughput to clients, the agency claims it runs its own operations on the same stack: Hermes orchestration, Claude Code implementation, automated content/video, CRM hygiene, and weekly rather than daily admin oversight. That "use it on ourselves first" framing is a strong trust builder for AI-native agencies because it turns the offer from abstract capability into measured operational evidence.
+
 ## Remediation Services for AI Slop
 
 The AI-slop-cleanup source adds another agency shape: finishing work that AI made cheap to generate. Instead of selling one more generic "AI content" service, the operator sells a bounded remediation offer for copy and design that feel machine-made, vague, overproduced, or off-brand.
@@ -93,9 +95,12 @@ The wedge is not generic "AI consulting." It is a concrete backlog gap. Official
 
 `processed/The AI Slop Cleanup Crew ($12K MRR).md`: Adds a remediation-agency model: start with a fixed 72-hour audit, then sell cleanup sprints and retainers for AI-assisted copy and design that sound generic, with a narrow B2B vertical and a reusable slop-scoring rubric as the moat.
 
+`processed/Business Warriors AI Agent Infrastructure Case Study.md`: Adds an internal-operations proof pattern for AI-native agencies. Business Warriors positions its managed-agent offer around its own measured throughput gains, central orchestration, coding agents, automated media production, pipeline hygiene, and admin automation before applying the stack to clients.
+
 ## Related
 
 - [[service-business-ai-consulting]]
 - [[ai-marketing-automation-workflows]]
 - [[agent-skills-and-agent-native-tools]]
 - [[distribution-led-ai-startups]]
+- [[software-factories-and-agent-loops]]

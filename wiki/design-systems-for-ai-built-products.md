@@ -27,6 +27,14 @@ Design skills act like ingredients: skeuomorphic treatments, 3D elements, lasers
 
 Useful prompting pattern: ask for subtle refinements, consistent layouts, cohesive themes, and specific component-level changes. Broad prompts like "improve the design" often create noisy, inconsistent output.
 
+## Visual Critique Vocabulary
+
+The Expo design-principles source adds a useful missing layer between vague taste and fully specified design systems: a shared critique vocabulary. Contrast, hierarchy, alignment, proximity, repetition, balance, white space, and unity give a builder a concrete way to review AI-generated screens and request revisions that are more precise than "make it nicer."
+
+This matters because design drift is often a steering problem rather than a generation problem. Agents can assemble competent layouts, but without visual language the human reviewer struggles to diagnose why an interface feels cluttered, generic, or off-brand. In practice, these principles work like an intermediate checklist between raw screenshots and a formal `design.md` system.
+
+The article also reinforces a pragmatic workflow: let AI generate a first pass, review a screenshot against the principles, then iterate with targeted feedback. That fits the broader pattern here of turning taste into reusable operational context rather than expecting one-shot perfection.
+
 ## Taste as Moat
 
 The sources argue that baseline AI design is improving but becoming generic. Taste becomes a differentiator because users can feel care, quality, and specificity. For builders, the actionable version is to build a second brain for design inspiration, study products in the niche, and preserve references as reusable context.
@@ -37,9 +45,12 @@ The sources argue that baseline AI design is improving but becoming generic. Tas
 
 `processed/My Claude Code workflow no one knows about.md`: Adds a practical landing-page design workflow using reference screenshots, style guides, Paper, Tail Arc components, subtle animations, and agent-driven refinements before pushing to code and A/B testing.
 
+`processed/How to apply professional design principles in AI app development.md`: Adds an eight-principle critique framework for steering AI-generated interfaces: contrast, hierarchy, alignment, proximity, repetition, balance, white space, and unity. The key lesson is that screenshot-based critique plus explicit visual vocabulary produces better revisions than generic "improve the design" prompts.
+
 ## Related
 
 - [[agent-skills-and-agent-native-tools]]
 - [[distribution-led-ai-startups]]
 - [[ai-native-startup-strategy]]
 - [[ai-marketing-automation-workflows]]
+- [[design-principles-for-ai-app-development]]

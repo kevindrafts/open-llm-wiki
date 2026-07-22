@@ -83,6 +83,8 @@ Useful infrastructure patterns:
 
 This is the operational version of [[ai-native-startup-strategy]]: the service is not merely "build an agent"; it is host, connect, monitor, improve, and explain a reliable digital employee.
 
+The Business Warriors case study adds a concrete "eat your own dog food" proof point for this stack. Their internal setup combines a central Hermes orchestration layer, Claude Code coding agents, automated content and video agents, CRM hygiene agents, and admin/finance automations with human approval at customer-facing checkpoints. The important lesson is not the exact tool list; it is that managed-agent infrastructure becomes more credible when the operator runs core delivery, sales operations, and back-office work on the same system sold to clients.
+
 ## Agent-Native CLIs
 
 Printing Press reframes APIs and websites as agent-friendly command-line tools. Its thesis is that one command should produce a token-efficient Go CLI, a Claude Code skill, an OpenClaw skill, and an MCP server. The examples emphasize local SQLite mirrors, compact outputs, compound commands, and workflows that raw APIs do not expose directly.
@@ -162,6 +164,8 @@ This means agent-native tools should expose verification and feedback as first-c
 `processed/Designing Software for Software Factories.md`: Adds contracts, test harnesses, off-ramps, and feedback loops as the infrastructure around agent tools. The source argues that agents need stable project contracts and autonomous verification more than another one-off prompt.
 
 `processed/Why we're bullish on loops.md`: Adds the goal/context/evaluation/agent loop model and examples such as PR babysitters, bug fixers, flaky-test hunters, and performance autoresearchers.
+
+`processed/Business Warriors AI Agent Infrastructure Case Study.md`: Adds a self-implementation case study from a digital agency that uses Hermes as the orchestration layer, Claude Code for web work, automated content/video and CRM agents, and scheduled admin/finance automations. The strongest takeaway is that internal use can validate managed-agent infrastructure before it is sold externally.
 
 ## Related
 
