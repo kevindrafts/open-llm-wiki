@@ -93,6 +93,7 @@ This index catalogs the compiled wiki topics from the current source set, organi
 - `processed/How to Grow a Solopreneur Business from $0 to $30K (4 Hours a Week).md` - Covered in [[creator-led-solopreneurship]] and [[ai-assisted-market-research-and-validation]].
 - `processed/I Sent 500 Cold Emails With One Prompt. 167 Replies, 43 Meetings, $94,000 in Pipeline. Here's What I Learned.md` - Covered in [[cold-email-deliverability-2026]].
 - `processed/My Substack Just Crossed 18,000 Subscribers. The Strategy Behind it is Embarrassingly Simple..md` - Covered in [[creator-led-solopreneurship]].
+- `processed/How to grow on Substack from 0.md` - Covered in [[creator-led-solopreneurship]].
 - `processed/My autonomous agent scraped 35 real questions from French renters — then rewrote our homepage.md` - Covered in [[website-conversion-and-b2b-lead-generation]], [[ai-assisted-market-research-and-validation]], [[ai-marketing-automation-workflows]], [[distribution-led-ai-startups]], and [[ai-native-startup-strategy]].
 - `processed/MCP is dead  Quandri Engineering.md` - Covered in [[agent-skills-and-agent-native-tools]].
 - `processed/Services The New Software.md` - Covered in [[ai-native-startup-strategy]] and [[ai-native-service-agencies]].

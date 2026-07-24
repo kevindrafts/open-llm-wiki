@@ -36,6 +36,18 @@ Monetization system:
 
 Two newer Substack sources sharpen the operating loop. One creator crossed 18,000 subscribers by focusing on a 20-minute daily Notes routine: write two or three Notes, restack older work for new subscribers, restack adjacent creators whose audiences overlap, and use personal story as the durable differentiator. The model is simple: Notes and restacks create discovery, story creates trust, and a sub-$100 digital product turns trust into revenue.
 
+Natalie O'Neill's Substack growth source adds a more beginner-focused operating layer. The first important distinction is mechanical: Posts are the email product and Notes are the algorithmic discovery feed. That changes cadence decisions. Posting too often is not "more content"; it is emailing subscribers too often, which makes one or two strong posts per week a safer default than daily publishing. Notes can be more frequent because they function more like top-of-funnel social content.
+
+That source also adds several practical early-stage rules:
+
+- Study the platform deliberately for a short season instead of hoping intuition transfers from Instagram, TikTok, or X.
+- Follow one credible Substack growth operator closely rather than assembling a noisy advice collage.
+- Pick two or three durable pillars based on questions people already ask you, not on trends you cannot sustain.
+- Set a posting cadence you can keep so reader expectation and writing workload stay aligned.
+- Give substantial free value before paywalling aggressively because trust and free-subscriber depth come before paid conversion.
+
+The useful lesson is that early Substack growth is partly a content problem but also a channel-mechanics problem. A creator has to understand what is being sent by email, what is being distributed by algorithm, and what behavior builds trust instead of exhausting the list.
+
 Finn Tropy's weekend-bound business shows a more analytical version. After 197 scattered topics, the useful posts were not generic creativity; they were infrastructure disguised as content: scraping Medium/Substack data, analyzing it, writing about the insights, then selling the dataset, Chrome extensions, and Substack tooling that saved other writers the same work. The loop is write, measure, build, sell, support, repeat. Content becomes marketing for the system the creator actually uses.
 
 Nicolas Cole's first-10-newsletters framework adds a simple starting system. Instead of waiting for a perfect editorial strategy, a new newsletter can turn one niche into ten useful angles: tips, stats, steps, lessons, benefits, reasons, mistakes, examples, questions, and personal stories. Each issue should make the promised angle visible in the subject and subheads, then stack other angles inside each section to add specificity.
@@ -143,6 +155,8 @@ The source also adds a distribution rule creators routinely underuse: wring the 
 `processed/My Substack Just Crossed 18,000 Subscribers. The Strategy Behind it is Embarrassingly Simple..md`: Adds a simple Substack growth loop: daily Notes, strategic restacking, personal story, and a focused under-$100 digital product as the monetization bridge.
 
 `processed/How to Grow a Solopreneur Business from $0 to $30K (4 Hours a Week).md`: Adds the infrastructure-as-content pattern: scrape and analyze platform data, publish the insight, then sell the dataset, extension, or workflow that saves other creators the same work.
+
+`processed/How to grow on Substack from 0.md`: Adds beginner Substack operating rules: treat Posts as emails and Notes as algorithmic discovery, avoid over-emailing, study the platform on purpose, choose durable pillars, set a sustainable cadence, and delay aggressive paywalls until trust is established.
 
 `processed/How I Run 3 Production AI SaaS on $5Month of Hosting.md`: Adds a practical lean-stack reference for solo builders who turn audience insights into small software products without taking on high fixed infrastructure costs.
 
