@@ -156,3 +156,6 @@ This index catalogs the compiled wiki topics from the current source set, organi
 - `processed/The AI Slop Cleanup Crew ($12K MRR).md` - Covered in [[ai-native-service-agencies]].
 - `processed/The Share Button Is the Product Engineering a Viral Loop in Vanilla JS.md` - Covered in [[distribution-led-ai-startups]].
 - `processed/Twitter thread from @ansonlin  annotated by Kevin.md` - Covered in [[creator-led-solopreneurship]] and [[distribution-led-ai-startups]].
+- `processed/Building your audience from scratch doesn't have to be hard  (a deep dive).md` - Covered in [[creator-led-solopreneurship]] and [[distribution-led-ai-startups]].
+- `processed/🎙️ How I AI How the founder of Morning Brew built a Claude content machine that never runs out of ideas.md` - Covered in [[creator-led-solopreneurship]] and [[ai-marketing-automation-workflows]].
+- `processed/I Built a CLI That Finds Me Clients on Reddit Using AI.md` - Covered in [[distribution-led-ai-startups]] and [[ai-assisted-market-research-and-validation]].

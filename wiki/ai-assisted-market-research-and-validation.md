@@ -62,6 +62,8 @@ The Upwork SaaS lead-source thread reframes freelance marketplaces as public dat
 
 For validation, repeated freelance job posts are stronger than abstract idea brainstorming because buyers have already written mini-PRDs and allocated budget. The caveat is volume: this can produce first customers and feature validation, not necessarily a scalable channel.
 
+The Cypher Reddit-lead CLI source extends the same idea to communities. Instead of waiting for a buyer to post on Upwork, the operator watches subreddits where prospects already ask for help, uses keyword filtering to cut noise, then applies AI to score intent, budget, urgency, and fit. The validation lesson is that public forums can function like lower-structure job boards when the operator can reliably separate "looking for a tool" from "looking to hire a person."
+
 ## Manual Discovery and Copy Feedback
 
 The founder-sales and website-copywriting sources add a low-tech validation loop: talk to prospects before automating outreach, then reuse their language in page copy. Manual discovery helps identify whether the problem is painful enough to pay for, while conversion copy turns that language into headlines, proof, objections, and CTAs.
@@ -97,6 +99,8 @@ This is a useful pattern when the target customer is also trapped inside a platf
 `processed/83 Days, $20KMonth The App Strategy That Changed Everything.md`: Once validated a disposable-camera event app by setting a commitment metric before production build: 10 real hosts with upcoming events. The source emphasizes personal-network outreach, short cold Instagram messages, and validating emotional resonance before using Claude Code, Supabase, Vercel, and Figma to build the polished app.
 
 `processed/I found the most overlooked B2B lead source for SaaS.md`: Reframes Upwork as a buyer-intent database where prospects have already written requirements, budget, urgency, and willingness to pay. It is useful both for early SaaS leads and for discovering repeated custom-software requests that signal product demand.
+
+`processed/I Built a CLI That Finds Me Clients on Reddit Using AI.md`: Adds a public-forum intent-mining workflow: monitor chosen subreddits, keyword-filter likely buyer posts, score them with AI for intent/budget/urgency/fit, and use the ranked output as validation or lead input.
 
 `processed/My autonomous agent scraped 35 real questions from French renters — then rewrote our homepage.md`: Adds a rigorous public-forum research loop: scrape real questions, filter for scope and relevance, tag by pain, publish the corpus, and use it to rewrite homepage copy.
 

@@ -48,6 +48,10 @@ That source also adds several practical early-stage rules:
 
 The useful lesson is that early Substack growth is partly a content problem but also a channel-mechanics problem. A creator has to understand what is being sent by email, what is being distributed by algorithm, and what behavior builds trust instead of exhausting the list.
 
+The Vibe Marketer audience-building source adds a more systematic social-content variant for creators starting from zero on X or LinkedIn. Its sequence is: lock a narrow niche, specific audience, one primary channel, a rough voice baseline, and some proof; study creators one tier above the operator's current stage rather than only celebrity accounts; decompose their winning posts into hooks, sentence structures, CTAs, and media combinations; then look for arbitrage in timing, positioning, and underused format combinations before drafting a 30-day content calendar. The useful point is that "build an audience" can be treated as a research-and-iteration workflow, not as pure creativity or hustle.
+
+That source also sharpens a creator operating rule already visible elsewhere in this wiki: borrowed patterns are temporary scaffolding. The first month is for collecting your own data by pillar, hook, format, and CTA, then replacing imitation with evidence from your own audience. In practice, AI is most useful here as a pattern-tagging and planning assistant, not as the author of interchangeable posts.
+
 Finn Tropy's weekend-bound business shows a more analytical version. After 197 scattered topics, the useful posts were not generic creativity; they were infrastructure disguised as content: scraping Medium/Substack data, analyzing it, writing about the insights, then selling the dataset, Chrome extensions, and Substack tooling that saved other writers the same work. The loop is write, measure, build, sell, support, repeat. Content becomes marketing for the system the creator actually uses.
 
 Nicolas Cole's first-10-newsletters framework adds a simple starting system. Instead of waiting for a perfect editorial strategy, a new newsletter can turn one niche into ten useful angles: tips, stats, steps, lessons, benefits, reasons, mistakes, examples, questions, and personal stories. Each issue should make the promised angle visible in the subject and subheads, then stack other angles inside each section to add specificity.
@@ -95,6 +99,10 @@ The useful split is labor versus calls. AI can gather inputs, propose topics, re
 Daria Cupareanu's Claude Code distribution agent adds a sharper creator-operator boundary. Newsletter writing stays human because it carries the creator's thinking, builds, and experiments. Distribution drafts, Reddit discovery, LinkedIn scheduling, article ingestion, and wiki filing can be automated because they are repetitive and emotionally costly. The system still routes drafts through Slack for approval, rejection, or rewrite so the creator's edits become training data for future instructions.
 
 The lesson for creator-led businesses is to automate the avoided growth work without outsourcing the trust-bearing voice. A plain-text repo, memory files, an internal wiki, scheduled routines, and approval queues can give one creator the operating leverage of a distribution assistant while preserving the final judgment call.
+
+Alex Lieberman's Claude content-machine workflow adds a more interview-driven version of the same thesis. The strongest pieces are not "AI writes posts" but an idea Oracle that scans recent internal context for content spikes, a voice file that stores patterns from the creator's best historical work, an interview panel that extracts examples and specificity before drafting, and a Writer's Council that scores drafts until they clear a quality bar. The durable lesson is that slop usually enters upstream when the raw material is thin. A better system improves idea selection, voice calibration, and extraction of specific stories before it ever asks the model to draft.
+
+That source also adds an organizational distribution angle useful beyond solo creators: employee advocacy can become a structured channel if content creation is treated as a supported system rather than a vague expectation. Internal incentives, reusable voice/context files, and editorial quality gates can make founder and employee posting more consistent without reducing everything to generic corporate content.
 
 ## AI-Assisted Digital Products
 
@@ -158,6 +166,8 @@ The source also adds a distribution rule creators routinely underuse: wring the 
 
 `processed/How to grow on Substack from 0.md`: Adds beginner Substack operating rules: treat Posts as emails and Notes as algorithmic discovery, avoid over-emailing, study the platform on purpose, choose durable pillars, set a sustainable cadence, and delay aggressive paywalls until trust is established.
 
+`processed/Building your audience from scratch doesn't have to be hard  (a deep dive).md`: Adds a staged audience-building workflow for X and LinkedIn: define niche and proof, study creators one tier above your current level, extract repeatable hook/CTA/format patterns, find positioning or timing arbitrage, and use the first 30 days to generate your own performance data.
+
 `processed/How I Run 3 Production AI SaaS on $5Month of Hosting.md`: Adds a practical lean-stack reference for solo builders who turn audience insights into small software products without taking on high fixed infrastructure costs.
 
 `processed/I Turned Claude AI into a $6,200Month Digital Product Machine.md`: Adds a practical AI-assisted digital-product loop: create prompt packs, Notion templates, and ebooks with Claude, add personal examples and editing, price around impulse-buy levels, sell through Gumroad, promote with useful free tips, and update from buyer feedback.
@@ -165,6 +175,8 @@ The source also adds a distribution rule creators routinely underuse: wring the 
 `processed/I Posted 12 Medium Articles “Naked.” Then I Submitted Two to a Publication. Here’s the Difference..md`: Adds a creator distribution lesson: Medium posts without publication submission can receive almost no internal feed exposure, so publication submission should be part of the writing workflow rather than a separate optional step.
 
 `processed/I Built an AI System to Run My Content Operation. Here's the Whole Thing..md`: Adds a solo content-operations architecture: orchestrated idea queue, human approvals, Gemini research, Claude drafting against learned voice patterns, Ghost publishing, Buffer distribution, image generation, dashboard reporters, and watcher jobs.
+
+`processed/🎙️ How I AI How the founder of Morning Brew built a Claude content machine that never runs out of ideas.md`: Adds an interview-driven AI content system: an internal-context idea Oracle, a markdown voice guide, interviewer personas to extract specifics, a Writer's Council for quality scoring, and employee advocacy as a distribution multiplier.
 
 `processed/How to write your first 10 newsletters on Substack.md`: Adds a first-10-newsletters framework: expand one niche through tips, stats, steps, lessons, benefits, reasons, mistakes, examples, questions, and personal stories, then make the promised angle visible in the subject line and section headings.
 

@@ -40,6 +40,8 @@ Aline adds a more productionized prospecting-agent workflow. The agent scans dai
 
 The X content engine source adds a content-production version of the same modular pattern. A brand-voice skill feeds an article writer skill; the article becomes quote tweets; quote tweets become infographic prompts; an orchestrator skill runs the downstream skills in parallel. The system is fast, but still depends on human taste, source verification, and format awareness.
 
+The Alex Lieberman content-machine source adds a stronger pre-draft architecture for marketing systems that depend on founder voice. Instead of starting from a prompt box, the workflow starts with an "Oracle" that mines seven days of Slack, Notion, Gmail, meeting notes, and followed accounts for ranked content spikes. It then uses a markdown voice guide, a panel of interviewer personas to pull out examples and contrarian takes, and a Writer's Council that repeatedly scores and revises the draft until it meets a threshold. The practical lesson is that content automation quality depends less on model choice than on upstream idea selection, voice memory, and extraction of specific material the model can shape.
+
 ## Agentic Growth Loops
 
 The newer Claude Code workflow source turns marketing automation into a full growth loop: idea context, lead magnet, landing page, design refinement, analytics, A/B testing, and performance logging. The key step is preserving business context in files so the agent can improve campaigns with knowledge of audience, offer, traffic, and prior tests.
@@ -61,6 +63,8 @@ The Growbots case shows how GTM teams can compress small internal tools into the
 The Claude Code content-distribution source adds a creator-specific automation OS. A scheduled cloud routine wakes up every six hours, ingests newly published articles from email, files them into an internal wiki, drafts Reddit posts and replies, sends approval requests to Slack, publishes approved LinkedIn posts on schedule, and uses weekly edit history to improve its own voice and workflow instructions. The important boundary is that distribution labor is automated, but publishing judgment remains human-reviewed.
 
 The same source gives a useful automation rule: start with the work the operator avoids, not only the work already happening. Automating distribution did not merely save time; it made Reddit and LinkedIn activity happen consistently after months of avoidance. This makes AI automation a behavior-design tool as much as a productivity tool.
+
+The Morning Brew/Tenex workflow also adds a useful reinforcement pattern. After a piece is published, the system compares the draft to the final version, extracts the generalizable edits, and asks whether they belong in a permanent lessons file. This is the higher-value version of "prompt iteration": preserve lessons in files, not in operator memory, so the system stops repeating the same quality mistakes.
 
 ## Agency Operations
 
@@ -126,6 +130,8 @@ The source also adds a competitive-intelligence twist. Competitor subject lines,
 `processed/Content Distribution for SaaS Founders How to Get Seen Without Paid Ads.md`: Adds a weekly content automation frame: start from one product truth, create one primary asset, repurpose into channel-native posts, and connect each asset to a capture path.
 
 `processed/I Built an AI System to Run My Content Operation. Here's the Whole Thing..md`: Adds a complete solo content-operations system: orchestrator, pitch queue, Gemini research, Claude drafting against voice patterns, internal-link optimizer, Ghost scheduler, Buffer distributor, dashboard characters, image generation, and watchers, all gated by human approval.
+
+`processed/🎙️ How I AI How the founder of Morning Brew built a Claude content machine that never runs out of ideas.md`: Adds a stronger upstream content workflow: internal-context idea mining, voice-file calibration, AI interview panels for specificity extraction, draft-scoring councils, and post-publication lesson capture.
 
 `processed/How Growbots uses Claude Code + Val Town MCP for frictionless deployment.md`: Adds a GTM internal-tool automation pattern where Claude Code writes sales and scraping tools, Val Town deploys them through MCP, and the outputs run as Slack commands, CRM helpers, proposal generators, and Clay-compatible endpoints.
 

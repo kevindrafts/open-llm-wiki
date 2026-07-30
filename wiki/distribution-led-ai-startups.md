@@ -114,6 +114,8 @@ The Slidetik source turns content distribution into a smaller SaaS-specific oper
 
 The useful channel split is discovery, trust, and capture. Discovery can be TikTok slideshows, YouTube Shorts, Reddit, SEO, or short demos. Trust can be LinkedIn, X, founder notes, changelogs, and build-in-public posts. Capture can be email, trial, waitlist, demo booking, or a focused onboarding flow. The key is not being everywhere; it is repeating one insight across surfaces with an obvious next step.
 
+The Vibe Marketer audience-building source adds a more explicit discovery-system play for founders building public distribution from zero. The stack is: define one niche, one reader, one channel, and enough proof to be credible; study creators one tier above your current level rather than only giant accounts; tag their winning hooks, formats, CTAs, and positioning; then look for arbitrage in timing and format combinations before publishing your own 30-day test calendar. For startup distribution, the important point is that audience-building can be run like market research and message testing, not only personal-brand improvisation.
+
 Meteorra adds an early-founder distribution sequencing lesson inside this model. With roughly 100 X followers, the founder reports that replies on larger accounts produced materially more impressions than original posts. That is a useful reminder that borrowed reach can outperform audience-building vanity work at the start. Combined with directory submissions, third-party features such as Medium publications, and pre-launch communities like Fazier, this creates a practical "small founder" stack: ship several useful entry points, borrow attention where possible, and let each surface feed signups into the same product family.
 
 The Medium publication source adds a tactical distribution warning: publishing is not the same as entering a channel's distribution layer. The author posted 12 Medium articles without submitting to publications and got almost no internal exposure. Two later submissions to Startup Stash generated more presentations than many "naked" articles combined. For founder content, distribution steps such as publication submission, community posting, syndication, newsletter swaps, and partner channels should be part of the publishing checklist.
@@ -206,6 +208,8 @@ The Setproduct Reddit playbook adds a more tactical first-user routine for found
 This sharpens the operating rule from "participate carefully" to "earn permission before mentioning the product." For early-stage founders, the strongest Reddit signals are profile clicks, DMs, and source-tagged signups, not upvotes. That makes Reddit closer to relationship infrastructure than broadcast promotion.
 
 The Brand24 Reddit-mentions source reinforces the same surface from a different angle. Its stronger lesson is not the promotional framing, but that original data, named frameworks, early replies, competitor-thread monitoring, and subreddit-specific timing can increase how often other users mention a brand. The weaker claims around precise chatbot citation share should be treated cautiously, but the distribution takeaway still holds: Reddit mentions can compound as social proof, search evidence, and future AI-answer inputs when they come from genuinely useful participation rather than planted promotion.
+
+The Cypher Reddit-lead CLI source adds a service-provider and consultant variation. Instead of using Reddit mainly for awareness or discussion, it scans chosen subreddits, filters posts by relevant keywords, uses AI to score buyer intent, budget, urgency, and fit, then ranks likely leads locally in a SQLite-backed workflow. The important idea is not the specific tool; it is that community platforms can be treated as live demand streams where AI helps separate purchasing intent from general chatter. For founders selling services or high-touch products, this makes Reddit part of prospecting infrastructure, not just brand marketing.
 
 ## Launch Copy and Early Distribution
 
@@ -346,6 +350,10 @@ The distribution lesson is restraint. Use a small SEO stack, talk to users befor
 `processed/Alex Groberman on X This business now gets $98,159month in organic search traffic value.They've also added 500+ ChatGPT citations, 1.4K Perplexity citations and 1.3K Grok citations.They did this by following a 6-step process. Here's how they did.md`: Adds a commercial AEO/GEO distribution system built from product/category knowledge hubs, buyer-intent articles, category-aligned authority, and internal-link clusters.
 
 `processed/I Built a Free Tool and It Outperformed Every Blog Post I've Written.md`: Adds a lightweight free-tool pattern for SaaS distribution: encode a proprietary framework into an interactive quiz, keep the implementation client-side and low-friction, and let the tool outperform generic SEO blog posts on both engagement and signup intent.
+
+`processed/Building your audience from scratch doesn't have to be hard  (a deep dive).md`: Adds an audience-building research system: define niche and voice constraints, study near-stage creators, extract repeatable post structures, find positioning/timing arbitrage, and run a 30-day content test loop.
+
+`processed/I Built a CLI That Finds Me Clients on Reddit Using AI.md`: Adds a Reddit-as-prospecting pattern where keyword filtering plus AI intent scoring turns subreddit posts into ranked service or freelance leads.
 
 ## Related
 
