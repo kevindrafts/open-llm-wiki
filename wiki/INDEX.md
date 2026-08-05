@@ -1,4 +1,4 @@
-This index catalogs the compiled wiki topics from the current source set, organized around agent tooling, software factories, AI knowledge-base maintenance, marketing workflows, SEO, answer engine optimization, signal-based outbound, website conversion, HTML-first web patterns, social intelligence, AI-native service businesses, bootstrapped apps, solopreneurship, design-first software, practical visual design critique for AI-built products, validation, owned distribution loops, proof-of-work outreach, outcome pricing, autopilot services, portfolio micro-SaaS strategy, unbundled API-wrapper businesses, lean AI SaaS infrastructure, AI-assisted product design, and offline local arbitrage businesses.
+This index catalogs the compiled wiki topics from the current source set, organized around agent tooling, software factories, AI knowledge-base maintenance, marketing workflows, SEO, answer engine optimization, signal-based outbound, website conversion, HTML-first web patterns, social intelligence, AI-native service businesses, bootstrapped apps, solopreneurship, design-first software, practical visual design critique for AI-built products, validation, owned distribution loops, proof-of-work outreach, outcome pricing, autopilot services, productized service pivots, portfolio micro-SaaS strategy, unbundled API-wrapper businesses, lean AI SaaS infrastructure, AI-assisted product design, and offline local arbitrage businesses.
 
 # Knowledge Base Index
 
@@ -32,6 +32,7 @@ This index catalogs the compiled wiki topics from the current source set, organi
 
 - [[ai-assisted-market-research-and-validation]] - AI-supported niche expansion, Reddit pain mining, platform analytics, search validation, competitor traction checks, job-post demand, commitment metrics, landing pages, and waitlists.
 - [[micro-saas-and-bootstrapped-apps]] - Boring micro-SaaS and bootstrapped app playbooks based on proven demand, competitor complaint mining, unbundled APIs, small teams, managed-service architecture, lean AI SaaS stacks, portfolio kill rules, SEO, reviews, and product focus.
+- [[productized-service-pivots-for-saas]] - The manual-first path where fixed-scope services fund development, teach the workflow, generate proof, and convert into SaaS features and subscribers.
 - [[design-first-software-businesses]] - Premium utility apps, patron-style monetization, authored software, complete-product philosophy, game-feel interaction design, and design taste as the core business wedge.
 - [[offline-local-arbitrage-businesses]] - Facebook Marketplace-first local products, temporary rentals, awkward inventory flips, public-record prospecting, and other offline businesses that use real-world friction as the moat.
 
@@ -145,6 +146,7 @@ This index catalogs the compiled wiki topics from the current source set, organi
 - `processed/I Built a Claude Code AI Agent That Runs My Content Distribution While I Sleep.md` - Covered in [[ai-marketing-automation-workflows]], [[creator-led-solopreneurship]], [[llm-maintained-knowledge-bases]], and [[distribution-led-ai-startups]].
 - `processed/Inside a Tiny Empire Plausible Analytics.md` - Covered in [[micro-saas-and-bootstrapped-apps]], [[distribution-led-ai-startups]], and [[website-conversion-and-b2b-lead-generation]].
 - `processed/This is How You Get Your Homepage Viral.md` - Covered in [[distribution-led-ai-startups]], [[answer-engine-optimization]], and [[seo-and-ai-search-strategy]].
+- `processed/The Productized Service Pivot.md` - Covered in [[productized-service-pivots-for-saas]] and [[micro-saas-and-bootstrapped-apps]].
 - `processed/Why we're bullish on loops.md` - Covered in [[software-factories-and-agent-loops]], [[agent-skills-and-agent-native-tools]], and [[ai-native-startup-strategy]].
 - `processed/Business Warriors AI Agent Infrastructure Case Study.md` - Covered in [[agent-skills-and-agent-native-tools]] and [[ai-native-service-agencies]].
 - `processed/How to apply professional design principles in AI app development.md` - Covered in [[design-principles-for-ai-app-development]] and [[design-systems-for-ai-built-products]].

@@ -136,6 +136,8 @@ The founder-sales source reinforces the "do things that do not scale" version of
 
 The manual phase reveals workflow edge cases, buyer objections, demo risks, and the language customers use to describe the pain. Those insights improve both the product and the conversion layer in [[website-conversion-and-b2b-lead-generation]].
 
+The productized-service-pivot source adds a more structured version of the same pattern. Instead of loosely "doing things manually," the founder sells a fixed-scope audit or implementation offer with clear pricing and deliverables, then treats every engagement as both revenue and roadmap discovery. That matters because a bounded service can create cash flow, trust, and repeatable delivery steps that later become the SaaS itself. See [[productized-service-pivots-for-saas]].
+
 ## Commitment Before Code
 
 Once adds a consumer-app version of bootstrapped validation. The product was emotionally specific: a shared disposable camera for weddings, birthdays, parties, and events where delayed reveal and limited shots make the experience feel more present. The founders validated with a rough web prototype at a Halloween party, then set a hard commitment metric of 10 real upcoming events before production build.
@@ -161,6 +163,8 @@ Good signals in job posts include specific requirements, realistic budget, buyer
 `processed/I make $40Kmonth with this one website.md`: Angus Cheng built Bank Statement Converter as a simple one-job website. The source emphasizes quick MVPs, real-user feedback, avoiding unprofitable channels, patience through low-revenue years, and accepting small markets as enough for solopreneurs.
 
 `processed/SaaS Founder Sales Why Manual Outreach Beats Automation and Funnels.md`: Adds the manual-first SaaS pattern: sell before building, manually fulfill until the workflow is understood, and do not delegate or automate sales before the founder can personally win early customers.
+
+`processed/The Productized Service Pivot.md`: Adds a productized-service version of manual-first bootstrapping: sell a fixed-scope outcome before the SaaS is ready, automate the repeated delivery steps into software, and use service clients as the first trusted SaaS subscribers.
 
 `processed/83 Days, $20KMonth The App Strategy That Changed Everything.md`: Once is a bootstrapped event-photo app that reportedly reached $20K/month within 83 days by validating 10 committed events before production build, then using a lean stack of Figma, Claude Code, Supabase, and Vercel. It is most useful for the commitment-metric and event-driven viral loop, not for the headline revenue claim alone.
 
@@ -209,5 +213,6 @@ Good signals in job posts include specific requirements, realistic budget, buyer
 - [[seo-and-ai-search-strategy]]
 - [[creator-led-solopreneurship]]
 - [[ai-native-startup-strategy]]
+- [[productized-service-pivots-for-saas]]
 - [[website-conversion-and-b2b-lead-generation]]
 - [[html-first-web-apps-and-progressive-enhancement]]
