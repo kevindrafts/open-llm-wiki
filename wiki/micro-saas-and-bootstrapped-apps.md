@@ -138,6 +138,8 @@ The manual phase reveals workflow edge cases, buyer objections, demo risks, and 
 
 The productized-service-pivot source adds a more structured version of the same pattern. Instead of loosely "doing things manually," the founder sells a fixed-scope audit or implementation offer with clear pricing and deliverables, then treats every engagement as both revenue and roadmap discovery. That matters because a bounded service can create cash flow, trust, and repeatable delivery steps that later become the SaaS itself. See [[productized-service-pivots-for-saas]].
 
+The "first 20 customers in 14 days" source turns this manual-first idea into a concrete first-customer script. Instead of polishing the product, the founder built a spreadsheet of recent ecommerce operators complaining about manual inventory and CSV work, sent plain-text DMs asking permission to share a 40-second demo, closed the first buyers through a bare Stripe link, and manually onboarded them to collect bugs and testimonials. The useful lesson is that ugly early sales can still be high-signal if the pain is real; polished UI and infrastructure often matter less than finding people who already describe the exact workflow problem in public.
+
 ## Commitment Before Code
 
 Once adds a consumer-app version of bootstrapped validation. The product was emotionally specific: a shared disposable camera for weddings, birthdays, parties, and events where delayed reveal and limited shots make the experience feel more present. The founders validated with a rough web prototype at a Halloween party, then set a hard commitment metric of 10 real upcoming events before production build.
@@ -205,6 +207,8 @@ Good signals in job posts include specific requirements, realistic budget, buyer
 `processed/Inside a Tiny Empire Plausible Analytics.md`: Adds a bootstrapped SaaS case study: a simple privacy-first analytics product grew from Google Analytics frustration by combining open-source trust, pageview-based pricing, developer communities, alternative/compliance SEO, and transparent company writing.
 
 `processed/Public prediction pages are the SEO moat I wish I'd built sooner.md`: Adds a product architecture lesson for bootstrapped apps: when the core action generates public, searchable pages with standalone value, the app can grow its own SEO surface through usage instead of relying only on editorial content.
+
+`processed/How I Got My First 20 Micro-SaaS Customers in 14 Days.md`: Adds a gritty first-customer playbook for micro-SaaS: identify recent public complaints, use permission-based DMs and a short Loom instead of a polished launch, take payment before the product is fully productized, and use manual onboarding to turn early buyers into proof and product insight.
 
 ## Related
 

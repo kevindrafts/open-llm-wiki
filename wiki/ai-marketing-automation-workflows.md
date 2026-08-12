@@ -42,6 +42,8 @@ The X content engine source adds a content-production version of the same modula
 
 The Alex Lieberman content-machine source adds a stronger pre-draft architecture for marketing systems that depend on founder voice. Instead of starting from a prompt box, the workflow starts with an "Oracle" that mines seven days of Slack, Notion, Gmail, meeting notes, and followed accounts for ranked content spikes. It then uses a markdown voice guide, a panel of interviewer personas to pull out examples and contrarian takes, and a Writer's Council that repeatedly scores and revises the draft until it meets a threshold. The practical lesson is that content automation quality depends less on model choice than on upstream idea selection, voice memory, and extraction of specific material the model can shape.
 
+The Vibe Marketer "4 vibe marketing builds" source adds a cleaner statement of the human role in these systems. Across local-directory operations, spec-driven website rebuilds, tool-grounded code audits, and Slack-native image generation, the human either defines the direction up front or judges the output at the end. Agents handle the repetitive middle: listing discovery, freshness checks, SEO-change drafting, newsletter assembly, project execution, code-audit aggregation, or asset generation. The practical lesson is that strong marketing automation often removes the human from execution without removing the human from accountability.
+
 ## Agentic Growth Loops
 
 The newer Claude Code workflow source turns marketing automation into a full growth loop: idea context, lead magnet, landing page, design refinement, analytics, A/B testing, and performance logging. The key step is preserving business context in files so the agent can improve campaigns with knowledge of audience, offer, traffic, and prior tests.
@@ -140,6 +142,8 @@ The source also adds a competitive-intelligence twist. Competitor subject lines,
 `processed/Claude SEO Skills 101 Master Claude for SEO.md`: Adds SEO skills as reusable marketing operations: content refreshes, internal-link passes, meta audits, style polishing, subagent research, context files, and scheduled execution.
 
 `processed/Building an AI-Native Email Marketing System.md`: Adds an email-operations stack where Claude connects to an ESP, runs recurring list and flow audits, tracks competitor emails, generates templates and dashboards, and stores campaign learnings in GitHub so the system can keep improving.
+
+`processed/4 vibe marketing builds on automating websites, content & quality checks.md`: Adds four AI-assisted marketing build patterns where humans set direction or approve results while agents handle the repetitive middle across listing ops, site builds, code audits, and Slack-native asset generation.
 
 ## Related
 

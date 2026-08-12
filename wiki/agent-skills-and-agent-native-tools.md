@@ -123,6 +123,8 @@ The practical loop structure is goal, context, evaluation, and agent. A PR babys
 
 This means agent-native tools should expose verification and feedback as first-class capabilities, not only read/write APIs. The most valuable interfaces may be test runners, browser checks, trace viewers, metric queries, review summaries, and contract files that tell the agent what counts as a good change. See [[software-factories-and-agent-loops]].
 
+The context-compaction source adds a harness-level reliability layer underneath all of this tooling. Tool-rich coding sessions create their own context-management problem through long file reads, command output, and accumulated history. A serious agent stack therefore needs policies for pruning stale tool output, compacting old conversation prefixes, preserving a reconstructable audit trail, and separating a chosen working-memory budget from the model's raw context maximum. See [[context-compaction-for-coding-agents]].
+
 ## Source Summaries
 
 `processed/The Agent Skills Directory.md`: Skills.sh presents skills as reusable capabilities that can be installed into multiple AI agents. The source is mostly a directory landing page, but its useful takeaway is the framing of skills as portable procedural knowledge.
@@ -167,6 +169,8 @@ This means agent-native tools should expose verification and feedback as first-c
 
 `processed/Business Warriors AI Agent Infrastructure Case Study.md`: Adds a self-implementation case study from a digital agency that uses Hermes as the orchestration layer, Claude Code for web work, automated content/video and CRM agents, and scheduled admin/finance automations. The strongest takeaway is that internal use can validate managed-agent infrastructure before it is sold externally.
 
+`processed/The Hard Parts Of Context Compaction.md`: Adds the harness-maintenance layer for coding agents: prune old tool output before summarizing, compact conversation prefixes manually rather than relying on provider-specific opaque summaries, keep a reconstructable audit trail, and treat compaction as a lossy but necessary systems operation.
+
 ## Related
 
 - [[llm-maintained-knowledge-bases]]
@@ -176,3 +180,4 @@ This means agent-native tools should expose verification and feedback as first-c
 - [[design-systems-for-ai-built-products]]
 - [[distribution-led-ai-startups]]
 - [[software-factories-and-agent-loops]]
+- [[context-compaction-for-coding-agents]]

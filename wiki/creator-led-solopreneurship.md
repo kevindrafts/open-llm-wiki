@@ -114,6 +114,8 @@ The Medium publication source adds a distribution mechanic to creator publishing
 
 The faceless TikTok PDF source adds a stripped-down creator path with almost no brand overhead. The creator noticed repeated questions people were already asking, used faceless short videos to answer them, packaged the answers into a rough PDF, and sold clarity rather than polish. The point is not TikTok specifically. It is that a solo creator can monetize obsessive, repeated questions with a small information product before they have a personal brand, polished funnel, or full course.
 
+The Amazon-influencer source adds a creator-business model that borrows traffic from a marketplace instead of from the creator's own audience. The operator publishes short review videos directly on product pages where Amazon already has purchase intent, then compounds income through many simple videos rather than through a personal social-media following. The important levers are product selection, low competition, strict compliance with the platform's approval rules, and a growing library of review assets that keep earning after they are posted.
+
 Useful rules from that source:
 
 - Notice repeated questions before inventing a topic.
@@ -189,6 +191,8 @@ The source also adds a distribution rule creators routinely underuse: wring the 
 `processed/A patron plan with no extra features outsold expectations — and proved design alone can be a business.md`: Adds a design-led creator/business hybrid: software can monetize through taste, authorship, and patron-style support when the product philosophy is strong enough that users want to fund the studio, not only unlock more features.
 
 `processed/Twitter thread from @ansonlin  annotated by Kevin.md`: Adds a reusable founder-content playbook: collect raw material from numbers, scars, and current builds; run it through six repeatable post formats; then recycle winners through reposts, quote tweets, and milestone sequencing instead of chasing constant novelty.
+
+`processed/Make $25K a Month From Your Phone.md`: Adds a marketplace-native creator income model built on Amazon review videos: publish short product reviews where buyer intent already exists, optimize for low-competition listings and rule-compliant tagging, and let a large library of simple videos compound without relying on a personal social audience.
 
 ## Related
 

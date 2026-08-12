@@ -64,6 +64,8 @@ For validation, repeated freelance job posts are stronger than abstract idea bra
 
 The Cypher Reddit-lead CLI source extends the same idea to communities. Instead of waiting for a buyer to post on Upwork, the operator watches subreddits where prospects already ask for help, uses keyword filtering to cut noise, then applies AI to score intent, budget, urgency, and fit. The validation lesson is that public forums can function like lower-structure job boards when the operator can reliably separate "looking for a tool" from "looking to hire a person."
 
+The Reddit validation guide adds a more disciplined version of the same public-forum method. Its rule is to mine existing niche-subreddit complaints before posting, log repeated pains and current workarounds, and ask problem-first questions rather than pitching a solution. The strongest validation signals are not upvotes or compliments from other founders; they are repeated complaints across communities, evidence that people already pay for a workaround, unsolicited DMs, and waitlist or interview follow-through. It also adds a useful boundary: Reddit validates problems better than pricing, so the output should feed follow-up interviews, a landing page, or presales rather than be treated as complete proof.
+
 ## Manual Discovery and Copy Feedback
 
 The founder-sales and website-copywriting sources add a low-tech validation loop: talk to prospects before automating outreach, then reuse their language in page copy. Manual discovery helps identify whether the problem is painful enough to pay for, while conversion copy turns that language into headlines, proof, objections, and CTAs.
@@ -105,6 +107,8 @@ This is a useful pattern when the target customer is also trapped inside a platf
 `processed/My autonomous agent scraped 35 real questions from French renters — then rewrote our homepage.md`: Adds a rigorous public-forum research loop: scrape real questions, filter for scope and relevance, tag by pain, publish the corpus, and use it to rewrite homepage copy.
 
 `processed/How to Grow a Solopreneur Business from $0 to $30K (4 Hours a Week).md`: Adds platform analytics as market research: scrape and analyze Medium/Substack data, identify decision metrics the platform hides, and turn those insights into datasets, extensions, and creator tools.
+
+`processed/How to Validate a Startup Idea on Reddit (Founder's Guide).md`: Adds a practical Reddit validation workflow: mine existing niche complaints first, ask problem-first questions without pitching, define pass/fail criteria in advance, and treat repeated pain, paid workarounds, DMs, and waitlist follow-through as the signals that matter.
 
 ## Related
 

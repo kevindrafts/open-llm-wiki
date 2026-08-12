@@ -211,6 +211,8 @@ The Brand24 Reddit-mentions source reinforces the same surface from a different 
 
 The Cypher Reddit-lead CLI source adds a service-provider and consultant variation. Instead of using Reddit mainly for awareness or discussion, it scans chosen subreddits, filters posts by relevant keywords, uses AI to score buyer intent, budget, urgency, and fit, then ranks likely leads locally in a SQLite-backed workflow. The important idea is not the specific tool; it is that community platforms can be treated as live demand streams where AI helps separate purchasing intent from general chatter. For founders selling services or high-touch products, this makes Reddit part of prospecting infrastructure, not just brand marketing.
 
+The newer MADX Reddit SEO playbook sharpens the distinction between ranking a thread and being named inside the threads that AI already reads. For B2B SaaS, the more valuable distribution prize is often the mention rather than the click, because recommendation and comparison threads can do the persuasion inside the AI answer itself. That source also adds a stronger monitoring layer: track whether Reddit appears in AI citations on your target prompts, whether your brand gets named in those answers, and whether older ranking threads still represent the category accurately.
+
 ## Launch Copy and Early Distribution
 
 The solo SaaS launch-copy source adds a compact launch system for one-person products: one ICP sentence, one outcome-driven promise, a minimal waitlist page, 10 specific DMs per day, a Product Hunt story instead of a spec sheet, and a spend cap until revenue proves the motion.
@@ -223,6 +225,8 @@ Practical rules:
 - Use Product Hunt's first comment to tell the build story and give clear next steps.
 - Keep first-touch outreach manual and observation-based.
 - Stay under a small marketing budget until the product has revenue and activation signal.
+
+The "first 20 customers in 14 days" source adds a stronger pre-channel rule for early SaaS distribution. The founder's winning sequence was pain-first research, permission-based plain-text DMs, a short Loom demo, and a direct checkout link before the product had polished onboarding. A later curated email-list sponsorship added scale only after the manual conversion script worked. The useful ordering is to prove the message person by person, then buy access to a niche audience once the offer already converts.
 
 ## Portfolio as Distribution Strategy
 
@@ -318,6 +322,10 @@ The distribution lesson is restraint. Use a small SEO stack, talk to users befor
 `processed/Shipped 5 tools in 3 weeks as a solo founder — here's what I learned building Meteorra AI.md`: Adds an early-stage distribution case built around fast-shipped free tools, alternative/comparison SEO pages, directory launches, publication features, and reply-led X distribution before the founder has meaningful owned audience.
 
 `processed/LLMs are picking winners. Here’s how to become one..md`: Adds a practical AEO distribution loop: test real buyer prompts, structure owned content for chunk-level citation, ask AI-referred users which prompts they used, and combine multiple imperfect reporting sources instead of trusting one visibility dashboard.
+
+`processed/Reddit SEO for B2B SaaS Rank and Get Cited in AI.md`: Adds a B2B SaaS Reddit-distribution playbook where the goal is not only ranking a thread in Google but also being named inside recommendation threads that AI systems cite, then measuring share of voice, citation rate, and sentiment across AI answers.
+
+`processed/How I Got My First 20 Micro-SaaS Customers in 14 Days.md`: Adds an early-distribution sequence built on pain-first outreach: mine recent complaints, send permission-based DMs, close with a short Loom demo and direct checkout link, then use manual onboarding and a curated niche email list to deepen retention and expand beyond one-to-one outreach.
 
 `processed/Non-obvious SEO advice for startups.md`: Adds startup SEO discipline: start with defensive comparison/integration/category pages, use few tools, target low-volume problems the product solves, treat docs as acquisition content, avoid over-optimizing Core Web Vitals at the expense of content, and double down after product-market fit.
 

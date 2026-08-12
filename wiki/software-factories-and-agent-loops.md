@@ -72,6 +72,19 @@ Two loops matter:
 
 Fully autonomous second-order feedback can degrade into self-reinforcing noise, so high-leverage humans still need to review changes to the factory itself.
 
+## Context Compaction and Working Memory
+
+Long-running factories also need memory hygiene. The context-compaction source shows that session bloat often comes more from file reads and command outputs than from the user-model dialogue itself. A practical harness should therefore prune stale tool output before summarizing, preserve recent high-value turns verbatim, and leave explicit placeholders that tell the agent to re-read files or rerun commands when needed.
+
+The source also adds several systems rules:
+
+- Compaction should be owned by the harness so summaries remain portable and auditable rather than becoming provider-specific opaque tokens.
+- The working budget used to trigger pruning or compaction should be treated as policy, separate from the model's true maximum context window.
+- Compaction attempts need their own failure handling: prompt truncation, retries, minimum-shrink checks, and cooldowns after bad summaries.
+- Applying compaction or pruning is a commit-like operation that should append a reconstructable record before mutating in-memory conversation state.
+
+This is a useful reminder that software factories depend not only on goals, tools, and tests, but also on the harness managing its own memory without silently destroying the context the next loop iteration needs. See [[context-compaction-for-coding-agents]].
+
 ## Product Loops and Self-Driving Products
 
 Software loops are not limited to engineering hygiene. Product engineers already run a manual loop: collect analytics and user feedback, build improvements, evaluate results, and repeat. Agent loops make that cycle more continuous, especially for bugs, UX paper cuts, conversion tweaks, and low-strategy improvements.
@@ -84,6 +97,8 @@ The phrase "self-driving product" should not mean autonomy from engineers. It me
 
 `processed/Why we're bullish on loops.md`: PostHog frames loops as the practical unit of agentic work: goal, context, evaluation, and agent. It argues that better models, subagents, cloud execution, harnesses, and built-in loop commands make long-running agent work realistic, especially for PR babysitting, bug fixing, flaky-test cleanup, performance research, and product paper cuts.
 
+`processed/The Hard Parts Of Context Compaction.md`: Adds the working-memory layer for coding-agent loops: prune old tool output before summarizing, keep compaction portable and reconstructable, separate policy budgets from true context limits, and treat compaction failures as first-class harness events.
+
 ## Related
 
 - [[agent-skills-and-agent-native-tools]]
@@ -91,3 +106,4 @@ The phrase "self-driving product" should not mean autonomy from engineers. It me
 - [[llm-maintained-knowledge-bases]]
 - [[design-systems-for-ai-built-products]]
 - [[ai-marketing-automation-workflows]]
+- [[context-compaction-for-coding-agents]]

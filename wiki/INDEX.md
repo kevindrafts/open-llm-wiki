@@ -1,4 +1,4 @@
-This index catalogs the compiled wiki topics from the current source set, organized around agent tooling, software factories, AI knowledge-base maintenance, marketing workflows, SEO, answer engine optimization, signal-based outbound, website conversion, HTML-first web patterns, social intelligence, AI-native service businesses, bootstrapped apps, solopreneurship, design-first software, practical visual design critique for AI-built products, validation, owned distribution loops, proof-of-work outreach, outcome pricing, autopilot services, productized service pivots, portfolio micro-SaaS strategy, unbundled API-wrapper businesses, lean AI SaaS infrastructure, AI-assisted product design, and offline local arbitrage businesses.
+This index catalogs the compiled wiki topics from the current source set, organized around agent tooling, software factories, context compaction for coding agents, AI knowledge-base maintenance, marketing workflows, SEO, answer engine optimization, signal-based outbound, website conversion, HTML-first web patterns, social intelligence, AI-native service businesses, bootstrapped apps, solopreneurship, design-first software, practical visual design critique for AI-built products, validation, owned distribution loops, proof-of-work outreach, outcome pricing, autopilot services, productized service pivots, portfolio micro-SaaS strategy, unbundled API-wrapper businesses, lean AI SaaS infrastructure, AI-assisted product design, and offline local arbitrage businesses.
 
 # Knowledge Base Index
 
@@ -7,6 +7,7 @@ This index catalogs the compiled wiki topics from the current source set, organi
 - [[llm-maintained-knowledge-bases]] - The persistent markdown wiki pattern for compiling raw sources into durable, interlinked knowledge.
 - [[agent-skills-and-agent-native-tools]] - Skills, MCPs, OpenClaw use cases, Printing Press CLIs, internal agent platforms, CLI-first tool strategies, and the shift toward reusable agent capabilities.
 - [[software-factories-and-agent-loops]] - Agentic software factories, loops, contracts, test harnesses, feedback systems, and self-driving product operations.
+- [[context-compaction-for-coding-agents]] - Harness-level memory management for long-running coding agents: pruning tool output, compacting history, preserving audit trails, and separating working budgets from raw context limits.
 - [[design-systems-for-ai-built-products]] - Design.md files, design skills, reference systems, and taste as reusable agent context.
 - [[ai-native-startup-strategy]] - Agent-economy strategy, vertical AI, outcome pricing, ambient businesses, internal agent operations, compressed build cycles, and the scarcity shift toward judgment and distribution.
 
@@ -161,3 +162,9 @@ This index catalogs the compiled wiki topics from the current source set, organi
 - `processed/Building your audience from scratch doesn't have to be hard  (a deep dive).md` - Covered in [[creator-led-solopreneurship]] and [[distribution-led-ai-startups]].
 - `processed/🎙️ How I AI How the founder of Morning Brew built a Claude content machine that never runs out of ideas.md` - Covered in [[creator-led-solopreneurship]] and [[ai-marketing-automation-workflows]].
 - `processed/I Built a CLI That Finds Me Clients on Reddit Using AI.md` - Covered in [[distribution-led-ai-startups]] and [[ai-assisted-market-research-and-validation]].
+- `processed/4 vibe marketing builds on automating websites, content & quality checks.md` - Covered in [[ai-marketing-automation-workflows]].
+- `processed/How I Got My First 20 Micro-SaaS Customers in 14 Days.md` - Covered in [[micro-saas-and-bootstrapped-apps]] and [[distribution-led-ai-startups]].
+- `processed/How to Validate a Startup Idea on Reddit (Founder's Guide).md` - Covered in [[ai-assisted-market-research-and-validation]].
+- `processed/Make $25K a Month From Your Phone.md` - Covered in [[creator-led-solopreneurship]].
+- `processed/Reddit SEO for B2B SaaS Rank and Get Cited in AI.md` - Covered in [[distribution-led-ai-startups]].
+- `processed/The Hard Parts Of Context Compaction.md` - Covered in [[context-compaction-for-coding-agents]], [[agent-skills-and-agent-native-tools]], and [[software-factories-and-agent-loops]].
