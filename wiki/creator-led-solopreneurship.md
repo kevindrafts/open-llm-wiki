@@ -148,6 +148,8 @@ The strategic lesson is that format alone is not enough. The same template only 
 
 The source also adds a distribution rule creators routinely underuse: wring the towel. Repost winners with new numbers, quote-tweet old posts to stack context onto something already validated, and treat one outlier as several future posts rather than a one-time success. This turns content into a compounding inventory system instead of a daily improvisation exercise.
 
+Pierre Herubel's B2B personal-branding source adds a stricter positioning layer for creators and founders selling into professional markets. The point of a personal brand is not personality theater by default; it is public association between a name and an expertise. The durable differentiators are proprietary insight from real experiments or client work, a signature point of view, and recognizable formatting. In practice, this means creator-led businesses should publish decisions, mistakes, disagreements, named projects, and operating judgments rather than interchangeable summaries anyone could have prompted out of an LLM.
+
 ## Source Summaries
 
 `processed/The Solopreneur He Makes $1.7M With 0 Employees.md`: Justin Welsh runs a knowledge business with courses, sponsorships, and paid email products. His funnel is social discovery, long-form trust, then low-pressure offers, supported by a lean software stack and regimented content routine.
@@ -194,6 +196,8 @@ The source also adds a distribution rule creators routinely underuse: wring the 
 
 `processed/Make $25K a Month From Your Phone.md`: Adds a marketplace-native creator income model built on Amazon review videos: publish short product reviews where buyer intent already exists, optimize for low-competition listings and rule-compliant tagging, and let a large library of simple videos compound without relying on a personal social audience.
 
+`processed/My honest opinion about personal branding in B2B.md`: Adds an expertise-led personal-brand framework for founder creators. The useful pattern is to treat the public profile as a distribution layer for earned judgment, not as an obligation to post lifestyle content.
+
 ## Related
 
 - [[distribution-led-ai-startups]]
@@ -202,3 +206,4 @@ The source also adds a distribution rule creators routinely underuse: wring the 
 - [[seo-and-ai-search-strategy]]
 - [[proof-of-work-and-side-door-outreach]]
 - [[design-first-software-businesses]]
+- [[founder-led-b2b-content-systems]]

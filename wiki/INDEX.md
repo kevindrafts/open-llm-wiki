@@ -1,4 +1,4 @@
-This index catalogs the compiled wiki topics from the current source set, organized around agent tooling, software factories, context compaction for coding agents, AI knowledge-base maintenance, marketing workflows, SEO, answer engine optimization, signal-based outbound, website conversion, HTML-first web patterns, social intelligence, AI-native service businesses, bootstrapped apps, solopreneurship, design-first software, practical visual design critique for AI-built products, validation, owned distribution loops, proof-of-work outreach, outcome pricing, autopilot services, productized service pivots, portfolio micro-SaaS strategy, unbundled API-wrapper businesses, lean AI SaaS infrastructure, AI-assisted product design, and offline local arbitrage businesses.
+This index catalogs the compiled wiki topics from the current source set, organized around agent tooling, software factories, context compaction for coding agents, AI knowledge-base maintenance, marketing workflows, founder-led B2B content systems, SEO, answer engine optimization, signal-based outbound, website conversion, HTML-first web patterns, social intelligence, AI-native service businesses, bootstrapped apps, solopreneurship, design-first software, practical visual design critique for AI-built products, validation, owned distribution loops, proof-of-work outreach, outcome pricing, autopilot services, productized service pivots, portfolio micro-SaaS strategy, unbundled API-wrapper businesses, lean AI SaaS infrastructure, AI-assisted product design, and offline local arbitrage businesses.
 
 # Knowledge Base Index
 
@@ -14,6 +14,7 @@ This index catalogs the compiled wiki topics from the current source set, organi
 ## Marketing, Sales, and Service Business Workflows
 
 - [[ai-marketing-automation-workflows]] - Practical AI workflows for research, inbox handling, LinkedIn listening, public-question mining, reporting, homepage iteration, signal prospecting, content grading, site publishing, and marketing operations.
+- [[founder-led-b2b-content-systems]] - Expertise-led personal branding, repeatable founder content formats, raw-material inventories, proof-based posting, and content reuse as a revenue system.
 - [[service-business-ai-consulting]] - The AI assessment and implementation business model for local and service businesses.
 - [[ai-native-service-agencies]] - How AI-enabled agencies package design, development, operations, automation, managed agents, and autopilot services as retainers, fixed projects, or outcome work.
 - [[cold-email-deliverability-2026]] - Cold email deliverability, template validation, personalization, reply-oriented prompt structure, and volume constraints.
@@ -168,3 +169,10 @@ This index catalogs the compiled wiki topics from the current source set, organi
 - `processed/Make $25K a Month From Your Phone.md` - Covered in [[creator-led-solopreneurship]].
 - `processed/Reddit SEO for B2B SaaS Rank and Get Cited in AI.md` - Covered in [[distribution-led-ai-startups]].
 - `processed/The Hard Parts Of Context Compaction.md` - Covered in [[context-compaction-for-coding-agents]], [[agent-skills-and-agent-native-tools]], and [[software-factories-and-agent-loops]].
+- `processed/$52,000 a Month With AI (Without Knowing How It Works).md` - Covered in [[service-business-ai-consulting]].
+- `processed/Build a Sleeping Income Machine Auto-Generate and Sell Niche API Documentation with AI.md` - Covered in [[micro-saas-and-bootstrapped-apps]].
+- `processed/founder content is a system full playbook.md` - Covered in [[founder-led-b2b-content-systems]] and [[creator-led-solopreneurship]].
+- `processed/GREG ISENBERG (@gregisenberg) on X.md` - Covered in [[ai-marketing-automation-workflows]].
+- `processed/How I Built a $2,400Month Passive Income Stream Using AI to Automate Niche Newsletter Creation.md` - Covered in [[micro-saas-and-bootstrapped-apps]] and [[creator-led-solopreneurship]].
+- `processed/My honest opinion about personal branding in B2B.md` - Covered in [[founder-led-b2b-content-systems]] and [[creator-led-solopreneurship]].
+- `processed/Now we have a timeline of the OpenAI accidental attack against Hugging Face.md` - Covered in [[agent-skills-and-agent-native-tools]].

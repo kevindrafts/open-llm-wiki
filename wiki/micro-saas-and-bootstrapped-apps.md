@@ -90,6 +90,14 @@ The risk is platform and data dependency. These businesses should avoid pretendi
 
 MCP server businesses are a developer-tool version of the same unbundling pattern. The underlying SaaS API already exists, but users need an agent-native wrapper for one workflow the official MCP server does not support. A solo developer can sell the convenience layer as a package, service, or open-source-plus-support product without owning the underlying system.
 
+Sinan Koçak's two dev-to sources add a low-friction digital-publishing and documentation variant of the same wrapper logic. In one case, the operator scrapes or ingests OpenAPI specs, uses an LLM to generate human-readable endpoint documentation, publishes it through Mintlify or Docusaurus, and sells ongoing doc maintenance as a recurring service. In the other, the operator uses a multi-agent pipeline to assemble a highly specific newsletter from niche feeds, then monetizes with sponsors, boosts, and affiliates. The useful pattern is not the exact headline revenue claims. It is that one narrow information workflow can be automated, packaged, and sold when the niche is specific and the buyer or audience is clearly defined.
+
+These sources are especially useful because they sit between software, media, and service:
+
+- They behave like productized systems because the workflow is automated and repeatable.
+- They often start like services because customer acquisition may come from direct outreach or sponsor sales.
+- They monetize like media or infrastructure because trust, niche specificity, and maintenance matter more than a complex app surface.
+
 ## Outcome-Priced Vertical SaaS
 
 Helply adds a different bootstrapped SaaS pattern: give away the legacy software layer and charge only for measurable AI outcomes. The support platform is free, including seats, channels, and integrations; the customer pays when AI resolves a ticket or surfaces a useful revenue signal. This attacks per-seat helpdesk pricing because successful AI resolution should reduce human seat needs rather than increase subscription cost.
@@ -203,6 +211,10 @@ Good signals in job posts include specific requirements, realistic budget, buyer
 `processed/How a Bootstrapped SaaS Tool Reached 3,350 Users Across 80+ Countries in 3 Months — With Zero Ad Spend.md`: Adds a local-B2B qualification SaaS pattern: use Google Maps weakness signals to rank service prospects by need, then combine scoring, owner/contact discovery, and proposal generation into one workflow.
 
 `processed/I Told an AI Agent to Make Me Money. It Did..md`: Adds the email-delivered micro-SaaS pattern through DreamTales: recurring personalized output can be delivered in inboxes where users already live, avoiding the friction of a new mobile app.
+
+`processed/Build a Sleeping Income Machine Auto-Generate and Sell Niche API Documentation with AI.md`: Adds an API-documentation wrapper pattern: generate readable docs from existing specs, schedule maintenance, and sell the upkeep as recurring niche infrastructure rather than as a full SaaS platform.
+
+`processed/How I Built a $2,400Month Passive Income Stream Using AI to Automate Niche Newsletter Creation.md`: Adds an automated niche-newsletter pattern: specialized agents can turn feed ingestion, summarization, ranking, and formatting into a focused media product that monetizes through sponsorships, boosts, and affiliates.
 
 `processed/Inside a Tiny Empire Plausible Analytics.md`: Adds a bootstrapped SaaS case study: a simple privacy-first analytics product grew from Google Analytics frustration by combining open-source trust, pageview-based pricing, developer communities, alternative/compliance SEO, and transparent company writing.
 

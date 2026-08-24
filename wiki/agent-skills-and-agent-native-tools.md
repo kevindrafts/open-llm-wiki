@@ -32,6 +32,8 @@ The Growbots/Val Town case adds a deployment-specific MCP pattern. Claude Code c
 
 This is especially useful for internal GTM automation. Growbots uses Claude Code plus Val Town to run meeting-transcript processors, CRM update helpers, Slack proposal commands, outbound-playbook generators, and scraper endpoints. The strategic point is that MCP is not only a data-access layer; in the right environment it can also remove the final deployment gap between generated code and running business workflow. This links directly to [[ai-marketing-automation-workflows]].
 
+Simon Willison's Claude Code for web note adds a simpler hosted-preview tactic for agents working in constrained web environments. If the agent can commit an `index.html` early, GitHub Pages can expose the current branch as a live preview URL within seconds. The caveat is that private repositories still produce guessable public Pages URLs, so this is a convenience hack rather than a secure staging solution.
+
 ## CLI-First Tooling and Deferred Context
 
 The Quandri MCP source adds an important counterweight: MCP should not be treated as the default interface for every service. In their measurements, four connected MCP servers loaded roughly 77 tools and about 21K estimated tokens of tool definitions before any real work happened. Claude Code's later deferred tool loading reduces the context-bloat problem, but the source argues that reliability, speed, debugging, and interface duplication still matter.
@@ -156,6 +158,8 @@ The context-compaction source adds a harness-level reliability layer underneath 
 `processed/How One Person Ships Marketing Pages 12x Faster After Ditching Webflow.md`: Adds a production example of skills as marketing-site infrastructure. Yuma uses Claude Code skills to publish pages, validate SEO/AEO metadata, optimize images, update links, maintain redirects, and encode recurring web workflows as institutional knowledge.
 
 `processed/How Growbots uses Claude Code + Val Town MCP for frictionless deployment.md`: Adds the deployment-MCP pattern. Growbots uses Claude Code and Val Town to turn generated code into live Slack bots, CRM helpers, sales-proposal commands, and scraper endpoints without forcing non-technical operators through GitHub and hosting workflows.
+
+`processed/Now we have a timeline of the OpenAI accidental attack against Hugging Face.md`: Mostly relevant here for a small deployment trick: Claude Code for web sessions can be previewed through GitHub Pages by publishing the working branch, which reduces the feedback gap while the agent is still iterating.
 
 `processed/I Built MCP Servers for 9 SaaS APIs. Here’s the Business Model Nobody’s Talking About..md`: Adds MCP server development as a productized service category. The opportunity is to fill gaps in official SaaS MCP servers, sell custom integrations, publish proof through npm and Glama, and use public GitHub issues as demand signals.
 

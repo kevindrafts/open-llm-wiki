@@ -36,6 +36,8 @@ The pattern is useful for AI consultants because it combines:
 - A low-friction scan/click signal to prioritize follow-up.
 - Human closing and implementation.
 
+Chris Koerner's Sandy Lee story adds a pragmatic operator path into the same market. The useful sequence is simple: sell a service businesses already buy under a boring keyword, pitch before building, use short Loom walkthroughs to reduce trust friction, let AI handle the technical delivery, then raise price by expanding scope after results exist. This matters because many AI-service beginners do not need a novel offer; they need a credible way to enter an existing service market and fulfill with AI leverage behind the scenes.
+
 ## Brothers Automate as Market Example
 
 Brothers Automate packages this category for service businesses doing roughly $1-15M in revenue. Their systems include lead qualification, instant quote generation, audit reports, onboarding automation, resume screening, and sub-60-second lead replies. They offer fixed-scope projects or a $3,500/month automation-arm retainer.
@@ -76,6 +78,8 @@ Another useful operational rule is to use AI as an interviewer and critic rather
 
 `processed/Starting With AI What Actually Works in 2026.md`: Adds a network-first path into AI consulting and education: use existing relationships, do a few free projects to earn testimonials, judge offers by purchase signals instead of social metrics, and configure AI to challenge assumptions rather than flatter them.
 
+`processed/$52,000 a Month With AI (Without Knowing How It Works).md`: Adds a sell-first AI-service path. The strong lessons are to target non-trendy service keywords, use Loom-based pitches to win trust, learn just enough to explain the AI-assisted work, and expand scope only after results create pricing leverage.
+
 ## Related
 
 - [[ai-native-service-agencies]]
@@ -83,3 +87,4 @@ Another useful operational rule is to use AI as an interviewer and critic rather
 - [[seo-and-ai-search-strategy]]
 - [[cold-email-deliverability-2026]]
 - [[proof-of-work-and-side-door-outreach]]
+- [[founder-led-b2b-content-systems]]

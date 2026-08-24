@@ -44,6 +44,8 @@ The Alex Lieberman content-machine source adds a stronger pre-draft architecture
 
 The Vibe Marketer "4 vibe marketing builds" source adds a cleaner statement of the human role in these systems. Across local-directory operations, spec-driven website rebuilds, tool-grounded code audits, and Slack-native image generation, the human either defines the direction up front or judges the output at the end. Agents handle the repetitive middle: listing discovery, freshness checks, SEO-change drafting, newsletter assembly, project execution, code-audit aggregation, or asset generation. The practical lesson is that strong marketing automation often removes the human from execution without removing the human from accountability.
 
+Greg Isenberg's startup-agent idea list adds a more granular growth-ops catalog for the same thesis. The recurring pattern is event-driven automation tied to real business systems: Stripe cancellations triggering segment-specific win-back flows, PostHog onboarding tests that self-prune, competitor-outage monitoring tied to paid-search capture, review-request timing after positive support moments, changelog-to-public-update automation, feature-ship detection from competitor docs, and usage spikes routing humans into expansion conversations. The useful insight is that many "marketing agents" are not content generators at all. They are watchers and responders attached to product, billing, CRM, email, and support events.
+
 ## Agentic Growth Loops
 
 The newer Claude Code workflow source turns marketing automation into a full growth loop: idea context, lead magnet, landing page, design refinement, analytics, A/B testing, and performance logging. The key step is preserving business context in files so the agent can improve campaigns with knowledge of audience, offer, traffic, and prior tests.
@@ -145,6 +147,8 @@ The source also adds a competitive-intelligence twist. Competitor subject lines,
 
 `processed/4 vibe marketing builds on automating websites, content & quality checks.md`: Adds four AI-assisted marketing build patterns where humans set direction or approve results while agents handle the repetitive middle across listing ops, site builds, code audits, and Slack-native asset generation.
 
+`processed/GREG ISENBERG (@gregisenberg) on X.md`: Adds a catalog of event-driven growth-agent ideas spanning cancellations, onboarding, reviews, referrals, competitor monitoring, AI search visibility checks, and changelog automation. The durable pattern is to connect agents to operational data and let them act on high-signal business moments.
+
 ## Related
 
 - [[agent-skills-and-agent-native-tools]]
@@ -153,3 +157,4 @@ The source also adds a competitive-intelligence twist. Competitor subject lines,
 - [[social-media-competitor-intelligence]]
 - [[distribution-led-ai-startups]]
 - [[design-systems-for-ai-built-products]]
+- [[founder-led-b2b-content-systems]]
