@@ -41,6 +41,8 @@ The useful filter is not "passive income." It is whether the business:
 
 The deeper lesson from both sources is that offline friction is itself a moat. Many operators prefer online products, but that preference creates whitespace around physical setup, local service, niche installation, public-record lead generation, and resale categories that are too manual for software tourists and too small for large incumbents.
 
+The newer local-advertising sources add a related but distinct variant: instead of buying or renting physical inventory, the operator monetizes existing local attention surfaces such as restaurant specials boards and neighborhood direct mail. See [[local-offline-advertising-arbitrage]].
+
 That makes these businesses attractive as:
 
 - Cash-flow-first side hustles.
@@ -56,8 +58,13 @@ The strongest starting move is not to brainstorm twenty ideas. It is to choose o
 
 `processed/Make $10K+ With These Offline Side Hustles.md`: Collects several low-tech business models with strong cash-flow logic: construction fence rentals, backyard-event rentals, overseas art resale, and pallet-based rug flips, all framed around deposits, simple operations, and exploiting real-world friction.
 
+`processed/The Simplest $10K+M Business You've Never Heard Of.md`: Covered in [[local-offline-advertising-arbitrage]].
+
+`processed/The Simplest Side Hustle You Can Start Under $100.md`: Covered in [[local-offline-advertising-arbitrage]].
+
 ## Related
 
 - [[distribution-led-ai-startups]]
 - [[micro-saas-and-bootstrapped-apps]]
 - [[service-business-ai-consulting]]
+- [[local-offline-advertising-arbitrage]]

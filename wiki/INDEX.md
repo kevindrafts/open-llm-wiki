@@ -1,4 +1,4 @@
-This index catalogs the compiled wiki topics from the current source set, organized around agent tooling, software factories, context compaction for coding agents, AI knowledge-base maintenance, marketing workflows, founder-led B2B content systems, SEO, answer engine optimization, signal-based outbound, website conversion, HTML-first web patterns, social intelligence, AI-native service businesses, bootstrapped apps, solopreneurship, design-first software, practical visual design critique for AI-built products, validation, owned distribution loops, proof-of-work outreach, outcome pricing, autopilot services, productized service pivots, portfolio micro-SaaS strategy, unbundled API-wrapper businesses, lean AI SaaS infrastructure, AI-assisted product design, and offline local arbitrage businesses.
+This index catalogs the compiled wiki topics from the current source set, organized around agent tooling, software factories, context compaction for coding agents, AI knowledge-base maintenance, marketing workflows, founder-led B2B content systems, SEO, answer engine optimization, signal-based outbound, website conversion, HTML-first web patterns, social intelligence, AI-native service businesses, bootstrapped apps, solopreneurship, design-first software, practical visual design critique for AI-built products, validation, owned distribution loops, proof-of-work outreach, outcome pricing, autopilot services, productized service pivots, portfolio micro-SaaS strategy, unbundled API-wrapper businesses, lean AI SaaS infrastructure, AI-assisted product design, offline local arbitrage businesses, and local advertising-media arbitrage.
 
 # Knowledge Base Index
 
@@ -37,6 +37,7 @@ This index catalogs the compiled wiki topics from the current source set, organi
 - [[productized-service-pivots-for-saas]] - The manual-first path where fixed-scope services fund development, teach the workflow, generate proof, and convert into SaaS features and subscribers.
 - [[design-first-software-businesses]] - Premium utility apps, patron-style monetization, authored software, complete-product philosophy, game-feel interaction design, and design taste as the core business wedge.
 - [[offline-local-arbitrage-businesses]] - Facebook Marketplace-first local products, temporary rentals, awkward inventory flips, public-record prospecting, and other offline businesses that use real-world friction as the moat.
+- [[local-offline-advertising-arbitrage]] - Restaurant-board ads, neighborhood shared postcards, local attention surfaces, and simple media arbitrage for small businesses.
 
 ## Design Direction and Product Taste
 
@@ -155,6 +156,13 @@ This index catalogs the compiled wiki topics from the current source set, organi
 - `processed/Building an AI-Native Email Marketing System.md` - Covered in [[ai-marketing-automation-workflows]].
 - `processed/How to Make $15kMonth from Facebook Marketplace.md` - Covered in [[offline-local-arbitrage-businesses]].
 - `processed/Make $10K+ With These Offline Side Hustles.md` - Covered in [[offline-local-arbitrage-businesses]].
+- `processed/27 Things That Actually Get a SaaS to $10k MRR.md` - Covered in [[micro-saas-and-bootstrapped-apps]].
+- `processed/He's Sending 250,000 LinkedIn DMs a Month, Here's the Exact System.md` - Covered in [[ai-marketing-automation-workflows]].
+- `processed/How to turn a $999 AI assessment into $8K monthly retainers.md` - Covered in [[service-business-ai-consulting]].
+- `processed/I Found the Perfect First Business for Introverts.md` - Covered in [[service-business-ai-consulting]].
+- `processed/Marketing Agents Masterclass (GROW your startup).md` - Covered in [[ai-marketing-automation-workflows]].
+- `processed/The Simplest $10K+M Business You've Never Heard Of.md` - Covered in [[local-offline-advertising-arbitrage]].
+- `processed/The Simplest Side Hustle You Can Start Under $100.md` - Covered in [[local-offline-advertising-arbitrage]].
 - `processed/Short-form Video is Showing Up in B2B Search Results and AI Answers.md` - Covered in [[seo-and-ai-search-strategy]] and [[answer-engine-optimization]].
 - `processed/Starting With AI What Actually Works in 2026.md` - Covered in [[service-business-ai-consulting]].
 - `processed/The AI Slop Cleanup Crew ($12K MRR).md` - Covered in [[ai-native-service-agencies]].

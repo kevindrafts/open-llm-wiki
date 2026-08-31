@@ -36,6 +36,16 @@ These are practical because they combine data ingestion, classification, generat
 
 The signal-based outbound source adds another winning workflow category: monitor public market events, enrich the person and company only when a relevant signal fires, draft with that signal in context, push the lead into the outbound tool, and alert the team with the reasoning.
 
+The Nick Abraham LinkedIn system source adds a more aggressive outbound variant built around LinkedIn InMail rather than ordinary connection-request automation. The interesting part is not the gray-market tactics around profile rental; it is the channel lesson. LinkedIn can outperform cold email when the same list is contacted in a less saturated inbox, especially for bland or commoditized offers that struggle over email. The useful workflow pattern is:
+
+- Identify reachable open-profile accounts.
+- Route sending through infrastructure that can manage LinkedIn alongside email.
+- Merge LinkedIn and email replies into one system of record.
+- Enrich positive replies with phone numbers before assigning follow-up.
+- Use AI or voice agents only for after-hours speed-to-lead gaps, not as the primary closer.
+
+That matters because it shifts "outbound automation" from sequence writing to response orchestration. The real leverage is not one more personalization trick. It is getting every positive signal into one queue, then routing it fast enough that interest becomes a booked meeting.
+
 Aline adds a more productionized prospecting-agent workflow. The agent scans daily for funding rounds, legal hires, and tech-stack changes; checks HubSpot before spending enrichment credits; sources replacement accounts when a target is already in motion; uses Clay and Apollo for contacts; drafts a three-touch sequence; validates subject lines, AI tells, duplicate stories, and voice; and stages the sequence one click before enrollment. The useful safety pattern is that the agent does the research and staging, while a human makes the final send decision.
 
 The X content engine source adds a content-production version of the same modular pattern. A brand-voice skill feeds an article writer skill; the article becomes quote tweets; quote tweets become infographic prompts; an orchestrator skill runs the downstream skills in parallel. The system is fast, but still depends on human taste, source verification, and format awareness.
@@ -63,6 +73,15 @@ The Aline SEO/GEO content grader adds a quality-control loop: score every draft 
 The Daring Creatives content system shows the solo-operator version of a full content loop. A scheduled orchestrator reads a news feed, Google Search Console data, and a build log; a pitch generator creates a queue; the human approves ideas; Gemini researches; Claude drafts against a voice-pattern file; an optimizer adds real internal links and SEO metadata; a scheduler publishes to Ghost; and a distributor turns the article into platform-native Buffer posts. The non-negotiable control point is human approval before research, drafting, and publication.
 
 The Growbots case shows how GTM teams can compress small internal tools into the same loop. Claude Code writes the tool, Val Town's MCP deploys it instantly, and the result can live as a Slack command, CRM updater, meeting-transcript follow-up generator, proposal drafter, or scraper endpoint feeding Clay. The important unlock is not novelty; it is reducing the distance between "we need a workflow" and "there is a live URL or Slack command the team can use."
+
+The same LinkedIn-DM source adds a concrete RevOps pattern that belongs here more than in deliverability advice. Smartlead, HeyReach, Master Inbox, and Close CRM were treated as one system, with webhooks pushing every inbound and outbound event into the CRM and post-reply enrichment deciding whether a human SDR, an AI reply agent, or an AI voice caller should take the next step. The practical lesson is that modern GTM automation should be built around handoff logic:
+
+- Inboxes and channels feed one reply layer.
+- CRM state decides ownership and next action.
+- Enrichment only runs when interest exists.
+- Human coverage is extended with after-hours automation rather than replaced entirely.
+
+This is a better use of AI than having the model generate raw volume. It uses the model where timing and triage matter most.
 
 The Claude Code content-distribution source adds a creator-specific automation OS. A scheduled cloud routine wakes up every six hours, ingests newly published articles from email, files them into an internal wiki, drafts Reddit posts and replies, sends approval requests to Slack, publishes approved LinkedIn posts on schedule, and uses weekly edit history to improve its own voice and workflow instructions. The important boundary is that distribution labor is automated, but publishing judgment remains human-reviewed.
 
@@ -148,6 +167,10 @@ The source also adds a competitive-intelligence twist. Competitor subject lines,
 `processed/4 vibe marketing builds on automating websites, content & quality checks.md`: Adds four AI-assisted marketing build patterns where humans set direction or approve results while agents handle the repetitive middle across listing ops, site builds, code audits, and Slack-native asset generation.
 
 `processed/GREG ISENBERG (@gregisenberg) on X.md`: Adds a catalog of event-driven growth-agent ideas spanning cancellations, onboarding, reviews, referrals, competitor monitoring, AI search visibility checks, and changelog automation. The durable pattern is to connect agents to operational data and let them act on high-signal business moments.
+
+`processed/Marketing Agents Masterclass (GROW your startup).md`: Adds a full signal-based outbound and content-engine playbook using LinkedIn-engagement scraping, waterfall enrichment, burner inbox infrastructure, Instantly/HeyReach delivery, and agent-managed reply handling.
+
+`processed/He's Sending 250,000 LinkedIn DMs a Month, Here's the Exact System.md`: Adds a LinkedIn InMail arbitrage workflow, unified inbox plus CRM orchestration, after-hours AI voice follow-up, and the practical claim that less-crowded channels can beat colder but cheaper email volume.
 
 ## Related
 

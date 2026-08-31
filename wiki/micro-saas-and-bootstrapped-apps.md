@@ -148,6 +148,20 @@ The productized-service-pivot source adds a more structured version of the same 
 
 The "first 20 customers in 14 days" source turns this manual-first idea into a concrete first-customer script. Instead of polishing the product, the founder built a spreadsheet of recent ecommerce operators complaining about manual inventory and CSV work, sent plain-text DMs asking permission to share a 40-second demo, closed the first buyers through a bare Stripe link, and manually onboarded them to collect bugs and testimonials. The useful lesson is that ugly early sales can still be high-signal if the pain is real; polished UI and infrastructure often matter less than finding people who already describe the exact workflow problem in public.
 
+The "27 things that get a SaaS to $10K MRR" source is lightweight, but it captures a useful operating checklist for this stage. The good advice is not novel; it is the ordering:
+
+- Pick a niche narrow enough to be the obvious choice.
+- Talk to users before building.
+- Ship the ugly version fast.
+- Charge from day one.
+- Get the first customers through direct messages, not ads.
+- Treat onboarding, pricing, and activation as product surfaces.
+- Push annual plans early for cash flow.
+- Add one meaningful integration for discovery.
+- Build share loops, affiliate incentives, reviews, and a changelog before adding low-signal features.
+
+This fits the rest of the page because it frames $10K MRR as a distribution and retention problem rather than a feature-quantity problem.
+
 ## Commitment Before Code
 
 Once adds a consumer-app version of bootstrapped validation. The product was emotionally specific: a shared disposable camera for weddings, birthdays, parties, and events where delayed reveal and limited shots make the experience feel more present. The founders validated with a rough web prototype at a Halloween party, then set a hard commitment metric of 10 real upcoming events before production build.
@@ -221,6 +235,8 @@ Good signals in job posts include specific requirements, realistic budget, buyer
 `processed/Public prediction pages are the SEO moat I wish I'd built sooner.md`: Adds a product architecture lesson for bootstrapped apps: when the core action generates public, searchable pages with standalone value, the app can grow its own SEO surface through usage instead of relying only on editorial content.
 
 `processed/How I Got My First 20 Micro-SaaS Customers in 14 Days.md`: Adds a gritty first-customer playbook for micro-SaaS: identify recent public complaints, use permission-based DMs and a short Loom instead of a polished launch, take payment before the product is fully productized, and use manual onboarding to turn early buyers into proof and product insight.
+
+`processed/27 Things That Actually Get a SaaS to $10k MRR.md`: Adds a compact early-SaaS heuristic list centered on narrow positioning, user conversations, charging early, DM-based customer acquisition, activation, annual plans, integrations, and lightweight growth loops.
 
 ## Related
 

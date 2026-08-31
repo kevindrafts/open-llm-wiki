@@ -66,6 +66,42 @@ This is basically a trust-first consulting motion. The first asset is not an aud
 
 Another useful operational rule is to use AI as an interviewer and critic rather than as an oracle. Instead of asking for generic business ideas, the operator should give the model context, ask it to challenge assumptions, and let it extract clearer answers from the consultant's own experience. That makes AI a thinking partner for offer design and delivery, not just a machine for producing agreeable nonsense.
 
+## Assessment to Education to Retainer
+
+The newer Corey Ganim-style assessment source makes the diagnosis product more explicit. The sequence is:
+
+- Find a measurable business problem.
+- Sell the diagnosis before promising implementation.
+- Audit the current workflow.
+- Optimize the workflow so bad process is not automated.
+- Automate only the remaining high-value steps.
+
+The strongest conceptual frame is AOA: Audit, Optimize, Automate. This prevents the common beginner mistake of selling "AI" before proving that the underlying process should exist in its current form.
+
+The same source also sharpens pricing logic. The consultant should price against recurring business value, not the implementation hours consumed. A weekly two-hour founder memo reduced to 15 minutes is not valuable because it is technically clever; it is valuable because it compounds every week.
+
+The Ryan-from-Cincinnati source extends this into a more relationship-led operating model. He reportedly started with roughly 100 free conversations, mostly from his network and business communities, used those calls to learn which problems kept recurring, and then turned the resulting trust into three offer shapes:
+
+- Educational resources and demos that keep the relationship warm.
+- Cohort-based implementation sprints for small groups.
+- Higher-ticket private coaching or implementation work for teams that need deeper help.
+
+This is useful because it shows a path between free advice and fully custom consulting. The middle layer is education as product: teach teams how to adopt the tools, then sell deeper implementation only where needed.
+
+## Network-First Offer Formation
+
+The introvert-consulting source is strongest as a first-client playbook, not as a revenue claim. Its real lesson is that early AI consulting offers can be discovered through repeated low-pressure conversations rather than perfected in advance.
+
+Useful rules:
+
+- Use warm relationships and communities before cold outbound.
+- Treat the first calls as research and trust-building, not immediate closing attempts.
+- Save small demos, guides, or YouTube walkthroughs as reusable proof assets.
+- Let repeated questions shape the paid offer.
+- Keep reaching out even after the first clients, because the pipeline stalls quickly when relationship-building stops.
+
+This complements the assessment model above. One source says to monetize diagnosis. The other shows how to discover what diagnosis people actually want to buy.
+
 ## Source Summaries
 
 `processed/Easiest Way to Make Money with AI.md`: Chris Koerner lays out Corey-style AI assessments for small businesses: discovery call, Claude-generated tool recommendations, Gamma report, $1,000 assessment, and $3,000-$5,000 implementation upsells. Client acquisition channels include local AI meetups, free first assessments, local business networks, and direct outreach.
@@ -79,6 +115,10 @@ Another useful operational rule is to use AI as an interviewer and critic rather
 `processed/Starting With AI What Actually Works in 2026.md`: Adds a network-first path into AI consulting and education: use existing relationships, do a few free projects to earn testimonials, judge offers by purchase signals instead of social metrics, and configure AI to challenge assumptions rather than flatter them.
 
 `processed/$52,000 a Month With AI (Without Knowing How It Works).md`: Adds a sell-first AI-service path. The strong lessons are to target non-trendy service keywords, use Loom-based pitches to win trust, learn just enough to explain the AI-assisted work, and expand scope only after results create pricing leverage.
+
+`processed/How to turn a $999 AI assessment into $8K monthly retainers.md`: Adds the AOA sequence, outcome-based pricing, paid diagnosis as front-door offer, and the recurring AI-concierge model built around continuous bottleneck discovery.
+
+`processed/I Found the Perfect First Business for Introverts.md`: Adds a network-first consulting path using free research calls, proof assets, cohort-based education offers, and later private coaching or implementation work for AI adoption.
 
 ## Related
 
