@@ -91,7 +91,19 @@ Software loops are not limited to engineering hygiene. Product engineers already
 
 The phrase "self-driving product" should not mean autonomy from engineers. It means autonomy from explicit user instruction as the starting point. Humans still own direction, taste, empathy, risk boundaries, and major product calls. Agents can keep the 1% improvements moving.
 
+## Regression checks for agent context
+
+In "Read this before deleting your AGENTS.md", PostHog describes treating context edits as changes that need regression checks. Its Wizard workflow combines framework-specific integration lessons with roughly 40 sample apps. A CI run produces unmerged PRs, and a separate evaluator grades their diffs and session logs. One reported failure was an agent deciding the integration was already complete and skipping installation.
+
+A smaller version is to save the prompt behind each costly agent mistake in a failure log. Rerun those prompts when changing instructions, including when deleting a rule that seems redundant. Check whether the intended task completes, not merely whether fewer tokens are loaded.
+
+The source also describes asking production agents what missing guidance caused tool failures, bad edits, or wasted turns. PostHog clusters the responses and verifies recurring issues before attempting fixes. Routine success messages and unconfirmed complaints do not justify new rules. Recording invoked skills helps trace inconsistent instructions to their source.
+
+This qualifies the contract guidance above. Stable project rules still need review when external settings or model behavior change. The source's paused merge queue left an instruction stale for 21 hours, illustrating why code inspection alone cannot validate every operational rule. See [[agent-skills-and-agent-native-tools]].
+
 ## Source Summaries
+
+`processed/Read this before deleting your AGENTS.md`: Describes PostHog Wizard context regression checks across about 40 sample apps, independent PR evaluation, structured feedback, and verification before changing instructions.
 
 `processed/Designing Software for Software Factories.md`: Defines software factories as AI-driven systems that ingest raw customer requests and produce shipped software with human review and off-ramps. The strongest lessons are contracts, roadmap-aware markdown, agent-controlled test harnesses, concurrency, off-ramp design, and feedback loops that update the system rather than only one PR.
 

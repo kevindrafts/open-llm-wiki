@@ -179,7 +179,15 @@ For AI-built products, this page becomes the post-click counterpart to [[distrib
 
 For solo SaaS launches, the launch-copy source gives the minimum viable page: one ICP promise, outcome bullets, one form, and no escape-route navigation. It is intentionally narrow because early conversion is also positioning research. If the one-sentence promise cannot earn signups, adding feature sections and AI-written blog posts will not fix the strategy.
 
+## Local service pages built for calls
+
+Koerner's recap of local marketer Mike's approach gives a focused page pattern for urgent service purchases. Put the customer's problem, a clear promise, social proof, a short explanatory video, and one obvious call action where visitors can find them immediately. The recap reports that adding a problem-focused introduction quadrupled video click-through in one example, without providing enough measurement detail to treat that as an expected lift.
+
+The proposed service combines this page with business-profile upkeep and owner-recorded answers to common customer problems. This joins traffic acquisition and conversion in one retainer, described in [[service-business-ai-consulting]]. The useful measurement is whether visits lead to qualified calls and booked jobs; a video's click-through rate alone does not establish business value.
+
 ## Source Summaries
+
+`processed/The Most Overlooked AI Side Hustle of 2026.md`: Adds a local-service landing-page pattern with problem-focused copy, visible proof, a short video, and a single call action; reported conversion improvements remain source claims.
 
 `processed/Why Your B2B Website Isn't Generating Leads (And 6 Ways to Fix It).md`: Identifies six fixable B2B site problems: generic messaging, weak CTAs, missing trust signals, slow mobile loading, dead-end contact forms, and lack of buyer-intent keyword targeting.
 

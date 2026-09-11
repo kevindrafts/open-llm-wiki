@@ -127,7 +127,17 @@ This means agent-native tools should expose verification and feedback as first-c
 
 The context-compaction source adds a harness-level reliability layer underneath all of this tooling. Tool-rich coding sessions create their own context-management problem through long file reads, command output, and accumulated history. A serious agent stack therefore needs policies for pruning stale tool output, compacting old conversation prefixes, preserving a reconstructable audit trail, and separating a chosen working-memory budget from the model's raw context maximum. See [[context-compaction-for-coding-agents]].
 
+## Maintaining instruction files
+
+Jina Yoon's August 2026 PostHog newsletter adds a maintenance rule for reusable instructions. Revisit rules when models or workflows change, especially rules that duplicate information an agent can now infer from the repository. Keep instructions tied to specific failures and load specialized guidance only when needed.
+
+PostHog reports that a context health check suggested removing unused plugins and skills and estimated a 6K-token saving per session. The article also describes a stale merge-queue instruction that blocked work after the queue was paused. A repository scan could not establish the live queue setting, so smaller context alone would not have fixed the problem.
+
+The practical distinction is between trimming redundant instructions and checking whether retained instructions are still correct. Save prompts that exposed failures, rerun them after context edits, and record which skills or context files an agent used. See [[software-factories-and-agent-loops]] for the evaluation and feedback workflow.
+
 ## Source Summaries
+
+`processed/Read this before deleting your AGENTS.md`: Explains instruction maintenance through context trimming, regression prompts, checks of external operational state, and verified agent feedback.
 
 `processed/The Agent Skills Directory.md`: Skills.sh presents skills as reusable capabilities that can be installed into multiple AI agents. The source is mostly a directory landing page, but its useful takeaway is the framing of skills as portable procedural knowledge.
 

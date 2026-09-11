@@ -184,3 +184,6 @@ This index catalogs the compiled wiki topics from the current source set, organi
 - `processed/How I Built a $2,400Month Passive Income Stream Using AI to Automate Niche Newsletter Creation.md` - Covered in [[micro-saas-and-bootstrapped-apps]] and [[creator-led-solopreneurship]].
 - `processed/My honest opinion about personal branding in B2B.md` - Covered in [[founder-led-b2b-content-systems]] and [[creator-led-solopreneurship]].
 - `processed/Now we have a timeline of the OpenAI accidental attack against Hugging Face.md` - Covered in [[agent-skills-and-agent-native-tools]].
+
+- `processed/Read this before deleting your AGENTS.md` - Covered in [[agent-skills-and-agent-native-tools]] and [[software-factories-and-agent-loops]].
+- `processed/The Most Overlooked AI Side Hustle of 2026.md` - Covered in [[service-business-ai-consulting]] and [[website-conversion-and-b2b-lead-generation]].

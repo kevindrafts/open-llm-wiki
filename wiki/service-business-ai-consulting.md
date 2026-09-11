@@ -102,7 +102,26 @@ Useful rules:
 
 This complements the assessment model above. One source says to monetize diagnosis. The other shows how to discover what diagnosis people actually want to buy.
 
+## Local traffic and conversion retainers
+
+Chris Koerner's September 2026 interview recap describes Mike's local marketing service for plumbers, roofers, pest-control operators, and similar businesses. The offer bundles getting found with converting visits into calls. Mike reportedly wins clients through local networking and in-person conversations, qualifying first for owners who want more work.
+
+The delivery sequence in the source is:
+
+- Start with the Google Business Profile, review requests and responses, and current photos and videos.
+- Build a focused page with a customer problem, clear service promise, visible proof, short video, and a call button.
+- Ask the owner to list 50 customer problems and record spoken answers. Use AI to turn the recordings into drafts for blog posts while retaining the audio for reuse on the business's own domain.
+- Test a short local phrase and matching domain as a memorable brand. Mike adds a 15-second jingle to locally targeted YouTube ads, placing the phrase in the first five seconds. The recap names Suno as his jingle-generation tool.
+
+Koerner reports pricing around $500 per month plus a roughly $2,000 jingle fee, with about one hour of monthly work per established client. At that price, 15 clients produce $7,500 monthly revenue, while 300 produce $150,000 monthly or $1.8M annually before costs. Those are revenue calculations, not profit estimates. The reported workload does not establish acquisition, setup, ad spend, support, or staffing costs at scale.
+
+The newsletter's $80,000 summer client result and low-cost advertising example are anecdotes. Its broad bounce-rate, mobile-traffic, and search-dominance claims are not established benchmarks. A useful pilot would measure qualified calls, booked jobs, and delivery hours before expanding the offer.
+
+This connects [[website-conversion-and-b2b-lead-generation]] with [[seo-and-ai-search-strategy]] and [[founder-led-b2b-content-systems]]. The business opportunity is a recurring local marketing service whose content starts with the owner's actual expertise.
+
 ## Source Summaries
+
+`processed/The Most Overlooked AI Side Hustle of 2026.md`: Describes a local marketing retainer combining business-profile upkeep, a call-focused page, recorded owner expertise, and local jingle ads, with attributed pricing and workload claims.
 
 `processed/Easiest Way to Make Money with AI.md`: Chris Koerner lays out Corey-style AI assessments for small businesses: discovery call, Claude-generated tool recommendations, Gamma report, $1,000 assessment, and $3,000-$5,000 implementation upsells. Client acquisition channels include local AI meetups, free first assessments, local business networks, and direct outreach.
 
