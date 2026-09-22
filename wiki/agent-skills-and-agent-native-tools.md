@@ -135,7 +135,17 @@ PostHog reports that a context health check suggested removing unused plugins an
 
 The practical distinction is between trimming redundant instructions and checking whether retained instructions are still correct. Save prompts that exposed failures, rerun them after context edits, and record which skills or context files an agent used. See [[software-factories-and-agent-loops]] for the evaluation and feedback workflow.
 
+## Shared hosting and self-editing Slackbots
+
+Val Town's June and August 2026 articles extend deployment through MCP into a shared internal-tool platform. The June account describes hosted code with storage and scheduled or event-driven execution. The August Slackbot account puts the coding agent inside the team's conversation, with access to read, write, run, and query tools hosted alongside its own source. Teammates requested changes in Slack and used an hourly digest to follow edits.
+
+This combines the deployment pattern above with the collaboration model of internal agents. It also introduces self-modification: the bot can change the code that handles future requests. The source emphasizes lightweight internal tools and technical teammates staying involved. See [[internal-tool-platforms-and-collaborative-agents]] for the architecture, dated access-control claims, and limits of the example.
+
 ## Source Summaries
+
+`processed/Our Self-Building Slackbot.md`: Describes a Slack-based coding agent that edits team tools and itself through Val Town MCP, with shared feedback and change digests.
+
+`processed/What if every company had an internal hosting platform like Shopify’s Quick.md`: Adds the shared hosting pattern, including storage, execution triggers, agent deployment, and dated platform constraints.
 
 `processed/Read this before deleting your AGENTS.md`: Explains instruction maintenance through context trimming, regression prompts, checks of external operational state, and verified agent feedback.
 

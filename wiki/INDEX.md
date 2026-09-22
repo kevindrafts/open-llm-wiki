@@ -1,9 +1,10 @@
-This index catalogs the compiled wiki topics from the current source set, organized around agent tooling, software factories, context compaction for coding agents, AI knowledge-base maintenance, marketing workflows, founder-led B2B content systems, SEO, answer engine optimization, signal-based outbound, website conversion, HTML-first web patterns, social intelligence, AI-native service businesses, bootstrapped apps, solopreneurship, design-first software, practical visual design critique for AI-built products, validation, owned distribution loops, proof-of-work outreach, outcome pricing, autopilot services, productized service pivots, portfolio micro-SaaS strategy, unbundled API-wrapper businesses, lean AI SaaS infrastructure, AI-assisted product design, offline local arbitrage businesses, and local advertising-media arbitrage.
+This index catalogs the compiled wiki topics from the current source set, organized around shared internal tool platforms, agent tooling, software factories, context compaction for coding agents, AI knowledge-base maintenance, marketing workflows, founder-led B2B content systems, SEO, answer engine optimization, signal-based outbound, website conversion, HTML-first web patterns, social intelligence, AI-native service businesses, bootstrapped apps, solopreneurship, design-first software, practical visual design critique for AI-built products, validation, owned distribution loops, proof-of-work outreach, outcome pricing, autopilot services, productized service pivots, portfolio micro-SaaS strategy, unbundled API-wrapper businesses, lean AI SaaS infrastructure, AI-assisted product design, offline local arbitrage businesses, and local advertising-media arbitrage.
 
 # Knowledge Base Index
 
 ## Agentic Tooling and Knowledge Systems
 
+- [[internal-tool-platforms-and-collaborative-agents]] - Shared hosting, agent deployment, self-editing Slackbots, team feedback, and dated access-control constraints.
 - [[llm-maintained-knowledge-bases]] - The persistent markdown wiki pattern for compiling raw sources into durable, interlinked knowledge.
 - [[agent-skills-and-agent-native-tools]] - Skills, MCPs, OpenClaw use cases, Printing Press CLIs, internal agent platforms, CLI-first tool strategies, and the shift toward reusable agent capabilities.
 - [[software-factories-and-agent-loops]] - Agentic software factories, loops, contracts, test harnesses, feedback systems, and self-driving product operations.
@@ -187,3 +188,6 @@ This index catalogs the compiled wiki topics from the current source set, organi
 
 - `processed/Read this before deleting your AGENTS.md` - Covered in [[agent-skills-and-agent-native-tools]] and [[software-factories-and-agent-loops]].
 - `processed/The Most Overlooked AI Side Hustle of 2026.md` - Covered in [[service-business-ai-consulting]] and [[website-conversion-and-b2b-lead-generation]].
+- `processed/What if every company had an internal hosting platform like Shopify’s Quick.md` - Covered in [[internal-tool-platforms-and-collaborative-agents]] and [[agent-skills-and-agent-native-tools]].
+- `processed/Our Self-Building Slackbot.md` - Covered in [[internal-tool-platforms-and-collaborative-agents]], [[agent-skills-and-agent-native-tools]], and [[software-factories-and-agent-loops]].
+- `processed/Make Money With This New AI Agent That Works 247.md` - Covered in [[software-factories-and-agent-loops]] and [[micro-saas-and-bootstrapped-apps]].

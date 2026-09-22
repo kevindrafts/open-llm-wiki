@@ -178,7 +178,17 @@ Upwork and similar marketplaces can work as an early customer channel for SaaS p
 
 Good signals in job posts include specific requirements, realistic budget, buyer spend history, hire rate, and repeated requests across similar niches. The limitation is that this is more useful for the first 5-10 customers and roadmap validation than for scalable acquisition.
 
+## Personal utility as a starting hypothesis
+
+In his September 10, 2026 newsletter, Chris Koerner reports building an app that restricts Gmail and Mail access to a morning window. He describes a Mac menu bar app plus Chrome extension, built through an agent working in Replit after a separate AI helped clarify the technical plan. He also reports Stripe setup and daily personal use, but explicitly says he has not sold the product yet.
+
+The case supports starting with a specific recurring annoyance and using an agent to finish a bounded utility. It does not establish demand merely because the builder finds it useful. Customer commitments still matter, as described above and in [[ai-assisted-market-research-and-validation]].
+
+Koerner suggests revisiting nearly finished projects and selling custom tools to business owners for recurring fees. Treat those as proposed opportunities. His spending cap of $100 per day is not a measured build cost, and his half-hour claim does not establish ongoing support economics. The planning and verification workflow is covered in [[software-factories-and-agent-loops]]. For team-facing tools with shared hosting, see [[internal-tool-platforms-and-collaborative-agents]].
+
 ## Source Summaries
+
+`processed/Make Money With This New AI Agent That Works 247.md`: A reported personal inbox-blocker build, with proposed abandoned-project recovery and custom-tool services. The author had not made a sale at publication.
 
 `processed/I cloned 3 apps and now make $35Kmonth.md`: Samuel Rondot runs multiple apps by finding already-successful products, checking traction and traffic sources, building simpler alternatives, validating with ads, then layering SEO, faceless social channels, and affiliates.
 

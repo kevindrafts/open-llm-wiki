@@ -101,7 +101,19 @@ The source also describes asking production agents what missing guidance caused 
 
 This qualifies the contract guidance above. Stable project rules still need review when external settings or model behavior change. The source's paused merge queue left an instruction stale for 21 hours, illustrating why code inspection alone cannot validate every operational rule. See [[agent-skills-and-agent-native-tools]].
 
+## Small builds and shared feedback
+
+Chris Koerner's September 10, 2026 newsletter reports using a tool he calls "Grok bot" with Replit to build an inbox blocker through repeated coding, testing, and fixing. He says he first used Claude to clarify the architecture, which called for a Mac menu bar app and Chrome extension rather than a website alone. He gave the builder one job, limited connected accounts, and set a $100 daily Replit spending cap. That cap is his reported authorization limit, not the app's actual cost.
+
+The transferable sequence is to resolve platform constraints before implementation, then give the builder a bounded goal and a way to evaluate progress. The reported half-hour build and successful use are the author's account, not independent verification. The newsletter does not establish a production validation process. Its "Grok bot" label should not be read as a verified product identity or capability specification.
+
+Val Town's self-building Slackbot supplies a different feedback loop. Teammates request and observe tool changes in the same Slack conversation, while an hourly digest records activity. Because the bot can edit itself, changes can affect future execution as well as the requested tool. This connects the second-order feedback concerns above to [[internal-tool-platforms-and-collaborative-agents]].
+
 ## Source Summaries
+
+`processed/Make Money With This New AI Agent That Works 247.md`: Reports an inbox-blocker build using a planning AI, a bounded coding and testing loop, limited account access, and a daily spending cap.
+
+`processed/Our Self-Building Slackbot.md`: Adds shared Slack feedback, change digests, and a bot that can modify its own implementation.
 
 `processed/Read this before deleting your AGENTS.md`: Describes PostHog Wizard context regression checks across about 40 sample apps, independent PR evaluation, structured feedback, and verification before changing instructions.
 
