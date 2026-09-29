@@ -52,7 +52,16 @@ That makes these businesses attractive as:
 
 The strongest starting move is not to brainstorm twenty ideas. It is to choose one offer, one acquisition channel, and one proof point that a customer will pay before the operator scales complexity.
 
+## Local brands with independent installers
+
+Two September 2026 clippings add a model where the founder handles marketing, sales, and booking while independent specialists deliver the service. The Boring Marketer reports about $50,000 monthly revenue for the Diesel Dudes mobile-mechanic brand. Chris Koerner reports $81,000 August revenue for Parker's water-filtration business, built around a $2,699 installed package and independent plumbers.
+
+This resembles the standardized local offers above, but installer capacity replaces the founder's own production capacity. The water-filtration case adds price-visible ads and long follow-up cycles as acquisition mechanisms. Its roughly $500 startup claim omits a reconciled budget for recruiting, inventory, and ads. See [[local-service-brands-and-partner-fulfillment]] for source arithmetic, reported margins, and the distinction between booked work, revenue, and profit.
+
 ## Source Summaries
+
+`processed/$50k a month, and my customers never hear the word AI.md`: September 2026 newsletter case covered above; performance claims remain attributed to the source.
+`processed/An $80KMonth Business Anyone Can Start.md`: September 2026 newsletter case covered above; performance claims remain attributed to the source.
 
 `processed/How to Make $15kMonth from Facebook Marketplace.md`: Shows a local product business built around one standardized garage-shelving offer, organic Facebook Marketplace demand, Instagram proof, bulk materials, healthy unit margins, and later expansion paths such as plans, installer networks, and training.
 

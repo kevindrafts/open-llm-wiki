@@ -1,4 +1,4 @@
-This index catalogs the compiled wiki topics from the current source set, organized around shared internal tool platforms, agent tooling, software factories, context compaction for coding agents, AI knowledge-base maintenance, marketing workflows, founder-led B2B content systems, SEO, answer engine optimization, signal-based outbound, website conversion, HTML-first web patterns, social intelligence, AI-native service businesses, bootstrapped apps, solopreneurship, design-first software, practical visual design critique for AI-built products, validation, owned distribution loops, proof-of-work outreach, outcome pricing, autopilot services, productized service pivots, portfolio micro-SaaS strategy, unbundled API-wrapper businesses, lean AI SaaS infrastructure, AI-assisted product design, offline local arbitrage businesses, and local advertising-media arbitrage.
+This index catalogs the compiled wiki topics from the current source set, organized around shared internal tool platforms, agent tooling, software factories, context compaction for coding agents, AI knowledge-base maintenance, marketing workflows, founder-led B2B content systems, SEO, answer engine optimization, signal-based outbound, website conversion, HTML-first web patterns, social intelligence, AI-native service businesses, bootstrapped apps, solopreneurship, design-first software, practical visual design critique for AI-built products, validation, owned distribution loops, proof-of-work outreach, outcome pricing, autopilot services, productized service pivots, portfolio micro-SaaS strategy, unbundled API-wrapper businesses, lean AI SaaS infrastructure, AI-assisted product design, offline local arbitrage businesses, local advertising-media arbitrage, and local service brands with independent fulfillment.
 
 # Knowledge Base Index
 
@@ -32,6 +32,8 @@ This index catalogs the compiled wiki topics from the current source set, organi
 - [[html-first-web-apps-and-progressive-enhancement]] - Durable server-rendered flows, progressive enhancement, backend-persisted forms, browser-native validation, accessibility, and low-JavaScript reliability for public and conversion-critical web apps.
 
 ## Business Ideas and Bootstrapped Apps
+
+- [[local-service-brands-and-partner-fulfillment]] - Local service brands that own sales and dispatch, independent installers, booked-job pricing, and reported unit economics.
 
 - [[ai-assisted-market-research-and-validation]] - AI-supported niche expansion, Reddit pain mining, platform analytics, search validation, competitor traction checks, job-post demand, commitment metrics, landing pages, and waitlists.
 - [[micro-saas-and-bootstrapped-apps]] - Boring micro-SaaS and bootstrapped app playbooks based on proven demand, competitor complaint mining, unbundled APIs, small teams, managed-service architecture, lean AI SaaS stacks, portfolio kill rules, SEO, reviews, and product focus.
@@ -191,3 +193,6 @@ This index catalogs the compiled wiki topics from the current source set, organi
 - `processed/What if every company had an internal hosting platform like Shopify’s Quick.md` - Covered in [[internal-tool-platforms-and-collaborative-agents]] and [[agent-skills-and-agent-native-tools]].
 - `processed/Our Self-Building Slackbot.md` - Covered in [[internal-tool-platforms-and-collaborative-agents]], [[agent-skills-and-agent-native-tools]], and [[software-factories-and-agent-loops]].
 - `processed/Make Money With This New AI Agent That Works 247.md` - Covered in [[software-factories-and-agent-loops]] and [[micro-saas-and-bootstrapped-apps]].
+
+- `processed/$50k a month, and my customers never hear the word AI.md` - Covered in [[service-business-ai-consulting]], [[ai-marketing-automation-workflows]], [[offline-local-arbitrage-businesses]], and [[local-service-brands-and-partner-fulfillment]].
+- `processed/An $80KMonth Business Anyone Can Start.md` - Covered in [[local-service-brands-and-partner-fulfillment]] and [[offline-local-arbitrage-businesses]].

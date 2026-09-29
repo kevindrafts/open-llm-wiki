@@ -126,7 +126,15 @@ This is valuable because it closes the loop between analysis and execution. The 
 
 The source also adds a competitive-intelligence twist. Competitor subject lines, offers, send cadence, and visual patterns can be logged automatically, giving the operator a market memory that informs future tests. Email becomes less like a calendar of campaigns and more like a continuously learning system, parallel to the growth loops elsewhere on this page.
 
+## Local website audits as sales inputs
+
+The Boring Marketer's September 18, 2026 clipping describes a Zapier-sponsored demonstration that uses Apify to collect Google Maps businesses, reads their websites, flags missing email capture, click-to-call, or clear offers, and prepares a personalized pitch asset. The author reports demonstrating it on 20 Atlanta HVAC companies. The clipping describes the workflow but does not include its implementation or conversion results.
+
+The useful connection to [[service-business-ai-consulting]] is to make prospecting produce a specific diagnosis and a relevant offer. A missing site element is a lead for investigation; it does not by itself prove lost revenue. The same source's Run1T case connects website, booking, email, and reporting data to appointments and invoiced amounts, allowing the sales conversation to focus on business results.
+
 ## Source Summaries
+
+`processed/$50k a month, and my customers never hear the word AI.md`: September 2026 newsletter case covered above; performance claims remain attributed to the source.
 
 `processed/How I Built a Sales Research Pipeline Entirely Inside Google's Ecosystem.md`: Shows a no-code AI sales research pipeline using Gemini Deep Research, Gemini Chat, NotebookLM, Google Sheets, Google Docs, and Gmail. The main lesson is that AI research needs a prepared offer, target list, and scoring rubric before it can produce useful qualified leads.
 

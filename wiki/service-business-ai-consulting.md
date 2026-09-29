@@ -119,7 +119,19 @@ The newsletter's $80,000 summer client result and low-cost advertising example a
 
 This connects [[website-conversion-and-b2b-lead-generation]] with [[seo-and-ai-search-strategy]] and [[founder-led-b2b-content-systems]]. The business opportunity is a recurring local marketing service whose content starts with the owner's actual expertise.
 
+## Booked-job offers and specialist distribution
+
+The Boring Marketer's September 18, 2026 newsletter describes Marcus Cousin's Run1T platform combining a website, booking, email, reporting, and conversational business-data queries. His pilot mobile detailer reportedly tripled volume within three months and recorded 39 appointments and $6,374.87 invoiced in the latest 30 days. The account does not isolate the platform's effect from other changes in the business.
+
+Marcus reportedly charged $80 per month. The newsletter proposes a fee per booked job, a free assessment as the entry offer, manual acquisition of the first 25 clients, and targeting higher-ticket work such as ceramic coating or paint protection film. These are proposed changes, not demonstrated pricing results. Its example contains an arithmetic error: $15 per job for 20 jobs is $300, not $400. A performance offer also needs a definition of a billable booking, including attribution, cancellations, and repeat customers.
+
+The second case concerns Rey's free, open-source Workflow Router, described as mapping existing tools and assets into workflows and possible business uses. The suggested sales route is to package his qualitative social-analysis expertise for agencies that already have client relationships. The lesson is to sell a narrow specialist service and earn a first case study before building more apps. The source's claim that AI cannot perform qualitative interpretation is opinion, not evidence established by the case.
+
+The same newsletter proposes owning the local service brand and dispatching work to independent operators. See [[local-service-brands-and-partner-fulfillment]] for Diesel Dudes and the related water-filtration case, where the operator sells the completed physical service.
+
 ## Source Summaries
+
+`processed/$50k a month, and my customers never hear the word AI.md`: September 2026 newsletter case covered above; performance claims remain attributed to the source.
 
 `processed/The Most Overlooked AI Side Hustle of 2026.md`: Describes a local marketing retainer combining business-profile upkeep, a call-focused page, recorded owner expertise, and local jingle ads, with attributed pricing and workload claims.
 
