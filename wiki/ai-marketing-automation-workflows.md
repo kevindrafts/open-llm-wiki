@@ -132,7 +132,13 @@ The Boring Marketer's September 18, 2026 clipping describes a Zapier-sponsored d
 
 The useful connection to [[service-business-ai-consulting]] is to make prospecting produce a specific diagnosis and a relevant offer. A missing site element is a lead for investigation; it does not by itself prove lost revenue. The same source's Run1T case connects website, booking, email, and reporting data to appointments and invoiced amounts, allowing the sales conversation to focus on business results.
 
+## Firsthand software research as drafting input
+
+Chris Koerner's September 24, 2026 profile of freelance writer Steph describes a recording-to-draft workflow. She tests software while recording her screen and narrating her reasoning, then uses AI to draft from that recording and her own template. Screenshots, observed behavior, and verified steps give the draft concrete source material. Editing still needs to check the tutorial against the actual workflow. See [[research-led-b2b-writing-services]] for how this supports a paid writing offer.
+
 ## Source Summaries
+
+`processed/How to Get Paid $1,000 Per Article in the Age of AI.md`: Adds firsthand software testing, portfolio-led client acquisition, and narrated recordings as inputs to AI-assisted drafts.
 
 `processed/$50k a month, and my customers never hear the word AI.md`: September 2026 newsletter case covered above; performance claims remain attributed to the source.
 

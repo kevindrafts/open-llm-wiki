@@ -39,7 +39,13 @@ For builders and service providers, a side-door motion can look like:
 
 The pattern is high-effort and low-volume by design. The advantage comes from being more specific, useful, and legible than the mass of AI-polished generic applications and pitches.
 
+## Writing samples as proof of work
+
+Chris Koerner's September 24, 2026 profile of freelance writer Steph adds a service-sales example. The source recommends creating four or five relevant samples before pitching, then showing specific knowledge of a prospect's product or published work. It describes pitches that led to work after Steph tried a founder's product or listened to an agency's podcast. The samples demonstrate delivery ability; the tailored message explains why that ability fits the client. See [[research-led-b2b-writing-services]] for the offer and reported economics.
+
 ## Source Summaries
+
+`processed/How to Get Paid $1,000 Per Article in the Age of AI.md`: Adds firsthand software testing, portfolio-led client acquisition, and narrated recordings as inputs to AI-assisted drafts.
 
 `processed/how to enter side doors.md`: Frames the job market as a search problem and argues that opportunities often come through specific outbound, public proof-of-work artifacts, and people willing to take a bet before a formal role exists. The most reusable lesson is specificity plus proof: show that you understand a person, company, or problem before asking for attention.
 

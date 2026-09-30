@@ -25,6 +25,8 @@ This index catalogs the compiled wiki topics from the current source set, organi
 
 ## Search, Content, and Competitive Intelligence
 
+- [[research-led-b2b-writing-services]] - Firsthand software testing, freelance writing offers, portfolio-led outreach, project pricing, and recording-to-draft workflows.
+
 - [[seo-and-ai-search-strategy]] - SEO in an AI search environment, including local SEO, parasite SEO, AI content risk, quality-gated programmatic SEO, AI-search-ready site infrastructure, non-commodity content grading, and third-party authority plays.
 - [[answer-engine-optimization]] - AEO visibility, chunk-level content structure, first-party prompt collection, prompt visibility reporting, and skepticism around AI-search attribution claims.
 - [[social-media-competitor-intelligence]] - Public-data monitoring workflows for Instagram, LinkedIn, YouTube, and creator/content research.
@@ -47,6 +49,8 @@ This index catalogs the compiled wiki topics from the current source set, organi
 - [[design-principles-for-ai-app-development]] - A practical critique language for AI-generated interfaces built around contrast, hierarchy, alignment, proximity, repetition, balance, white space, and unity.
 
 ## Source Coverage
+
+- `processed/How to Get Paid $1,000 Per Article in the Age of AI.md` - Covered in [[research-led-b2b-writing-services]], [[proof-of-work-and-side-door-outreach]], and [[ai-marketing-automation-workflows]].
 
 - `processed/llm-wiki.md` - Covered in [[llm-maintained-knowledge-bases]].
 - `processed/Wiki Builder A Claude Code Plugin for Building LLM Knowledge Bases.md` - Covered in [[llm-maintained-knowledge-bases]] and [[agent-skills-and-agent-native-tools]].
