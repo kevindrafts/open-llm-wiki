@@ -213,6 +213,14 @@ The Cypher Reddit-lead CLI source adds a service-provider and consultant variati
 
 The newer MADX Reddit SEO playbook sharpens the distinction between ranking a thread and being named inside the threads that AI already reads. For B2B SaaS, the more valuable distribution prize is often the mention rather than the click, because recommendation and comparison threads can do the persuasion inside the AI answer itself. That source also adds a stronger monitoring layer: track whether Reddit appears in AI citations on your target prompts, whether your brand gets named in those answers, and whether older ranking threads still represent the category accurately.
 
+## Moderator relationships as community work
+
+Rob Fawkes's September 2026 moderator-outreach article adds the relationship behind permission to participate. Research the subreddit and its rules, disclose the brand affiliation in the first message, and propose something useful to members, such as expertise, product context, or access to someone who can answer questions. The article states that paying moderators is prohibited; that is a claim from the clipping, not a current policy check performed during ingestion.
+
+The Sonos example makes the workload constraint concrete. Keith Nieves reports that a moderator declined recurring calls because of work and family commitments. Sonos kept contact primarily to email and used calls when needed. The brand treated itself as a guest, stayed involved during difficult periods, and brought community feedback into product discussions. The Times example similarly emphasizes relevance to members over selling to moderators.
+
+For the distribution strategy in this wiki, the implication is to budget for continued participation and feedback handling. Approval for one contribution does not establish ownership of the community or permission for every later promotion. This complements [[ai-assisted-market-research-and-validation]] by connecting community listening to product decisions. The clipping reports relationships and practices, not measured acquisition results.
+
 ## Launch Copy and Early Distribution
 
 The solo SaaS launch-copy source adds a compact launch system for one-person products: one ICP sentence, one outcome-driven promise, a minimal waitlist page, 10 specific DMs per day, a Product Hunt story instead of a spec sheet, and a spend cap until revenue proves the motion.
@@ -362,6 +370,8 @@ The distribution lesson is restraint. Use a small SEO stack, talk to users befor
 `processed/Building your audience from scratch doesn't have to be hard  (a deep dive).md`: Adds an audience-building research system: define niche and voice constraints, study near-stage creators, extract repeatable post structures, find positioning/timing arbitrage, and run a 30-day content test loop.
 
 `processed/I Built a CLI That Finds Me Clients on Reddit Using AI.md`: Adds a Reddit-as-prospecting pattern where keyword filtering plus AI intent scoring turns subreddit posts into ranked service or freelance leads.
+
+`processed/Reddit Moderator Outreach How to Work With Subreddit Mods.md`: Adds disclosed brand outreach, specific community value, moderator-selected communication cadence, and Sonos's reported path from email contact to product feedback. Several outreach subheadings have no body text in the clipping, so the source does not provide the full step-by-step detail its introduction promises.
 
 ## Related
 

@@ -14,6 +14,8 @@ This index catalogs the compiled wiki topics from the current source set, organi
 
 ## Marketing, Sales, and Service Business Workflows
 
+- [[decision-models-for-gtm]] - Jev source notes, bounded classification, confidence routing, staged GTM workflows, and unresolved cost comparisons.
+
 - [[ai-marketing-automation-workflows]] - Practical AI workflows for research, inbox handling, LinkedIn listening, public-question mining, reporting, homepage iteration, signal prospecting, content grading, site publishing, and marketing operations.
 - [[founder-led-b2b-content-systems]] - Expertise-led personal branding, repeatable founder content formats, raw-material inventories, proof-based posting, and content reuse as a revenue system.
 - [[service-business-ai-consulting]] - The AI assessment and implementation business model for local and service businesses.
@@ -49,6 +51,10 @@ This index catalogs the compiled wiki topics from the current source set, organi
 - [[design-principles-for-ai-app-development]] - A practical critique language for AI-generated interfaces built around contrast, hierarchy, alignment, proximity, repetition, balance, white space, and unity.
 
 ## Source Coverage
+
+- `processed/Jev Decision AI for GTM (what you need to know).md` - Covered in [[decision-models-for-gtm]] and [[ai-marketing-automation-workflows]].
+- `processed/How our vibe coded website looks like a designer made it.md` - Covered in [[design-principles-for-ai-app-development]] and [[design-systems-for-ai-built-products]].
+- `processed/Reddit Moderator Outreach How to Work With Subreddit Mods.md` - Covered in [[distribution-led-ai-startups]].
 
 - `processed/How to Get Paid $1,000 Per Article in the Age of AI.md` - Covered in [[research-led-b2b-writing-services]], [[proof-of-work-and-side-door-outreach]], and [[ai-marketing-automation-workflows]].
 

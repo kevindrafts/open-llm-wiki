@@ -31,6 +31,16 @@ The strongest workflow in the source is simple:
 
 This pairs well with [[design-systems-for-ai-built-products]], where a more durable `design.md` can preserve the improved direction once the team has found it.
 
+## Explore alternatives before refining details
+
+Yakko Majuri's August 2026 Railcode write-up adds a concrete exploration process. He connected the product's rails metaphor and users' enjoyment to an amusement-park theme, then asked agents for multiple interpretations. He commonly generated four to ten versions, guided some, and left others open-ended. Rejected designs sometimes supplied a useful component later.
+
+He kept prototypes in single HTML files, copied them to compare small changes side by side, and preserved the prompts behind each version. Interactive controls for colors, fonts, and placement let him adjust variables directly. He converted the chosen design into React components after settling the direction.
+
+The key unity decision was to integrate the rollercoaster into a park that connected page sections. A standalone illustration on a generic template looked out of place. The chosen hero then guided later assets, section colors, and a navigation background that changed with the visible section.
+
+This is a process report, not evidence of better conversion. Majuri's preference for Anthropic models is personal experience. The reusable lesson is to retain alternatives, compare concrete changes, and use an approved visual direction as context for subsequent work. See [[design-systems-for-ai-built-products]].
+
 ## Limits of Agentic Design
 
 The source argues that agents are best treated as fast design assistants, not as autonomous art directors. They are strong at assembling patterns and implementing code changes, especially when given references or existing systems, but they remain hard to steer without visual feedback. Screenshot critique closes part of that gap.
@@ -51,6 +61,8 @@ This overlaps with [[design-first-software-businesses]], where authored feel and
 ## Source Summary
 
 `processed/How to apply professional design principles in AI app development.md`: Expo argues that vibe-coded apps often look interchangeable because humans give weak visual feedback to the model. The article provides eight core design principles as a critique framework and shows how screenshot-based iteration can turn generic AI output into more polished, intentional product design.
+
+`processed/How our vibe coded website looks like a designer made it.md`: Yakko Majuri traces Railcode's website through divergent prototypes, saved HTML variants, interactive style controls, and repeated asset refinement. The case adds exploration and comparison to the existing screenshot-critique workflow.
 
 ## Related
 

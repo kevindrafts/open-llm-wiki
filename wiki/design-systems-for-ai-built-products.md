@@ -35,6 +35,12 @@ This matters because design drift is often a steering problem rather than a gene
 
 The article also reinforces a pragmatic workflow: let AI generate a first pass, review a screenshot against the principles, then iterate with targeted feedback. That fits the broader pattern here of turning taste into reusable operational context rather than expecting one-shot perfection.
 
+## Establish a direction through prototypes
+
+The Railcode case adds a step before documenting a design system. Explore several interpretations of a specific brand idea, preserve variants with their prompts, and compare them side by side. Majuri kept these prototypes in single HTML files and used interactive controls to tune colors and placement. After choosing the hero's direction, he reused it to guide other assets and sections.
+
+The connection to `design.md` is a wiki synthesis. Exploration produces the references and decisions that a reusable design file can preserve. See [[design-principles-for-ai-app-development]] for the case details.
+
 ## Taste as Moat
 
 The sources argue that baseline AI design is improving but becoming generic. Taste becomes a differentiator because users can feel care, quality, and specificity. For builders, the actionable version is to build a second brain for design inspiration, study products in the niche, and preserve references as reusable context.
@@ -46,6 +52,8 @@ The sources argue that baseline AI design is improving but becoming generic. Tas
 `processed/My Claude Code workflow no one knows about.md`: Adds a practical landing-page design workflow using reference screenshots, style guides, Paper, Tail Arc components, subtle animations, and agent-driven refinements before pushing to code and A/B testing.
 
 `processed/How to apply professional design principles in AI app development.md`: Adds an eight-principle critique framework for steering AI-generated interfaces: contrast, hierarchy, alignment, proximity, repetition, balance, white space, and unity. The key lesson is that screenshot-based critique plus explicit visual vocabulary produces better revisions than generic "improve the design" prompts.
+
+`processed/How our vibe coded website looks like a designer made it.md`: Adds saved prototype variants, prompt history, interactive style controls, and a chosen hero as a reference for later components.
 
 ## Related
 

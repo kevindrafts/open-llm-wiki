@@ -24,6 +24,12 @@ The architecture is clean:
 
 This connects directly to [[cold-email-deliverability-2026]] and [[distribution-led-ai-startups]]: AI research is most useful when it improves lead selection and timing rather than merely writing more outreach.
 
+## Qualification before generation
+
+The September 2026 Jev clipping adds a separate decision step between research and writing. Collect evidence, classify the persona and company fit against explicit criteria, then run paid enrichment or message generation only for qualified rows. Deterministic checks stay in formulas. Uncertain judgments go to review or further research.
+
+[[decision-models-for-gtm]] covers the source's typed outputs, confidence routing, Clay HTTP integration, and evaluation limits. Its savings argument depends partly on avoiding downstream work, while the quoted model-price comparison remains incomplete.
+
 ## Winning Workflow Patterns
 
 The Gumloop challenge winners show three repeatable workflow categories:
@@ -135,6 +141,10 @@ The useful connection to [[service-business-ai-consulting]] is to make prospecti
 ## Firsthand software research as drafting input
 
 Chris Koerner's September 24, 2026 profile of freelance writer Steph describes a recording-to-draft workflow. She tests software while recording her screen and narrating her reasoning, then uses AI to draft from that recording and her own template. Screenshots, observed behavior, and verified steps give the draft concrete source material. Editing still needs to check the tutorial against the actual workflow. See [[research-led-b2b-writing-services]] for how this supports a paid writing offer.
+
+## Jev source coverage
+
+`processed/Jev Decision AI for GTM (what you need to know).md`: Adds a bounded classification and scoring stage to GTM workflows, with explicit criteria, short inputs, an unclear option, and confidence-based routing. Product claims and costs remain attributed to the September 2026 newsletter.
 
 ## Source Summaries
 
