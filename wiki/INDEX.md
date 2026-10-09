@@ -14,6 +14,8 @@ This index catalogs the compiled wiki topics from the current source set, organi
 
 ## Marketing, Sales, and Service Business Workflows
 
+- [[b2b-sales-process-and-gtm-frameworks]] - Untouched leads, buyer trust, sales experience, executive updates, compensation alignment, and source-claim limits.
+
 - [[decision-models-for-gtm]] - Jev source notes, bounded classification, confidence routing, staged GTM workflows, and unresolved cost comparisons.
 
 - [[ai-marketing-automation-workflows]] - Practical AI workflows for research, inbox handling, LinkedIn listening, public-question mining, reporting, homepage iteration, signal prospecting, content grading, site publishing, and marketing operations.
@@ -51,6 +53,9 @@ This index catalogs the compiled wiki topics from the current source set, organi
 - [[design-principles-for-ai-app-development]] - A practical critique language for AI-generated interfaces built around contrast, hierarchy, alignment, proximity, repetition, balance, white space, and unity.
 
 ## Source Coverage
+
+- `processed/5 GTM Frameworks to Know.md` - Covered in [[b2b-sales-process-and-gtm-frameworks]] and [[ai-marketing-automation-workflows]].
+- `processed/How to turn your AI into a world-class designer.md` - Covered in [[design-principles-for-ai-app-development]] and [[design-systems-for-ai-built-products]].
 
 - `processed/Jev Decision AI for GTM (what you need to know).md` - Covered in [[decision-models-for-gtm]] and [[ai-marketing-automation-workflows]].
 - `processed/How our vibe coded website looks like a designer made it.md` - Covered in [[design-principles-for-ai-app-development]] and [[design-systems-for-ai-built-products]].

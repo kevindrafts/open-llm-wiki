@@ -41,6 +41,22 @@ The key unity decision was to integrate the rollercoaster into a park that conne
 
 This is a process report, not evidence of better conversion. Majuri's preference for Anthropic models is personal experience. The reusable lesson is to retain alternatives, compare concrete changes, and use an approved visual direction as context for subsequent work. See [[design-systems-for-ai-built-products]].
 
+## Discover, define, and deliver
+
+Anshu Chimala's September 2026 article adds a sequence for finding a distinctive direction before polishing it. During discovery, generate many short concepts, choose promising ones, describe personal reactions, and turn the chosen direction into a concise prototype brief. Specific inspirations, such as a tactile industrial control panel or a page organized as a city, give the model more direction than a request to be unique.
+
+The source also proposes generating an external random alphanumeric string with a shell script and using its patterns as creative inspiration. Keep the string out of the visible design. This is a variation technique to compare experimentally. The article's broader claims that models cannot act randomly and that every seeded result will be unique are not established by its examples.
+
+During definition, the author separates implementation from critique. A critic receives the current screenshot in a fresh context without implementation details or earlier rationales, identifies composition and detail problems, and returns specific feedback. Reference images can set a comparison baseline without becoming a copying target. The example keeps a 9/10 stopping threshold out of the critic's prompt, but the author also advises starting with one or two iterations to see whether the loop converges. A subjective score is not a usability test.
+
+During delivery, remove elements that do not help the user. In the calorie-tracker example, the author removes glows, decorative colors, redundant labels, and containers, simplifies the layout around food images, and favors native controls. This extends the existing critique vocabulary with an explicit deletion pass.
+
+## Images and motion as design materials
+
+Chimala's workflow combines code with generated imagery when the selected direction needs richer visual assets. For motion, the article describes looping video with background removal and transitions between still frames that respond to scrolling. Reusing one clip's final frame as the next clip's starting frame is the proposed continuity technique. A glass-effect example renders against the page's colors before removing the background so those colors influence the reflections.
+
+These are prototype techniques described in the clipping. Its demo prompt counts, model preferences, claimed token savings, and subscription or tool-access instructions were not independently tested. The wiki's production inference is to review legibility, task completion, motion preferences, and loading cost separately from visual novelty. See [[design-systems-for-ai-built-products]] for preserving the selected direction and assets.
+
 ## Limits of Agentic Design
 
 The source argues that agents are best treated as fast design assistants, not as autonomous art directors. They are strong at assembling patterns and implementing code changes, especially when given references or existing systems, but they remain hard to steer without visual feedback. Screenshot critique closes part of that gap.
@@ -63,6 +79,8 @@ This overlaps with [[design-first-software-businesses]], where authored feel and
 `processed/How to apply professional design principles in AI app development.md`: Expo argues that vibe-coded apps often look interchangeable because humans give weak visual feedback to the model. The article provides eight core design principles as a critique framework and shows how screenshot-based iteration can turn generic AI output into more polished, intentional product design.
 
 `processed/How our vibe coded website looks like a designer made it.md`: Yakko Majuri traces Railcode's website through divergent prototypes, saved HTML variants, interactive style controls, and repeated asset refinement. The case adds exploration and comparison to the existing screenshot-critique workflow.
+
+`processed/How to turn your AI into a world-class designer.md`: Anshu Chimala describes broad concept exploration, external seed strings, human taste in briefs, fresh-context screenshot critics, generated image and video assets, and a final subtraction pass. The source offers demonstrations and practitioner judgments, not controlled evidence of usability or conversion gains.
 
 ## Related
 

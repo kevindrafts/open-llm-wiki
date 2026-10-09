@@ -41,6 +41,12 @@ The Railcode case adds a step before documenting a design system. Explore severa
 
 The connection to `design.md` is a wiki synthesis. Exploration produces the references and decisions that a reusable design file can preserve. See [[design-principles-for-ai-app-development]] for the case details.
 
+## Preserve the brief and the critique baseline
+
+Chimala's discover, define, and deliver workflow adds useful material for reusable design context: the selected creative brief, the human preferences behind it, approved screenshots, reference images, and explicit examples of unwanted decoration. A stable critique prompt and comparison images make later reviews more consistent. The source recommends fresh screenshot-only critique rather than feeding the reviewer the implementer's prior rationale.
+
+The connection to a design system is a wiki synthesis. Record the choices that survive exploration, including imagery, motion behavior, and what to leave out. Keep rejected prompts as experiments for later model evaluations, separate from the approved direction. Generated video transitions also need their source frames and continuity decisions preserved if future work is to match them. See [[design-principles-for-ai-app-development]] for the workflow and its limits.
+
 ## Taste as Moat
 
 The sources argue that baseline AI design is improving but becoming generic. Taste becomes a differentiator because users can feel care, quality, and specificity. For builders, the actionable version is to build a second brain for design inspiration, study products in the niche, and preserve references as reusable context.
@@ -54,6 +60,8 @@ The sources argue that baseline AI design is improving but becoming generic. Tas
 `processed/How to apply professional design principles in AI app development.md`: Adds an eight-principle critique framework for steering AI-generated interfaces: contrast, hierarchy, alignment, proximity, repetition, balance, white space, and unity. The key lesson is that screenshot-based critique plus explicit visual vocabulary produces better revisions than generic "improve the design" prompts.
 
 `processed/How our vibe coded website looks like a designer made it.md`: Adds saved prototype variants, prompt history, interactive style controls, and a chosen hero as a reference for later components.
+
+`processed/How to turn your AI into a world-class designer.md`: Adds creative briefs shaped by human preferences, reference-based critique, generated media, saved failed prompts, and restraint as inputs to reusable design context.
 
 ## Related
 

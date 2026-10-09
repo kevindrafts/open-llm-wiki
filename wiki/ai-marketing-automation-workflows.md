@@ -146,6 +146,12 @@ Chris Koerner's September 24, 2026 profile of freelance writer Steph describes a
 
 `processed/Jev Decision AI for GTM (what you need to know).md`: Adds a bounded classification and scoring stage to GTM workflows, with explicit criteria, short inputs, an unclear option, and confidence-based routing. Product claims and costs remain attributed to the September 2026 newsletter.
 
+## Give lead agents a defined assignment
+
+GTMnow's October 2026 roundup describes Salesforce assigning an engagement agent only to low-scored inbound leads that sellers were leaving untouched. The framework measures qualified pipeline from that pool, then hands engaged, qualified leads to humans. This adds an ownership rule to the research, qualification, and generation sequence: define which records belong to the agent before outreach begins.
+
+The same source describes timely outreach based on job changes, company news, and warm relationships. The wiki's application is to connect signal detection to a useful buyer-specific observation and clear account ownership. The source's sponsored Influ2 mention describes MCP access to contact-level account-based marketing data, but does not demonstrate an integration. See [[b2b-sales-process-and-gtm-frameworks]] for all five frameworks and the limits of the reported pipeline and survey claims.
+
 ## Source Summaries
 
 `processed/How to Get Paid $1,000 Per Article in the Age of AI.md`: Adds firsthand software testing, portfolio-led client acquisition, and narrated recordings as inputs to AI-assisted drafts.
@@ -195,6 +201,8 @@ Chris Koerner's September 24, 2026 profile of freelance writer Steph describes a
 `processed/Marketing Agents Masterclass (GROW your startup).md`: Adds a full signal-based outbound and content-engine playbook using LinkedIn-engagement scraping, waterfall enrichment, burner inbox infrastructure, Instantly/HeyReach delivery, and agent-managed reply handling.
 
 `processed/He's Sending 250,000 LinkedIn DMs a Month, Here's the Exact System.md`: Adds a LinkedIn InMail arbitrage workflow, unified inbox plus CRM orchestration, after-hours AI voice follow-up, and the practical claim that less-crowded channels can beat colder but cheaper email volume.
+
+`processed/5 GTM Frameworks to Know.md`: Adds untouched-lead ownership boundaries, qualification-to-human handoffs, pipeline-based evaluation, and timely outreach based on buyer signals. Performance figures are newsletter reports.
 
 ## Related
 
