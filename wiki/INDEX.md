@@ -1,4 +1,4 @@
-This index catalogs the compiled wiki topics from the current source set, organized around shared internal tool platforms, agent tooling, software factories, context compaction for coding agents, AI knowledge-base maintenance, marketing workflows, founder-led B2B content systems, SEO, answer engine optimization, signal-based outbound, website conversion, HTML-first web patterns, social intelligence, AI-native service businesses, bootstrapped apps, solopreneurship, design-first software, practical visual design critique for AI-built products, validation, owned distribution loops, proof-of-work outreach, outcome pricing, autopilot services, productized service pivots, portfolio micro-SaaS strategy, unbundled API-wrapper businesses, lean AI SaaS infrastructure, AI-assisted product design, offline local arbitrage businesses, local advertising-media arbitrage, and local service brands with independent fulfillment.
+This index catalogs the compiled wiki topics from the current source set, organized around shared internal tool platforms, agent tooling, software factories, context compaction for coding agents, AI knowledge-base maintenance, marketing workflows, founder-led B2B content systems, SEO, answer engine optimization, signal-based outbound, website conversion, HTML-first web patterns, social intelligence, AI-native service businesses, bootstrapped apps, solopreneurship, design-first software, practical visual design critique for AI-built products, validation, owned distribution loops, proof-of-work outreach, outcome pricing, autopilot services, productized service pivots, portfolio micro-SaaS strategy, unbundled API-wrapper businesses, lean AI SaaS infrastructure, AI-assisted product design, offline local arbitrage businesses, local advertising-media arbitrage, local service brands with independent fulfillment, and mobile enrichment classes.
 
 # Knowledge Base Index
 
@@ -39,6 +39,8 @@ This index catalogs the compiled wiki topics from the current source set, organi
 
 ## Business Ideas and Bootstrapped Apps
 
+- [[mobile-enrichment-class-businesses]] - Children's woodworking classes, parent-network acquisition, repeatable projects, group contracts, and reported unit economics.
+
 - [[local-service-brands-and-partner-fulfillment]] - Local service brands that own sales and dispatch, independent installers, booked-job pricing, and reported unit economics.
 
 - [[ai-assisted-market-research-and-validation]] - AI-supported niche expansion, Reddit pain mining, platform analytics, search validation, competitor traction checks, job-post demand, commitment metrics, landing pages, and waitlists.
@@ -53,6 +55,8 @@ This index catalogs the compiled wiki topics from the current source set, organi
 - [[design-principles-for-ai-app-development]] - A practical critique language for AI-generated interfaces built around contrast, hierarchy, alignment, proximity, repetition, balance, white space, and unity.
 
 ## Source Coverage
+
+- `processed/The Most Overlooked $1KHour Business Anyone Can Start.md` - Covered in [[mobile-enrichment-class-businesses]] and [[offline-local-arbitrage-businesses]].
 
 - `processed/5 GTM Frameworks to Know.md` - Covered in [[b2b-sales-process-and-gtm-frameworks]] and [[ai-marketing-automation-workflows]].
 - `processed/How to turn your AI into a world-class designer.md` - Covered in [[design-principles-for-ai-app-development]] and [[design-systems-for-ai-built-products]].

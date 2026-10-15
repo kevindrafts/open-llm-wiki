@@ -58,7 +58,15 @@ Two September 2026 clippings add a model where the founder handles marketing, sa
 
 This resembles the standardized local offers above, but installer capacity replaces the founder's own production capacity. The water-filtration case adds price-visible ads and long follow-up cycles as acquisition mechanisms. Its roughly $500 startup claim omits a reconciled budget for recruiting, inventory, and ads. See [[local-service-brands-and-partner-fulfillment]] for source arithmetic, reported margins, and the distinction between booked work, revenue, and profit.
 
+## Local enrichment classes
+
+Chris Koerner's October 8, 2026 profile of Mike Herod adds children's woodworking classes to the local-business examples. The reported model combines parent-group referrals, reusable projects, advance payments, and expansion into camps and homeschool contracts. It shares the simple-offer and customer-funded-materials pattern above, while adding teaching capacity and parent trust as operating constraints.
+
+The roughly $425 starter kit covers six children's equipment, not the full business cost. A $30,000 co-op contract spans 28 scheduled class hours, yielding about $1,071 gross revenue per class hour before preparation, helpers, materials, and other expenses. See [[mobile-enrichment-class-businesses]] for the reported prices, venue distinction, and limits of the hourly-income headline.
+
 ## Source Summaries
+
+`processed/The Most Overlooked $1KHour Business Anyone Can Start.md`: October 2026 newsletter case covered in [[mobile-enrichment-class-businesses]]; results remain attributed to the source.
 
 `processed/$50k a month, and my customers never hear the word AI.md`: September 2026 newsletter case covered above; performance claims remain attributed to the source.
 `processed/An $80KMonth Business Anyone Can Start.md`: September 2026 newsletter case covered above; performance claims remain attributed to the source.
