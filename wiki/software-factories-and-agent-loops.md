@@ -30,6 +30,10 @@ PostHog's loop framing reduces agentic work to four parts:
 
 Good examples include PR babysitters, bug fixers, flaky-test hunters, performance autoresearchers, and paper-cut loops that mine product data for small improvements. This connects to [[agent-skills-and-agent-native-tools]] because skills, MCPs, CLIs, cloud execution, and subagents are the practical interface layer for loops.
 
+## Choosing the outcome
+
+Rieseberg connects broader agent goals to reproducible failures and independent checks. See [[ambitious-ai-task-design]] for the framework and retrieved source.
+
 ## Contracts Over Summaries
 
 Factories need project contracts, often markdown files such as `AGENTS.md`, that make future work more reliable. A good contract is not a file inventory or one-off spec. It should capture stable principles, validation methods, risk boundaries, ownership rules, and context an agent cannot infer from code.

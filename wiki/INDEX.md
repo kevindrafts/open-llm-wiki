@@ -4,6 +4,8 @@ This index catalogs the compiled wiki topics from the current source set, organi
 
 ## Agentic Tooling and Knowledge Systems
 
+- [[ambitious-ai-task-design]] - Outcome selection, expert methods, and cross-disciplinary techniques.
+
 - [[internal-tool-platforms-and-collaborative-agents]] - Shared hosting, agent deployment, self-editing Slackbots, team feedback, and dated access-control constraints.
 - [[llm-maintained-knowledge-bases]] - The persistent markdown wiki pattern for compiling raw sources into durable, interlinked knowledge.
 - [[agent-skills-and-agent-native-tools]] - Skills, MCPs, OpenClaw use cases, Printing Press CLIs, internal agent platforms, CLI-first tool strategies, and the shift toward reusable agent capabilities.
@@ -55,6 +57,8 @@ This index catalogs the compiled wiki topics from the current source set, organi
 - [[design-principles-for-ai-app-development]] - A practical critique language for AI-generated interfaces built around contrast, hierarchy, alignment, proximity, repetition, balance, white space, and unity.
 
 ## Source Coverage
+
+- `processed/How to be more ambitious A tutorial for humans with models.md` - Metadata-only clipping; linked article retrieved and summarized in [[ambitious-ai-task-design]], with a connection in [[software-factories-and-agent-loops]].
 
 - `processed/The Most Overlooked $1KHour Business Anyone Can Start.md` - Covered in [[mobile-enrichment-class-businesses]] and [[offline-local-arbitrage-businesses]].
 
