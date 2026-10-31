@@ -75,7 +75,19 @@ The strongest B2B implication across both sources is that founder content and co
 
 The risk is not that the founder becomes "too visible." The larger risk is that the market never associates the founder or the company with anything specific.
 
+## Choose topics from paying customers
+
+Alex Hormozi's September 25, 2026 video transcript distinguishes selling audience access through sponsorships from using content to acquire customers for an existing business. For the latter, his proposed editorial input is the highest-spending customer segment. Identify its recurring problems and produce content that helps those buyers make decisions.
+
+Hormozi reports that a quarter of broader content increased views while book sales, leads, and portfolio applications declined. He also describes highly viewed beginner videos with no attributed sales, while deeper business breakdowns generated more revenue with fewer views. The clipping does not include the underlying dashboard or a controlled comparison, so these are reported observations rather than proof that broad content always performs poorly.
+
+His practical workflow is to inspect the top 20% of customers by spending, find common problems, publish detailed answers, and attach a relevant next step. He describes using calls to action and UTM-tagged links in video descriptions to connect content to revenue. This tracks attributed conversions; it does not establish that a video had no influence when viewers later convert through another path.
+
+For broader topics, Hormozi proposes "vertical value": the same discussion should offer something useful to both beginners and established operators. Advanced content can still succeed with a smaller audience when it reaches the customers the business serves. The resulting planning rule is to review qualified leads and sales alongside reach, then decide which topics merit repetition. This extends the reuse system above with a buyer-based definition of a winning post and connects to [[creator-led-solopreneurship]] and [[website-conversion-and-b2b-lead-generation]].
+
 ## Source Summaries
+
+`processed/How to become rich with social media (my exact playbook).md`: Alex Hormozi's supplied video transcript argues for buyer-specific topics, deeper business content, and revenue attribution through tagged links. Performance comparisons are his account; underlying analytics are absent from the clipping.
 
 `processed/founder content is a system full playbook.md`: Anson Lin lays out a repeatable founder-content system built from three raw-material buckets, six reusable post formats, and aggressive recycling of winning posts. The main lesson is that novelty matters less than specific proof and disciplined reuse.
 

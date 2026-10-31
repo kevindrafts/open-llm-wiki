@@ -186,7 +186,17 @@ The case supports starting with a specific recurring annoyance and using an agen
 
 Koerner suggests revisiting nearly finished projects and selling custom tools to business owners for recurring fees. Treat those as proposed opportunities. His spending cap of $100 per day is not a measured build cost, and his half-hour claim does not establish ongoing support economics. The planning and verification workflow is covered in [[software-factories-and-agent-loops]]. For team-facing tools with shared hosting, see [[internal-tool-platforms-and-collaborative-agents]].
 
+## Implementation partners as distribution
+
+Chris Koerner's October 2026 DocsBot recap describes a software business distributed partly through partners who configure and maintain support agents for clients. The platform supplies the product; partners supply niche knowledge, prospect demos, setup, and ongoing service. This can reach businesses that have support volume but little appetite to adopt another tool themselves.
+
+Koerner reports that Aaron Edwards reached more than $1M in annual recurring revenue at gross margins above 90% with his friend and son after eight earlier AI business attempts. The clipping does not provide financial records, cohort retention, or acquisition costs. Those reported platform margins should not be applied to partners' service businesses, which have separate delivery and support costs.
+
+The useful pattern is to make the product practical for implementers who already understand a customer segment. Their demos and documentation work can support acquisition and continued use. See [[service-business-ai-consulting]] for the reported partner offer, pricing arithmetic, and support-workload assumptions.
+
 ## Source Summaries
+
+`processed/The Easiest Way to Make Money With AI Right Now.md`: Adds DocsBot as a reported small-team SaaS case with implementation-partner distribution. Financial performance is attributed to the newsletter, not independently verified.
 
 `processed/Make Money With This New AI Agent That Works 247.md`: A reported personal inbox-blocker build, with proposed abandoned-project recovery and custom-tool services. The author had not made a sale at publication.
 

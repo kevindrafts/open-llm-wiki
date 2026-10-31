@@ -129,7 +129,27 @@ The second case concerns Rey's free, open-source Workflow Router, described as m
 
 The same newsletter proposes owning the local service brand and dispatching work to independent operators. See [[local-service-brands-and-partner-fulfillment]] for Diesel Dudes and the related water-filtration case, where the operator sells the completed physical service.
 
+## Managed customer-support agents
+
+Chris Koerner's October 15, 2026 newsletter describes DocsBot founder Aaron Edwards and a partner service that configures support agents for businesses. The proposed customer has enough repetitive support work to justify ongoing help, with manufacturers singled out because product manuals and specification tables supply useful source material. The service combines setup, human escalation, conversation review, and documentation maintenance.
+
+The source's acquisition sequence is concrete:
+
+- Choose one industry so demos and case studies address similar questions.
+- Look for existing help widgets, public knowledge bases, and support hiring as signals of workload and budget.
+- Build a prospect-specific demo from its public product and help documentation before pitching.
+- Show the demo through existing relationships, local business groups, or industry events.
+- Use conversation logs to identify unanswered questions and missing documentation, then report results each month.
+
+The newsletter reports partner pricing around $2,000 for setup and $500-$1,000 monthly, with platform costs of $50-$150 per client per month. These are dated source claims, not verified current prices. Its ten-client example produces $20,000 in setup revenue and $5,000 monthly recurring revenue. Subtracting ten $150 platform plans leaves $3,500 monthly before other software, acquisition, delivery, support, and overhead. That remainder is not take-home profit.
+
+The savings pitch assumes 5,000 monthly tickets, five minutes per ticket, and $20 per labor hour. Those inputs imply about 417 hours and $8,333 in labor value. Automating 60%-70% corresponds to roughly $5,000-$5,833 of theoretical capacity. Actual cash savings depend on whether the system resolves those tickets correctly and whether staffing costs change. The separate 70%-80% resolution claim and a contractor's projected $100,000 annual saving remain anecdotes, not measured results established by this clipping.
+
+A practical pilot derived from this model would measure resolution quality, human handoffs, maintenance hours, and client retention before treating reporting as nearly automatic. The business opportunity connects [[proof-of-work-and-side-door-outreach]] with [[ai-native-service-agencies]] and the partner distribution model in [[micro-saas-and-bootstrapped-apps]].
+
 ## Source Summaries
+
+`processed/The Easiest Way to Make Money With AI Right Now.md`: Koerner's DocsBot interview recap describes niche support-agent setup and retainers, prospect-specific demos, workload-based pricing, and monthly documentation feedback. Pricing, resolution rates, and savings remain attributed to the newsletter.
 
 `processed/$50k a month, and my customers never hear the word AI.md`: September 2026 newsletter case covered above; performance claims remain attributed to the source.
 

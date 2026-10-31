@@ -219,3 +219,5 @@ This index catalogs the compiled wiki topics from the current source set, organi
 
 - `processed/$50k a month, and my customers never hear the word AI.md` - Covered in [[service-business-ai-consulting]], [[ai-marketing-automation-workflows]], [[offline-local-arbitrage-businesses]], and [[local-service-brands-and-partner-fulfillment]].
 - `processed/An $80KMonth Business Anyone Can Start.md` - Covered in [[local-service-brands-and-partner-fulfillment]] and [[offline-local-arbitrage-businesses]].
+- `processed/The Easiest Way to Make Money With AI Right Now.md` - Covered in [[service-business-ai-consulting]] and [[micro-saas-and-bootstrapped-apps]].
+- `processed/How to become rich with social media (my exact playbook).md` - Covered in [[founder-led-b2b-content-systems]] and [[creator-led-solopreneurship]].

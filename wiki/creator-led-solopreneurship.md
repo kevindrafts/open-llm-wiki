@@ -150,7 +150,15 @@ The source also adds a distribution rule creators routinely underuse: wring the 
 
 Pierre Herubel's B2B personal-branding source adds a stricter positioning layer for creators and founders selling into professional markets. The point of a personal brand is not personality theater by default; it is public association between a name and an expertise. The durable differentiators are proprietary insight from real experiments or client work, a signature point of view, and recognizable formatting. In practice, this means creator-led businesses should publish decisions, mistakes, disagreements, named projects, and operating judgments rather than interchangeable summaries anyone could have prompted out of an LLM.
 
+## Audience size and buyer fit
+
+Alex Hormozi's September 2026 transcript separates creators who monetize sponsorship inventory from operators who use content to sell their own products or services. His reported experience favors specific customer problems over maximizing views when the goal is business revenue. A small audience can be commercially useful if it contains buyers with a recurring problem and a matching offer.
+
+The operational implication is to choose topics from actual customers, include a relevant next step, and compare attributed sales and qualified leads with reach. His examples do not establish a universal relationship between audience size and income. See [[founder-led-b2b-content-systems]] for the customer-selection workflow, advanced-content strategy, and limits of UTM attribution.
+
 ## Source Summaries
+
+`processed/How to become rich with social media (my exact playbook).md`: Adds the distinction between sponsorship reach and customer acquisition, with buyer fit as the proposed basis for topic selection.
 
 `processed/The Solopreneur He Makes $1.7M With 0 Employees.md`: Justin Welsh runs a knowledge business with courses, sponsorships, and paid email products. His funnel is social discovery, long-form trust, then low-pressure offers, supported by a lean software stack and regimented content routine.
 
