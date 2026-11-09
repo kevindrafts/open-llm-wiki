@@ -185,7 +185,15 @@ Koerner's recap of local marketer Mike's approach gives a focused page pattern f
 
 The proposed service combines this page with business-profile upkeep and owner-recorded answers to common customer problems. This joins traffic acquisition and conversion in one retainer, described in [[service-business-ai-consulting]]. The useful measurement is whether visits lead to qualified calls and booked jobs; a video's click-through rate alone does not establish business value.
 
+## A prelaunch page that measures buying intent
+
+Rob Walling's teardown grades three parts of the page as pass, weak, or miss. Can the intended buyer recognize their problem in the headline? Does the subheadline explain where their current alternatives fall short? Does the call to action match how they would buy? The worksheet suggests an email signup for a roughly $30/month product and a demo booking for one at $500/month or more.
+
+Ask subscribers whether they want updates, might buy, or want to buy at launch. Record their referral source alongside that answer. Ten existing readers following the build tell you something different from ten prospects asking for a demo. Label third-party quotes accurately and save mock-ups for interviews where you can hear what the buyer misunderstood. Feed those answers back into [[ai-assisted-market-research-and-validation]].
+
 ## Source Summaries
+
+- `processed/Rob Walling - The Landing Page Teardown.md`
 
 `processed/The Most Overlooked AI Side Hustle of 2026.md`: Adds a local-service landing-page pattern with problem-focused copy, visible proof, a short video, and a single call action; reported conversion improvements remain source claims.
 

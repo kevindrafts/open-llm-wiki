@@ -86,7 +86,21 @@ The creator analytics source shows a different data source for validation: platf
 
 This is a useful pattern when the target customer is also trapped inside a platform dashboard optimized for the platform's KPIs. The opportunity appears when users need decision metrics that the platform does not expose cleanly: subscriber source, note-to-sub conversion, cohort behavior, revenue correlation, or scheduling gaps.
 
+## From a day-job audit to buyer interviews
+
+Rob Walling's 9-to-5 audit starts with the last 30 days at work. List frustrating tasks, accepted workarounds, recurring emergencies, manual transfers between tools, and complaints from customers or vendors. A payroll spreadsheet someone rekeys every Friday gives you a user to interview, a cost to estimate, and an alternative to beat. Identify who feels the pain, who controls the budget, and what they already spend.
+
+Shortlist three to five problems. Score each from 1 to 5 on frequency, severity, clarity of budget ownership, existing spend, founder advantage, and the number of other companies with the problem. The audit puts 24–30 first for interviews, 18–23 first for testing weak assumptions, and lower scores aside for rework. Those bands prioritize research. They do not predict monthly revenue.
+
+Walling's 5 PM scorecard examines a specific product and customer. Its 19 questions cover, in priority order, the problem, purchaser, pricing model, market, product-founder fit, and difficulty of validation. Average all 19 answers on a five-point scale and mark guesses with a question mark. A small platform add-on can work in a niche too narrow for a standalone SaaS. At $50 per account per month, a standalone product needs about 1,667 paying accounts to reach $1 million in annual recurring revenue. Count the buyers you can reach at that price.
+
+The Great SaaS Idea Checklist compares up to three ideas across 13 factors. Check only factors already in evidence. Look for a recurring, costly problem, an identifiable buyer who can approve the purchase, and a way to reach more buyers in the same industry or role. A disliked incumbent can be useful evidence of existing demand. Examine what a platform change would cost you. Would you spend time migrating, the product itself, or access to customers? Consider whether customer data and integrations make switching costly, and whether a self-serve tier and a sales-assisted tier can each pay for their own acquisition. Use the gaps to choose interview questions, then test purchase intent through [[website-conversion-and-b2b-lead-generation]].
+
 ## Source Summaries
+
+- `processed/Rob Walling - The 5 PM Pre-Validation Scorecard.md`
+- `processed/Rob Walling - The 9 to 5 Audit.md`
+- `processed/Rob Walling - The Great SaaS Idea Checklist.md`
 
 `processed/How I Built a Sales Research Pipeline Entirely Inside Google's Ecosystem.md`: Describes a Gemini, NotebookLM, Sheets, Docs, and Gmail research pipeline for qualifying known target accounts. It is most useful for its pre-work: clarify the offer, define scoring dimensions, and use AI to gather evidence against that rubric.
 

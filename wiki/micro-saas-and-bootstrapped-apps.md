@@ -194,7 +194,15 @@ Koerner reports that Aaron Edwards reached more than $1M in annual recurring rev
 
 The useful pattern is to make the product practical for implementers who already understand a customer segment. Their demos and documentation work can support acquisition and continued use. See [[service-business-ai-consulting]] for the reported partner offer, pricing arithmetic, and support-workload assumptions.
 
+## Testing a consumer AI app before the build
+
+Blake Anderson's playbook starts with a frequent problem that AI can solve in seconds. He proposes scoring the niche out of 35, looking for at least 25, and testing the pitch with ten short videos and a waitlist. Each build phase has a completion check. After launch, his weekly cadence pairs one funnel experiment with one product fix. Creator posts and direct outreach bring in users whose trial starts, purchases, and retention can be measured separately. See [[ai-assisted-market-research-and-validation]].
+
+His example uses a Cloudflare Worker and D1, anonymous-first auth, separate mobile and web payments, and analytics for both usage and errors. The cost table reflects his October 2026 usage assumptions. In his subscription example, 1,000 downloads × 30% starting a trial × 30% paying × $30 per year yields $2,700 in gross first-year billings for that cohort. That is $2.70 per download before acquisition, store fees, refunds, and operating costs. Spread over the subscription year, those sales average $225 per month.
+
 ## Source Summaries
+
+- `processed/blakeandersonwai-app-playbook How to build useful, profitable apps in 2026. Clone it and point your coding agent at AGENTS.md..md`
 
 `processed/The Easiest Way to Make Money With AI Right Now.md`: Adds DocsBot as a reported small-team SaaS case with implementation-partner distribution. Financial performance is attributed to the newsletter, not independently verified.
 

@@ -1,0 +1,1 @@
+![[The+5+PM+Pre-Validation+Scorecard+·+Idea+to+Traction.pdf]]

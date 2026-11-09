@@ -221,3 +221,10 @@ This index catalogs the compiled wiki topics from the current source set, organi
 - `processed/An $80KMonth Business Anyone Can Start.md` - Covered in [[local-service-brands-and-partner-fulfillment]] and [[offline-local-arbitrage-businesses]].
 - `processed/The Easiest Way to Make Money With AI Right Now.md` - Covered in [[service-business-ai-consulting]] and [[micro-saas-and-bootstrapped-apps]].
 - `processed/How to become rich with social media (my exact playbook).md` - Covered in [[founder-led-b2b-content-systems]] and [[creator-led-solopreneurship]].
+- `processed/DIY Guide to Animated LinkedIn Infographics in Claude Code.md` - Covered in [[founder-led-b2b-content-systems]].
+- `processed/Edit Videos with Claude Opus 5.5.md` - Covered in [[founder-led-b2b-content-systems]].
+- `processed/Rob Walling - The 5 PM Pre-Validation Scorecard.md` - Covered in [[ai-assisted-market-research-and-validation]].
+- `processed/Rob Walling - The 9 to 5 Audit.md` - Covered in [[ai-assisted-market-research-and-validation]].
+- `processed/Rob Walling - The Great SaaS Idea Checklist.md` - Covered in [[ai-assisted-market-research-and-validation]].
+- `processed/Rob Walling - The Landing Page Teardown.md` - Covered in [[website-conversion-and-b2b-lead-generation]].
+- `processed/blakeandersonwai-app-playbook How to build useful, profitable apps in 2026. Clone it and point your coding agent at AGENTS.md..md` - Covered in [[micro-saas-and-bootstrapped-apps]].

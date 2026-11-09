@@ -85,7 +85,18 @@ His practical workflow is to inspect the top 20% of customers by spending, find 
 
 For broader topics, Hormozi proposes "vertical value": the same discussion should offer something useful to both beginners and established operators. Advanced content can still succeed with a smaller audience when it reaches the customers the business serves. The resulting planning rule is to review qualified leads and sales alongside reach, then decide which topics merit repetition. This extends the reuse system above with a buyer-based definition of a winning post and connects to [[creator-led-solopreneurship]] and [[website-conversion-and-b2b-lead-generation]].
 
+## Turning firsthand material into graphics and clips
+
+Anze Voje describes how OXYGEN co-founder Tim Scheuer turns a process he knows into a LinkedIn graphic. He writes the copy, makes a readable static version, then animates the step that benefits from motion. In a lead-cleaning example, water passing through a filter explains the process before the reader reaches the labels. His repository holds past posts, audience notes, fonts, icons, and reusable components. HTML, CSS, and JavaScript produce the GIF. Scheuer usually reviews two or three rounds before posting.
+
+Scheuer batches five posts and checks who engaged against his customer profile before starting conversations. Voje reports 805,561 impressions over 28 days and attributes about 85% of company signups to LinkedIn. The signup share covers the channel as a whole. The clipping gives no conversion rate for an individual GIF.
+
+For spoken material, Aakash Gupta describes giving Claude Code a podcast recording and its transcript to identify candidate clips. He reports three shorts from a 60-plus-minute episode in about seven minutes. Recording instructions aloud during retakes let him specify which take to keep and where audio needed leveling. His local editing skills use FFmpeg and Python, with Whisper for some speech checks. Review each export at phone size and listen across the cuts. One proposed hook relied on an unreadable vertical screen share, one cut clipped a word, and a loop of supposed room tone repeated spoken directions. These are specific checks to build into a repeatable [[ai-marketing-automation-workflows]] process.
+
 ## Source Summaries
+
+- `processed/DIY Guide to Animated LinkedIn Infographics in Claude Code.md`
+- `processed/Edit Videos with Claude Opus 5.5.md`
 
 `processed/How to become rich with social media (my exact playbook).md`: Alex Hormozi's supplied video transcript argues for buyer-specific topics, deeper business content, and revenue attribution through tagged links. Performance comparisons are his account; underlying analytics are absent from the clipping.
 
