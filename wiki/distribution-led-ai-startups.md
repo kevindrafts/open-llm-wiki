@@ -236,6 +236,23 @@ Practical rules:
 
 The "first 20 customers in 14 days" source adds a stronger pre-channel rule for early SaaS distribution. The founder's winning sequence was pain-first research, permission-based plain-text DMs, a short Loom demo, and a direct checkout link before the product had polished onboarding. A later curated email-list sponsorship added scale only after the manual conversion script worked. The useful ordering is to prove the message person by person, then buy access to a niche audience once the offer already converts.
 
+## First 100 users through small acquisition experiments
+
+John Rush's thread, clipped November 4, 2026 with no publication date in its metadata, collects 21 acquisition methods he says he has used for SaaS, websites, and AI agents. It adds a menu of early distribution experiments, but no channel-level results or evidence that each method produced 100 users.
+
+The methods fall into several useful groups:
+
+- Direct contact and feedback: small batches of outcome-focused cold emails, personalized social DMs with a roughly 15-second Loom audit, and a free annual early-adopter plan in exchange for trying the product and giving feedback. Explain why the recipient was selected. Rush suggests revising email copy after a 20-person batch gets no replies and aiming for two replies; these are his heuristics, not validated conversion benchmarks.
+- Demonstrations and proof: appear on relevant small podcasts, run a webinar with a partner who can bring an audience, and publish a customer ROI case study. If there are no customers yet, use the product yourself to create a concrete demonstration. Rush cites building AllGPTs with Unicorn Platform as his example. See [[proof-of-work-and-side-door-outreach]].
+- Existing communities and launch channels: introduce the product briefly in appropriate Slack or Discord channels, prepare for launch-platform exposure before launch day, inspect competitor backlinks to find directories and marketplaces, answer relevant Reddit or Quora questions, respond to competitor complaints, and contribute guest posts to smaller publications. The thread's no-link reply tactic does not establish permission to promote; apply the community-specific participation approach above.
+- Small audience partnerships: sponsor newsletters below 10,000 subscribers, cross-promote with products that have 10–100 users, or sponsor a relevant hackathon where participants can use the tool. Rush estimates a few hundred dollars for newsletter placements and about $500 for small events. These are source estimates without measured acquisition costs.
+- Product and search assets: launch a free extension, generator, directory, or calculator; publish search-oriented articles; or buy a small free app whose users closely match the paid product's audience. Rush gives a $1,000–$10,000 acquisition range. Audience overlap is the proposed mechanism, but the clipping supplies no retention or paid-conversion results. See [[micro-saas-and-bootstrapped-apps]] and [[seo-and-ai-search-strategy]].
+- Discounts, ads, and repeated posting: try lifetime-deal marketplaces, paid ads, or repeated social product introductions. The author acknowledges lifetime-deal discounts and platform fees, reports that major ad platforms did not work for him, and promotes his own B2B ad network. His claim that 100 days of copied viral post formats will eventually go viral is unsupported.
+
+For this wiki, the synthesis is to test a small number of channels against one audience and one outcome, record replies, activation, paid conversion, and effort, then expand the methods that attract suitable users. Free pilots can produce feedback without proving willingness to pay. This extends the manual-sales approach above rather than establishing a reason to run all 21 methods at once.
+
+The thread promotes several of the author's products. Its SEO targets of 50 articles and domain rating 15, newsletter ROI claims, example webinar conversion promise, and pricing ranges should remain attributed suggestions, not established benchmarks. The captured page also contains unrelated “More from” excerpts, which are excluded from this acquisition synthesis.
+
 ## Portfolio as Distribution Strategy
 
 The portfolio-math source reframes product count as a response to cheaper attempts and faster feedback. A portfolio of small apps only makes sense when distribution can expose each attempt to real users quickly; otherwise many products just multiply maintenance work. Distribution is the multiplier in the source's calculator because the same build hours produce more useful signal when the founder has an owned audience, existing search surface, community access, or other repeatable channel.
@@ -278,6 +295,8 @@ PostHog's SEO advice adds a disciplined organic layer for startups. Defensive SE
 The distribution lesson is restraint. Use a small SEO stack, talk to users before obsessing over keyword tools, write docs and tutorials that solve real problems, and double down once product-market fit is stable enough that the long-term content bets will not be invalidated by a pivot.
 
 ## Source Summaries
+
+`processed/Thread by @johnrushx on Thread Reader App.md`: John Rush's 21 first-user acquisition methods, including personalized audits, early-adopter pilots, small audience partnerships, free tools, and audience-matched app acquisitions. The clipping supplies tactics and promotional claims, not comparable channel results. Original source: https://threadreaderapp.com/thread/2117360616424050957.html .
 
 `processed/How ChatSEO Grew to €14K MRR Using Only Organic Traffic.md`: ChatSEO is an AI SEO assistant that reportedly reached about EUR14K MRR through founder credibility, strict beta feedback calls, simple pricing, free mini-audits, and an eight-channel organic growth system spanning LinkedIn, YouTube, outbound LinkedIn, newsletter, X, SEO, free tools, Reddit, podcasts, WhatsApp, and affiliates.
 

@@ -26,8 +26,8 @@ This index catalogs the compiled wiki topics from the current source set, organi
 - [[ai-native-service-agencies]] - How AI-enabled agencies package design, development, operations, automation, managed agents, and autopilot services as retainers, fixed projects, or outcome work.
 - [[cold-email-deliverability-2026]] - Cold email deliverability, template validation, personalization, reply-oriented prompt structure, and volume constraints.
 - [[website-conversion-and-b2b-lead-generation]] - Landing-page audits, B2B lead-generation fixes, productized lead-list workflows, copywriting rules, customer-language mining, homepage simplification, and conversion instrumentation.
-- [[distribution-led-ai-startups]] - Customer acquisition strategies for AI-built products: selective MCPs, quality-gated programmatic SEO, free tools, AEO, viral artifacts, product-native loops, owned loops, Reddit, newsletters, outbound, publication placement, unbundled wrappers, portfolios, and experimentation.
-- [[proof-of-work-and-side-door-outreach]] - Specific outbound, public artifacts, side-door opportunity creation, and proof that makes usefulness legible before a formal role, client need, or collaboration exists.
+- [[distribution-led-ai-startups]] - Customer acquisition strategies for AI-built products: selective MCPs, quality-gated programmatic SEO, free tools, AEO, viral artifacts, product-native loops, owned loops, Reddit, newsletters, outbound, publication placement, unbundled wrappers, portfolios, first-100-user experiments, and experimentation.
+- [[proof-of-work-and-side-door-outreach]] - Specific outbound, personalized video audits, public artifacts, side-door opportunity creation, and proof that makes usefulness legible before a formal role, client need, or collaboration exists.
 
 ## Search, Content, and Competitive Intelligence
 
@@ -228,3 +228,5 @@ This index catalogs the compiled wiki topics from the current source set, organi
 - `processed/Rob Walling - The Great SaaS Idea Checklist.md` - Covered in [[ai-assisted-market-research-and-validation]].
 - `processed/Rob Walling - The Landing Page Teardown.md` - Covered in [[website-conversion-and-b2b-lead-generation]].
 - `processed/blakeandersonwai-app-playbook How to build useful, profitable apps in 2026. Clone it and point your coding agent at AGENTS.md..md` - Covered in [[micro-saas-and-bootstrapped-apps]].
+
+- `processed/Thread by @johnrushx on Thread Reader App.md` - Covered in [[distribution-led-ai-startups]] and [[proof-of-work-and-side-door-outreach]].

@@ -43,7 +43,15 @@ The pattern is high-effort and low-volume by design. The advantage comes from be
 
 Chris Koerner's September 24, 2026 profile of freelance writer Steph adds a service-sales example. The source recommends creating four or five relevant samples before pitching, then showing specific knowledge of a prospect's product or published work. It describes pitches that led to work after Steph tried a founder's product or listened to an agency's podcast. The samples demonstrate delivery ability; the tailored message explains why that ability fits the client. See [[research-led-b2b-writing-services]] for the offer and reported economics.
 
+## Personalized audits and founder-created proof
+
+John Rush's first-100-users thread adds a compact proof artifact: a roughly 15-second Loom audit of the recipient's business, site, or profile, with a preview that visibly signals personalization. The point is to demonstrate that the sender has inspected a relevant problem before asking for attention. He also suggests explaining why someone was chosen for an early-adopter pilot and using the product yourself to create an initial case study when customer examples do not yet exist.
+
+These are source suggestions without measured reply or conversion results. A founder-created example can demonstrate the product, but it does not establish independent customer demand. The broader channel menu and its claim limits are covered in [[distribution-led-ai-startups]].
+
 ## Source Summaries
+
+`processed/Thread by @johnrushx on Thread Reader App.md`: Adds short personalized video audits, a specific reason for early-adopter outreach, and founder-created product examples as early acquisition proof.
 
 `processed/How to Get Paid $1,000 Per Article in the Age of AI.md`: Adds firsthand software testing, portfolio-led client acquisition, and narrated recordings as inputs to AI-assisted drafts.
 
