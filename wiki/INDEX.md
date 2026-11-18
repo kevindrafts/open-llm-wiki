@@ -22,7 +22,7 @@ This index catalogs the compiled wiki topics from the current source set, organi
 
 - [[ai-marketing-automation-workflows]] - Practical AI workflows for research, inbox handling, LinkedIn listening, public-question mining, reporting, homepage iteration, signal prospecting, content grading, site publishing, and marketing operations.
 - [[founder-led-b2b-content-systems]] - Expertise-led personal branding, repeatable founder content formats, raw-material inventories, proof-based posting, and content reuse as a revenue system.
-- [[service-business-ai-consulting]] - The AI assessment and implementation business model for local and service businesses.
+- [[service-business-ai-consulting]] - AI assessments, implementation, managed support agents, and website chat-and-voice retainers for local and service businesses.
 - [[ai-native-service-agencies]] - How AI-enabled agencies package design, development, operations, automation, managed agents, and autopilot services as retainers, fixed projects, or outcome work.
 - [[cold-email-deliverability-2026]] - Cold email deliverability, template validation, personalization, reply-oriented prompt structure, and volume constraints.
 - [[website-conversion-and-b2b-lead-generation]] - Landing-page audits, B2B lead-generation fixes, productized lead-list workflows, copywriting rules, customer-language mining, homepage simplification, and conversion instrumentation.
@@ -230,3 +230,5 @@ This index catalogs the compiled wiki topics from the current source set, organi
 - `processed/blakeandersonwai-app-playbook How to build useful, profitable apps in 2026. Clone it and point your coding agent at AGENTS.md..md` - Covered in [[micro-saas-and-bootstrapped-apps]].
 
 - `processed/Thread by @johnrushx on Thread Reader App.md` - Covered in [[distribution-led-ai-startups]] and [[proof-of-work-and-side-door-outreach]].
+
+- `processed/He's 60, Not a Tech Guy, and Makes $30KMonth With AI.md` - Covered in [[service-business-ai-consulting]], [[website-conversion-and-b2b-lead-generation]], and [[proof-of-work-and-side-door-outreach]].

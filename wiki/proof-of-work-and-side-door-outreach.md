@@ -49,7 +49,15 @@ John Rush's first-100-users thread adds a compact proof artifact: a roughly 15-s
 
 These are source suggestions without measured reply or conversion results. A founder-created example can demonstrate the product, but it does not establish independent customer demand. The broader channel menu and its claim limits are covered in [[distribution-led-ai-startups]].
 
+## Prospect-specific website agent demos
+
+Chris Koerner's November 12, 2026 Bob Brennan profile adds an in-person version of proof-led selling. Brennan reportedly spends 30-60 minutes recreating one page of a prospect's website with chat and voice widgets, prints the page with its URL highlighted, and brings a laptop to the meeting. He asks ChatGPT or Perplexity for five demonstration questions tied to that business, including less obvious specialties already described on its site.
+
+Brennan says forklift prospects struggled to imagine his phone-repair demo working for them. The lesson is to show the prospect's own context and workflow. He follows the demonstration with an approximately four-week free trial so the value discussion can use the prospect's traffic and inquiries. The source reports a 30%-40% close rate on prospects he did not know, without a sample size or measurement period. See [[service-business-ai-consulting]] for the offer and [[website-conversion-and-b2b-lead-generation]] for measurement limits.
+
 ## Source Summaries
+
+`processed/He's 60, Not a Tech Guy, and Makes $30KMonth With AI.md`: Adds prospect-specific website agent demos, business-specific demonstration questions, and a free trial as the bridge from proof to a retainer.
 
 `processed/Thread by @johnrushx on Thread Reader App.md`: Adds short personalized video audits, a specific reason for early-adopter outreach, and founder-created product examples as early acquisition proof.
 

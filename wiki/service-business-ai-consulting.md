@@ -147,7 +147,27 @@ The savings pitch assumes 5,000 monthly tickets, five minutes per ticket, and $2
 
 A practical pilot derived from this model would measure resolution quality, human handoffs, maintenance hours, and client retention before treating reporting as nearly automatic. The business opportunity connects [[proof-of-work-and-side-door-outreach]] with [[ai-native-service-agencies]] and the partner distribution model in [[micro-saas-and-bootstrapped-apps]].
 
+## Website AI concierge retainers
+
+Chris Koerner's November 12, 2026 profile describes Bob Brennan's service adding chat and voice agents to small-business websites through GoHighLevel. Brennan reportedly reached $25,000-$30,000 in monthly recurring revenue after about a year, serving around 26 clients at roughly $300-$4,000 monthly plus $1,000-$5,000 setup fees. These are interview claims about revenue, not audited profit. The newsletter promotes Koerner's agency program and includes a GoHighLevel referral offer.
+
+The offer focuses on converting existing traffic into appointments or callback requests. Brennan favors urgent, valuable inquiries, such as HVAC, plumbing, phone repair, and auto, and says his own niche is forklifts and pallet racking. He avoids sites with little traffic and businesses with full voicemail boxes. The implication is to qualify both demand and the client's ability to respond before installing another lead-capture tool.
+
+His reported sales and delivery sequence is:
+
+- Build a prospect-specific page with chat and voice widgets in 30-60 minutes, using the prospect's website as the starting material.
+- Prepare five questions that demonstrate knowledge of the business, then show the page in person. See [[proof-of-work-and-side-door-outreach]].
+- Pitch additional website leads and offer an approximately four-week trial without a credit card. His 10%-20% additional-lead pitch is a promise in the source, not a measured average improvement.
+- Use the owner's traffic data and trial results to discuss pricing. The source suggests asking AI for industry lead values; those estimates need validation against the owner's actual close rates and job economics.
+- Keep reviewing mistakes and improving the knowledge base after launch. Brennan says maintenance is what clients pay for, and recommends identifying the assistant as an AI guide even when it uses a cloned voice.
+
+The source estimates $300-$400 monthly software cost plus AI usage, and 1-2 monthly delivery hours for a $300 client versus 10-20 for a $4,000 client. It does not establish total labor, acquisition costs, churn, usage costs at scale, or margins. The reported 30%-40% close rate on unfamiliar prospects lacks a sample size and observation period. A diesel-engine client's 50 interested buyers in one month are leads, not confirmed sales.
+
+Brennan's pricing example treats $30,000 in lead value as support for a $3,000 monthly fee. The reusable idea is to price against demonstrated client value, but estimated lead value is not collected revenue. A pilot should separate inquiries, qualified leads, appointments, completed sales, and incremental profit before drawing an ROI conclusion. See [[website-conversion-and-b2b-lead-generation]] for the reported funnel figures and their limits.
+
 ## Source Summaries
+
+`processed/He's 60, Not a Tech Guy, and Makes $30KMonth With AI.md`: Bob Brennan case on niche website chat-and-voice retainers, prospect qualification, trial-based pricing, and ongoing knowledge-base maintenance. Financial and performance figures are attributed interview claims.
 
 `processed/The Easiest Way to Make Money With AI Right Now.md`: Koerner's DocsBot interview recap describes niche support-agent setup and retainers, prospect-specific demos, workload-based pricing, and monthly documentation feedback. Pricing, resolution rates, and savings remain attributed to the newsletter.
 

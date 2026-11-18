@@ -191,7 +191,17 @@ Rob Walling's teardown grades three parts of the page as pass, weak, or miss. Ca
 
 Ask subscribers whether they want updates, might buy, or want to buy at launch. Record their referral source alongside that answer. Ten existing readers following the build tell you something different from ten prospects asking for a demo. Label third-party quotes accurately and save mock-ups for interviews where you can hear what the buyer misunderstood. Feed those answers back into [[ai-assisted-market-research-and-validation]].
 
+## Chat and voice as website lead capture
+
+Chris Koerner's November 12, 2026 Bob Brennan profile describes answering visitor questions through website chat and voice, then offering booking or a callback. Brennan says moving the assistant higher on the page and changing the invitation to “Need a quick answer?” improved the approach, but the clipping supplies no controlled before-and-after result. It also stresses ongoing correction of answers and knowledge-base maintenance. See [[service-business-ai-consulting]] for the retainer model.
+
+For Brennan's own phone-repair shop, the newsletter reports 350-500 monthly website visits, about 130 AI conversations, and about 60 appointments or callback requests. Calculated from those counts, conversations represent roughly 26%-37% of visits and appointments or callback requests roughly 12%-17%. His separate rule of thumb is 5% of visitors talking to the AI and 2.5% becoming leads. The shop anecdote therefore cannot be presented as evidence for those general rates. The clipping does not explain counting methods, unique visitors, repeat conversations, or whether all bookings came through the assistant.
+
+A useful measurement plan derived from the case would track unique visitors, assistant interactions, qualified inquiries, bookings, and completed sales separately, with a baseline before the change. The source does not show how many inquiries were incremental rather than diverted from existing phone or form channels. Qualifying traffic and response capacity matters because an unanswered callback request does not establish business value.
+
 ## Source Summaries
+
+`processed/He's 60, Not a Tech Guy, and Makes $30KMonth With AI.md`: Adds website assistant placement and copy experiments, reported phone-repair funnel counts, and the distinction between those counts and the author's general conversion heuristic.
 
 - `processed/Rob Walling - The Landing Page Teardown.md`
 
