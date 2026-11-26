@@ -294,6 +294,18 @@ PostHog's SEO advice adds a disciplined organic layer for startups. Defensive SE
 
 The distribution lesson is restraint. Use a small SEO stack, talk to users before obsessing over keyword tools, write docs and tutorials that solve real problems, and double down once product-market fit is stable enough that the long-term content bets will not be invalidated by a pivot.
 
+## Ready-to-publish posts for niche LinkedIn pages
+
+Tom Orbach offered The Cyber Security Hub a finished Wiz meme about the relief of reaching zero critical issues. The page published and credited Wiz. Orbach reports thousands of new followers per placement and no placement fee. The clipping does not measure leads or sales.
+
+Look for active pages your buyers already follow, especially niche hubs that have credited outside contributors. Send a finished joke about a problem readers recognize and offer permission to republish material you have rights to share. Make the brand tag optional and include a ready-to-use caption. If it runs, join the thread from the company account and mention the product where it fits. Use the same email thread to pitch a follow-up and share the previous post's results.
+
+## Cursor and switching costs
+
+Corey Haines attributes Cursor's early growth to its VS Code fork, self-serve adoption for individuals, a large developer market, and rising demand for AI coding tools. The fork gave users familiar shortcuts and workflows, reducing the cost of trying a new editor. The transferable question is which existing habits and tools a product can preserve during adoption.
+
+Haines reports that Cursor went from $1M to $100M ARR in 12 months. The clipping provides no underlying revenue data, and the starting point for the Wiz, Deel, and Ramp comparisons is unclear. Treat the figures as reported case history and the explanations as hypotheses.
+
 ## Source Summaries
 
 `processed/Thread by @johnrushx on Thread Reader App.md`: John Rush's 21 first-user acquisition methods, including personalized audits, early-adopter pilots, small audience partnerships, free tools, and audience-matched app acquisitions. The clipping supplies tactics and promotional claims, not comparable channel results. Original source: https://threadreaderapp.com/thread/2117360616424050957.html .
@@ -392,8 +404,13 @@ The distribution lesson is restraint. Use a small SEO stack, talk to users befor
 
 `processed/Reddit Moderator Outreach How to Work With Subreddit Mods.md`: Adds disclosed brand outreach, specific community value, moderator-selected communication cadence, and Sonos's reported path from email contact to product feedback. Several outreach subheadings have no body text in the clipping, so the source does not provide the full step-by-step detail its introduction promises.
 
+`processed/I got a 2M-follower LinkedIn page to post our memes (for free) 🖼️.md` documents the Wiz placement and outreach process.
+
+`processed/The fastest growing SaaS companies EVER.md` covers Cursor’s early self-serve growth and ecosystem reuse.
+
 ## Related
 
+- [[saas-growth-roadmap]]
 - [[ai-native-startup-strategy]]
 - [[ai-assisted-market-research-and-validation]]
 - [[seo-and-ai-search-strategy]]

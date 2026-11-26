@@ -199,6 +199,12 @@ For Brennan's own phone-repair shop, the newsletter reports 350-500 monthly webs
 
 A useful measurement plan derived from the case would track unique visitors, assistant interactions, qualified inquiries, bookings, and completed sales separately, with a baseline before the change. The source does not show how many inquiries were incremental rather than diverted from existing phone or form channels. Qualifying traffic and response capacity matters because an unanswered callback request does not establish business value.
 
+## A SaaS homepage sequence
+
+Corey Haines starts with an outcome headline, a plain description of the product, a primary action, and a product visual. Address a likely objection near the CTA. Then show the difference between the current workflow and the proposed one, explain core features through buyer benefits, and show relevant integrations and the steps to get started. Repeat the primary CTA with the right reassurance at the end. Add a founder story or walkthrough when it answers a buyer question, and place proof near the claims it supports.
+
+Haines reports a 20% conversion increase after adding quotes to one client's hero and a 17% increase after repositioning another client around creators. The clipping gives no baselines, sample sizes, or test design. Use the sequence as a starting point and measure the effect on qualified demos, signups, or paid customers as appropriate.
+
 ## Source Summaries
 
 `processed/He's 60, Not a Tech Guy, and Makes $30KMonth With AI.md`: Adds website assistant placement and copy experiments, reported phone-repair funnel counts, and the distinction between those counts and the author's general conversion heuristic.
@@ -241,8 +247,11 @@ A useful measurement plan derived from the case would track unique visitors, ass
 
 `processed/Hitting $125k MRR as a solo founder by doubling down on the right segment.md`: Adds a practical VOC loop for conversion work: use post-purchase, exit-intent, and churn-adjacent questions to collect real objection language, then feed that back into packaging, page copy, onboarding, and churn reduction.
 
+`processed/My guaranteed process for improving website conversions.md` adds Conversion Factory’s homepage sequence, proof placement, and two agency-reported examples.
+
 ## Related
 
+- [[saas-growth-roadmap]]
 - [[distribution-led-ai-startups]]
 - [[seo-and-ai-search-strategy]]
 - [[ai-assisted-market-research-and-validation]]

@@ -25,6 +25,7 @@ This index catalogs the compiled wiki topics from the current source set, organi
 - [[service-business-ai-consulting]] - AI assessments, implementation, managed support agents, and website chat-and-voice retainers for local and service businesses.
 - [[ai-native-service-agencies]] - How AI-enabled agencies package design, development, operations, automation, managed agents, and autopilot services as retainers, fixed projects, or outcome work.
 - [[cold-email-deliverability-2026]] - Cold email deliverability, template validation, personalization, reply-oriented prompt structure, and volume constraints.
+- [[saas-growth-roadmap]] - Customer research, positioning, conversion and activation, and expansion channels.
 - [[website-conversion-and-b2b-lead-generation]] - Landing-page audits, B2B lead-generation fixes, productized lead-list workflows, copywriting rules, customer-language mining, homepage simplification, and conversion instrumentation.
 - [[distribution-led-ai-startups]] - Customer acquisition strategies for AI-built products: selective MCPs, quality-gated programmatic SEO, free tools, AEO, viral artifacts, product-native loops, owned loops, Reddit, newsletters, outbound, publication placement, unbundled wrappers, portfolios, first-100-user experiments, and experimentation.
 - [[proof-of-work-and-side-door-outreach]] - Specific outbound, personalized video audits, public artifacts, side-door opportunity creation, and proof that makes usefulness legible before a formal role, client need, or collaboration exists.
@@ -57,6 +58,11 @@ This index catalogs the compiled wiki topics from the current source set, organi
 - [[design-principles-for-ai-app-development]] - A practical critique language for AI-generated interfaces built around contrast, hierarchy, alignment, proximity, repetition, balance, white space, and unity.
 
 ## Source Coverage
+
+- `processed/I got a 2M-follower LinkedIn page to post our memes (for free) 🖼️.md` - Covered in [[distribution-led-ai-startups]].
+- `processed/My guaranteed process for improving website conversions.md` - Covered in [[website-conversion-and-b2b-lead-generation]].
+- `processed/Open sourcing my SaaS growth roadmap.md` - Covered in [[saas-growth-roadmap]].
+- `processed/The fastest growing SaaS companies EVER.md` - Covered in [[distribution-led-ai-startups]].
 
 - `processed/How to be more ambitious A tutorial for humans with models.md` - Metadata-only clipping; linked article retrieved and summarized in [[ambitious-ai-task-design]], with a connection in [[software-factories-and-agent-loops]].
 
